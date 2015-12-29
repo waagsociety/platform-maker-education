@@ -1,0 +1,30 @@
+.header
+	height 100vh
+	width 100%
+	background url(../images/header_bg.jpg);
+	background-size cover
+	background-position center center
+	background-attachment fixed
+	.headerSign
+		color white
+		position absolute
+		left 50%
+		top 50%
+		z-index 2
+		transform translate(-50%, -50%)
+		text-align center
+		h1,
+		h2
+			margin-bottom .2em
+		h2
+			font-family 'brandon_textlight', sans-serif
+			text-transform none
+	
+.header:before
+	content ""
+	top 0
+	left 0
+	right 0
+	bottom 0
+	position absolute
+	background rgba(68,41,209,.4)

@@ -1,0 +1,21 @@
+Textcolor: #ffffff
+
+----
+
+Pagecolor: #d15858
+
+----
+
+Title: Our machines
+
+----
+
+Subtitle: 
+
+----
+
+Intro: dsasda
+
+----
+
+Text: dassddsa
