@@ -30,9 +30,9 @@ gulp start
 ## Font
 Headers<br />
 Polya<br />
-https://www.behance.net/gallery/20118341/POLYA-Free-Font
+<https://www.behance.net/gallery/20118341/POLYA-Free-Font><br />
 Brandon text<br />
-http://hvdfonts.com/brandontext/
+<http://hvdfonts.com/brandontext>
 
 ## Libraries used
 CSShake<br />

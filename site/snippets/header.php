@@ -36,10 +36,7 @@
         data--550-top="right: 100vw; top: 500px; width: 400px;"
         data-anchor-target="#projectHeader">
 
-      <svg x="0px" y="0px" viewBox="0 0 346 252" style="enable-background:new 0 0 346 252;" xml:space="preserve">
-        <style type="text/css">
-          .st0{fill:none;stroke:#0000FF;stroke-width:3;stroke-miterlimit:10;}
-        </style>
+      <svg x="0px" y="0px" viewBox="0 0 346 252" style="enable-background:new 0 0 346 252;">
         <g id="brushes">
           <line class="st0" x1="84.5" y1="164.7" x2="69.4" y2="250"/>
           <line class="st0" x1="98.9" y1="164.7" x2="83.8" y2="250"/>
@@ -77,9 +74,6 @@
       data--350-top="left: 80vw; bottom: 550px; transform: scale(.2);"
       data-anchor-target="#projectHeader">
       <svg x="0px" y="0px" viewBox="0 0 418 265" style="enable-background:new 0 0 418 265;">
-        <style type="text/css">
-          .st0{fill:none;stroke:#0000FF;stroke-width:4;stroke-miterlimit:10;}
-        </style>
         <g>
           <polyline class="st0" points="137.1,159.5 250,260.5 412,4.5 6,42.1 92.5,119.5   "/>
           <polyline class="st0" points="92.5,119.5 84.2,242.6 180.5,197.6   "/>
