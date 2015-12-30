@@ -3,7 +3,7 @@
 	height 40px
 	position fixed
 	left 80px
-	top 38px
+	top 39px
 	z-index 2
 	display block
 	&:hover
@@ -15,19 +15,19 @@
 		transition transform .2s ease-in-out
 		rect
 			fill #fff
-	
 .home_btn:hover
 	svg
 		transform scale(1.2)
 
 .main
-	margin-bottom 50vh
-	float left
 	section
 		padding 40px
 		background #4429D1
 		border-bottom 2px solid white
-		border-right 2px solid white
+		border-left 2px solid white
+		text-align center
+		&:first-child
+			border-left none
 		a
 			color white
 		
@@ -50,12 +50,11 @@
 	h5,
 	h6,
 	ul
-		max-width 800px
+		max-width 700px
 		margin-left auto
 		margin-right auto
 		text-transform none
 	p
-		font-family 'Merriweather', serif
 		color #333
 		strong
 			font-family 'brandon_textbold', sans-serif
@@ -121,8 +120,15 @@
 	width 100%
 	background-color #F0F0F0;
 	padding 50px
-	height 50vh
-	position fixed
-	bottom 0
-	left 0
-	z-index -1
+	
+footer
+	padding 30px 50px
+	float left
+	width 100%
+	border-top 1px solid white
+	z-index 3
+	position relative
+	p
+		margin 0
+		opacity .5
+		font-size 1em

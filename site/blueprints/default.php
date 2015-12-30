@@ -29,6 +29,9 @@ fields:
   intro:
     label: Intro
     type:  textarea
+    validate:
+      min: 4
+      max: 140
   text:
     label: Text
     type:  textarea

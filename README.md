@@ -25,3 +25,28 @@ npm install <br />
 bower install enquire <br />
 gulp <br />
 gulp start
+
+
+## Font
+Headers<br />
+Polya<br />
+https://www.behance.net/gallery/20118341/POLYA-Free-Font
+Brandon text<br />
+http://hvdfonts.com/brandontext/
+
+## Libraries used
+CSShake<br />
+A small CSS library for creating CSS shaking animations<br />
+<http://elrumordelaluz.github.io/csshake/#1>
+
+Skrollr<br />
+Parralax scrolling library<br />
+<https://github.com/Prinzhorn/skrollr>
+
+Modernizr<br />
+Detecting touch devices to break skrollr<br />
+<https://modernizr.com>
+
+Enquire
+enquire.js is a lightweight, pure JavaScript library for responding to CSS media queries.
+<http://wicky.nillia.ms/enquire.js>

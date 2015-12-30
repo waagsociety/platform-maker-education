@@ -31,7 +31,9 @@ $last  = $items->last();
   	</ul>
   </section>
 	<footer>
-		
+    <p>
+      Made with &hearts; by <a href="http://www.waag.org">Waag Society</a>
+    </p>
 	</footer>
   <?php echo js('assets/js/output.min.js') ?>
 </body>

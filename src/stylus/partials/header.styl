@@ -13,12 +13,13 @@
 		z-index 2
 		transform translate(-50%, -50%)
 		text-align center
-		h1,
-		h2
+		h1
 			margin-bottom .2em
+			font-size 4em
 		h2
 			font-family 'brandon_textlight', sans-serif
 			text-transform none
+			font-size 1.3em
 	
 .header:before
 	content ""
@@ -28,3 +29,37 @@
 	bottom 0
 	position absolute
 	background rgba(68,41,209,.4)
+	animation pulse 40s infinite alternate
+	animation-timing-function ease-in-out
+
+@keyframes pulse
+	0%
+		background-color rgba(255,0,0,.4)
+	33%
+		background-color rgba(0,255,0,.4)
+	67%
+		background-color rgba(0,0,255,.4)
+	100%
+		background-color rgba(0,255,255,.4)
+
+
+#bristelbot
+	width 200px
+	position absolute
+	top 100px
+	right 100px
+	svg
+		width 100%
+		path,
+		ellipse,
+		line
+			stroke white
+			
+#plane
+	width 300px
+	position absolute
+	bottom 100px
+	left 100px
+	svg
+		polyline
+			stroke white
