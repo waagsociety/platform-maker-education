@@ -1,4 +1,4 @@
-Title: I want to make
+Title: Kaart
 
 ----
 
@@ -19,7 +19,7 @@ In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum fe
 
 ----
 
-Intro: Fablab Amsterdam is closed during the Xmas holiday season between 21 December and 12 January. There will be no open days during this period.
+Intro: Hier komt de kaart
 
 ----
 
@@ -52,3 +52,7 @@ Fullheight: 1
 ----
 
 Elementheight: full-height
+
+----
+
+Icon: 

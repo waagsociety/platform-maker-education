@@ -16,11 +16,8 @@ gulp.task('css', function () {
 
 gulp.task('js', function() {
   gulp.src([
-    'bower_components/enquire/dist/enquire.js',
-    'src/scripts/modernizr_touch_detect.min.js',
     'src/scripts/slideMenu.js',
-    'src/scripts/scrollEffect.js',
-    'src/scripts/typingText.js',
+    'src/scripts/scrollAnimate.js',
     'src/scripts/init.js'
   ])
     // concat pulls all our files together before minifying them
@@ -36,7 +33,7 @@ gulp.task('jshint', function() {
 
 gulp.task('watch', function () {
    gulp.watch('src/stylus/**/*.styl', ['css']);
-   gulp.watch('src/scripts/*.js', ['js']);
+   gulp.watch('src/scripts/*.js', ['jshint', 'js']);
 });
 
 gulp.task('default', ['css', 'jshint', 'js']);

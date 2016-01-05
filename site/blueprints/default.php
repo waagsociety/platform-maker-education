@@ -10,6 +10,12 @@ fields:
     mode:  single
     types:
         - image
+  icon:
+    label: Icon
+    type:  selector
+    mode:  single
+    types:
+        - image
   textcolor:
     label: Textcolor for the homepage
     type:  color

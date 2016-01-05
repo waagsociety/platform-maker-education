@@ -1,0 +1,45 @@
+Textcolor: #ffffff
+
+----
+
+Pagecolor: #fc7d7d
+
+----
+
+Title: Vraag een voucher aan
+
+----
+
+Intro: Met de voucher krijg je korting
+
+----
+
+Text: Hier kan je een voucher aanvragen.
+
+----
+
+Subtitle: 
+
+----
+
+Heroimage: academy.jpg
+
+----
+
+Layout: four-col
+
+----
+
+Videolink: 
+
+----
+
+Fullheight: 0
+
+----
+
+Elementheight: half-height
+
+----
+
+Icon: voucher.svg

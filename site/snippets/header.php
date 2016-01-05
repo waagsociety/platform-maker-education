@@ -8,19 +8,14 @@
   <meta name="description" content="<?php echo $site->description()->html() ?>">
   <meta name="keywords" content="<?php echo $site->keywords()->html() ?>">
   <?php echo css('assets/css/main.css') ?>
-  <?php echo css('assets/css/shake.css') ?>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/skrollr/0.6.30/skrollr.min.js"></script>
 
 </head>
 <body>
-  <header id="projectHeader" class="header cf" role="banner" style="background-image: url(/content/<?php echo $page->diruri() ?>//<?php echo html($page->heroimage()) ?>);">
+  <header id="projectHeader" class="header cf" role="banner" style="background-image: url(/content/<?php echo $page->diruri() ?>/<?php echo html($page->heroimage()) ?>);">
     <?php snippet('menu') ?>
-    <section class="headerSign"
-        data-top="transform: translate(-50%, -50%) scale(1);"
-        data--250-top="transform: translate(-50%, -0%) scale(.7);"
-        data-anchor-target="#projectHeader">
+    <section class="headerSign">
       <h1><?php echo $page->title()->html() ?></h1>
-      <h2 id="typingText" data-text="<?php echo $page->subtitle()->html() ?>"></h2>
+      <h2><?php echo $page->subtitle()->html() ?></h2>
     </section>
 
     <?php if($page->videolink()->isNotEmpty()): ?>
@@ -31,11 +26,7 @@
       </div>
     <?php endif ?>
     
-    <div id="bristelbot" class="shake-hard shake-constant"
-        data-top="right: 5vw; top: 100px; width: 220px;"
-        data--550-top="right: 100vw; top: 500px; width: 400px;"
-        data-anchor-target="#projectHeader">
-
+    <div id="bristelbot">
       <svg x="0px" y="0px" viewBox="0 0 346 252" style="enable-background:new 0 0 346 252;">
         <g id="brushes">
           <line class="st0" x1="84.5" y1="164.7" x2="69.4" y2="250"/>
@@ -69,17 +60,7 @@
         </g>
       </svg>
     </div>
-    <div id="plane"
-      data-top="left: 5vw; bottom: 50px; transform: scale(1);"
-      data--350-top="left: 80vw; bottom: 550px; transform: scale(.2);"
-      data-anchor-target="#projectHeader">
-      <svg x="0px" y="0px" viewBox="0 0 418 265" style="enable-background:new 0 0 418 265;">
-        <g>
-          <polyline class="st0" points="137.1,159.5 250,260.5 412,4.5 6,42.1 92.5,119.5   "/>
-          <polyline class="st0" points="92.5,119.5 84.2,242.6 180.5,197.6   "/>
-          <polyline class="st0" points="84.2,242.6 137.1,159.5 412,4.5 92.5,119.5   "/>
-        </g>
-      </svg>
+    <div id="plane">
+      
     </div>
-
   </header>

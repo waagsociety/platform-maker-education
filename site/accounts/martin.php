@@ -7,8 +7,8 @@ password: >
 language: en
 role: admin
 history:
-  - fab-academy
+  - voucher
+  - vraag-aanbod
+  - i-want-to-make
+  - wat-is-maker-education
   - home
-  - newsletter
-  - openthings
-  - open-days

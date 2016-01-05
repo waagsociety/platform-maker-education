@@ -1,4 +1,4 @@
-Title: Fablab Amsterdam
+Title: Platform Maker Education
 
 ----
 
@@ -6,11 +6,11 @@ Author: Martin Risseeuw
 
 ----
 
-Description: Fablab Amsterdam website
+Description: Platform Maker Education
 
 ----
 
-Keywords: Fablab,Amsterdam,Maker
+Keywords: Fablab,Amsterdam,Maker,Education
 
 ----
 

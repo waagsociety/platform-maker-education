@@ -7,4 +7,6 @@
     </div>
   </main>
 
+
+<?php snippet('contact') ?>
 <?php snippet('footer') ?>
