@@ -6,7 +6,7 @@
       <?php echo $page->text()->kirbytext() ?>
     </div>
   </main>
-
-
-<?php snippet('contact') ?>
+<?php if($page->voucherform() == '1'): ?>
+	<?php snippet('voucher') ?>
+<?php endif ?>
 <?php snippet('footer') ?>

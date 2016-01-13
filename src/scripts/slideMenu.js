@@ -2,6 +2,9 @@
 var debug = false;
 
 function initEventHandlers() {
+	var gridViewBtn = document.getElementById( 'girdbutton' );
+		gridViewBtn.addEventListener( 'click', openGridView );
+
 	if(debug){
 		console.log('initing event handlers');
 	}
@@ -9,7 +12,7 @@ function initEventHandlers() {
 		Document query selector doesn't return an array. Use array.prototype method for each. 
 		Select every data-openselector and bind an evenlistener to it.
 	*/
-  Array.prototype.forEach.call( document.querySelectorAll('[data-openselector]'), bindToggleOpen );
+  	Array.prototype.forEach.call( document.querySelectorAll('[data-openselector]'), bindToggleOpen );
 }
 
 function bindToggleOpen( element ) {
@@ -22,4 +25,9 @@ function toggleOpen(){
 	this.classList.toggle('open');
 	openElement.classList.toggle('open');
 	document.body.classList.toggle('noScroll');
+}
+
+function openGridView(){
+	var projectContainer = document.querySelector( '.projects' );
+		projectContainer.classList.toggle( 'grid-view' );
 }

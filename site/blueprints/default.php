@@ -16,12 +16,6 @@ fields:
     mode:  single
     types:
         - image
-  textcolor:
-    label: Textcolor for the homepage
-    type:  color
-  pagecolor:
-    label: Section color for the homepage
-    type:  color
   title:
     label: Title
     type:  text
@@ -58,4 +52,19 @@ fields:
     options:
       full-height: Full height
       half-height: Half height
+
+  voucherform:
+    label: Show the voucher form on the page
+    type: checkbox
+    text: Show voucherform
+
+  border:
+    label: Show border
+    type: checkboxes
+    options:
+      borderTop: Top
+      borderRight: Right
+      borderBottom: Bottom
+      borderLeft: Left
+
 

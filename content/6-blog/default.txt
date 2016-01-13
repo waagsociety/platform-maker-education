@@ -1,0 +1,41 @@
+Heroimage: maker3.jpg
+
+----
+
+Icon: hammer.svg
+
+----
+
+Title: Nieuws
+
+----
+
+Videolink: 
+
+----
+
+Subtitle: 
+
+----
+
+Intro: Je dagelijks portie makers nieuws
+
+----
+
+Text: 
+
+----
+
+Layout: two-col
+
+----
+
+Elementheight: half-height
+
+----
+
+Voucherform: 0
+
+----
+
+Border: borderTop, borderLeft

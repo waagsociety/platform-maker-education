@@ -7,8 +7,8 @@ password: >
 language: en
 role: admin
 history:
+  - agenda-maker-education
   - voucher
-  - vraag-aanbod
-  - i-want-to-make
-  - wat-is-maker-education
   - home
+  - voucher/bedankt
+  - projects/onderbouw

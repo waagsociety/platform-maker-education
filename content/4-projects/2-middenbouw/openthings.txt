@@ -1,0 +1,37 @@
+Heroimage: 
+
+----
+
+Icon: 
+
+----
+
+Api: 
+
+----
+
+Title: Middenbouw
+
+----
+
+Videolink: 
+
+----
+
+Subtitle: 
+
+----
+
+Intro: 
+
+----
+
+Text: 
+
+----
+
+Layout: three-col
+
+----
+
+Elementheight: half-height

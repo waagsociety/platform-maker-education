@@ -23,9 +23,7 @@
 	.item
 		color white
 		padding 40px
-		background #4429D1
-		border-bottom 2px solid white
-		border-left 2px solid white
+		background #7358FF
 		text-align center
 		background-repeat no-repeat
 		background-size 60%
@@ -35,6 +33,10 @@
 			background-size 70%
 		&:first-child
 			border-left none
+		&:nth-of-type(3)
+			border-bottom none
+		&:nth-of-type(4)
+			border-bottom none
 		a
 			color white
 		p
@@ -185,6 +187,8 @@ svg
 .projects
 	width 100%
 	height 100vh
+	.st0
+		fill #fff
 	nav
 		width 40%
 		position absolute
@@ -198,7 +202,7 @@ svg
 			width 50%
 			height 100%
 			cursor pointer
-			transition .2s ease-in-out
+			transition opacity .2s ease-in-out
 			&:hover
 				background-color darken(callToColor, 20%)
 			&:first-child
@@ -212,24 +216,57 @@ svg
 				transform translate(-50%, -50%)
 	.projectItem
 		position absolute
+		width 100%
+		height 100%
 		top 0
 		left 0
 		bottom 0
 		right 0
 		background-size cover
 		background-repeat no-repeat
+		list-style none
 		font-size .875em
+		.btn-2
+			margin-right 10px
 		div
-			width 40%
+			width 35%
 			height 100%
 			position absolute
 			left 0
-			top 0
-			background rgba(255,255,255, .9)
-			padding 10% 50px
+			bottom 0
+			color white
+			background rgba(#7358ff, .85)
+			padding 5% 50px
 			.btn
 				margin-bottom 20px
-				
+
+.grid-view
+	.projectItem
+		position relative
+		float left
+		width 33.33%
+		height 50%
+		opacity 1
+		div
+			width 100%
+			height 100%
+			opacity 0
+			padding 40px
+			transition opacity .2s ease-in-out
+			font-size .875em
+			
+			.btn
+				margin-bottom 20px
+			&:hover
+				opacity 1
+#girdbutton
+	width 20px
+	height 20px
+	cursor pointer
+	position absolute;
+	right 20px
+	top 20px
+	z-index 3
 .contact
 	width 100%
 	float left
@@ -237,7 +274,7 @@ svg
 	padding 50px
 	color white
 	.inner
-		max-width 600px
+		max-width 700px
 		margin auto
 	form
 		font-size 1.45em
@@ -253,3 +290,64 @@ svg
 		border-bottom 4px solid white
 		color white
 		width 100%
+		
+.card-page
+	width 50%
+	height 100vh
+	float left
+	#makermap
+		width 100%
+		height 100%
+		
+.meer-lessen
+	z-index 99
+.sectionHeader
+	padding 50px;
+	text-align center
+	float left
+	width 100%
+
+.full-width-label
+	width 100%
+	float left
+.contact
+	.input_anders
+		width 50%
+		margin-bottom 0
+	.radio-block 
+		width 50%
+		height 70px
+		label
+			padding-left 20px
+			position relative
+			top 0
+		input[type="radio"]
+			width auto
+			top 15px
+	::-webkit-input-placeholder
+		color white
+
+	:-moz-placeholder
+		color white
+
+	::-moz-placeholder
+		color: white
+
+	:-ms-input-placeholder
+		color white
+
+	::-ms-input-placeholder
+		color white
+		
+	:placeholder-shown
+		color white
+		
+
+.borderLeft
+	border-left 2px solid white
+.borderTop
+	border-top 2px solid white
+.borderRight
+	border-right 2px solid white
+.borderBottom
+	border-bottom 2px solid white

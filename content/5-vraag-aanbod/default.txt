@@ -26,7 +26,7 @@ Text: Kan je wat hulp gebruiken? Hier komt vraag & aanbod
 
 ----
 
-Layout: four-col
+Layout: two-col
 
 ----
 
@@ -39,3 +39,11 @@ Elementheight: half-height
 ----
 
 Icon: vraag.svg
+
+----
+
+Voucherform: 0
+
+----
+
+Border: borderTop

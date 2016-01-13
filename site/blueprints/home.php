@@ -15,6 +15,9 @@ fields:
   subtitle:
     label: Sub title
     type:  text  
+  api:
+    label: Link to the API
+    type:  text
   address:
     label: Fablab address
     type:  text 	

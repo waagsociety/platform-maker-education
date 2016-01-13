@@ -1,0 +1,41 @@
+Heroimage: 
+
+----
+
+Icon: 
+
+----
+
+Api: 
+
+----
+
+Title: Bovenbouw
+
+----
+
+Videolink: 
+
+----
+
+Subtitle: 
+
+----
+
+Intro: 
+
+----
+
+Text: 
+
+----
+
+Layout: three-col
+
+----
+
+Elementheight: half-height
+
+----
+
+Border: borderLeft

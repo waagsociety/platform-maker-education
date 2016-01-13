@@ -18,7 +18,7 @@ Yay! If you are seeing this, the installation of Kirby worked. :)
 
 ----
 
-Subtitle: Het Platform Maker Education gaat met steun van het  Ministerie van OCW het maakonderwijs in Nederland op de kaart zetten.
+Subtitle: 
 
 ----
 
@@ -27,3 +27,7 @@ Address: De Waag, Nieuwmarkt 4, Amsterdam
 ----
 
 Heroimage: maker3.jpg
+
+----
+
+Api: "http://localhost:8080/api/projects/search?title=&difficulty= upToStarter&state=downToDevAdvanced"

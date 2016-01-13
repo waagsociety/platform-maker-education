@@ -1,0 +1,41 @@
+Heroimage: maker3.jpg
+
+----
+
+Icon: hammer.svg
+
+----
+
+Title: Vraag voucher aan
+
+----
+
+Videolink: 
+
+----
+
+Subtitle: Get a voucher on this page!
+
+----
+
+Intro: Let's get a voucher
+
+----
+
+Text: Cool!
+
+----
+
+Layout: four-col
+
+----
+
+Elementheight: half-height
+
+----
+
+Voucherform: 1
+
+----
+
+Border: borderBottom, borderLeft
