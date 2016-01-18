@@ -21,6 +21,7 @@ gulp.task('js', function() {
     'src/scripts/slideMenu.js',
     'src/scripts/scrollAnimate.js',
     'src/scripts/slider.js',
+    'src/scripts/eventHandlers.js',
     'src/scripts/init.js'
   ])
     // concat pulls all our files together before minifying them

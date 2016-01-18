@@ -30,4 +30,4 @@ Heroimage: maker3.jpg
 
 ----
 
-Api: "http://localhost:8080/api/projects/search?title=&difficulty= upToStarter&state=downToDevAdvanced"
+Api: "http://localhost:8080/api/projects/search?title=&difficulty= upToStarter&state=onlyMature"

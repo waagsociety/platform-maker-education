@@ -1,0 +1,41 @@
+Heroimage: 
+
+----
+
+Icon: 
+
+----
+
+Title: Bedankt
+
+----
+
+Videolink: 
+
+----
+
+Subtitle: Bedankt
+
+----
+
+Intro: Bedankt
+
+----
+
+Text: Bedankt
+
+----
+
+Layout: one-col
+
+----
+
+Elementheight: full-height
+
+----
+
+Voucherform: 0
+
+----
+
+Border: 

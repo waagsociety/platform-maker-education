@@ -1,0 +1,41 @@
+Heroimage: maker3.jpg
+
+----
+
+Icon: calendar.svg
+
+----
+
+Title: Agenda Maker Education
+
+----
+
+Videolink: 
+
+----
+
+Subtitle: Agenda Maker Education
+
+----
+
+Intro: Agenda Maker Education
+
+----
+
+Text: Agenda Maker Education
+
+----
+
+Layout: four-col
+
+----
+
+Elementheight: half-height
+
+----
+
+Voucherform: 0
+
+----
+
+Border: borderBottom, borderLeft

@@ -8,7 +8,7 @@ language: en
 role: admin
 history:
   - agenda-maker-education
-  - voucher
-  - home
-  - voucher/bedankt
-  - projects/onderbouw
+  - agenda-maker-education/bedankt
+  - zet-jezelf-op-de-kaart/bedankt
+  - zet-jezelf-op-de-kaart
+  - wat-is-maker-education

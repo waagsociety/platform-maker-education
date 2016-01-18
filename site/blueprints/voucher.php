@@ -53,11 +53,6 @@ fields:
       full-height: Full height
       half-height: Half height
 
-  voucherform:
-    label: Show the voucher form on the page
-    type: checkbox
-    text: Show voucherform
-
   border:
     label: Show border
     type: checkboxes
@@ -66,5 +61,3 @@ fields:
       borderRight: Right
       borderBottom: Bottom
       borderLeft: Left
-
-

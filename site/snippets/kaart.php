@@ -19,4 +19,5 @@
 
 		map.fitBounds(llb);
 	</script>
+	<a href="zet-jezelf-op-de-kaart" class="btn btn-2 kaartBtn">Zet jezelf op de kaart</a>
 </section>
