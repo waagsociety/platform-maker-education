@@ -11,24 +11,12 @@
 
 
 <script type="text/javascript">
-	var myHeaders = new Headers();
-
-	var myInit = { method: 'GET',
-	               headers: myHeaders,
-	               mode: 'no-cors',
-	               cache: 'default' };
-
-	var myRequest = new Request(<?php echo $page->api()->text() ?>,myInit);
-
-	fetch(myRequest,myInit)
+	fetch(<?php echo $page->api()->text() ?>)
 	.then(function(response) {
 	  return response.json()
 	})
 	.then(function(json) {
 	  json.map(function( projects, index ){
-
-
-	    console.log(projects.project.title);
 
 	    var li = document.createElement('li'),
 	        descriptionContainer = document.createElement('div'),
@@ -38,7 +26,7 @@
 	        moreLessons = document.createElement('a'),
 	        projectContainer = document.querySelector('.projects');
 
-	    
+
 	    li.classList.add("projectItem");
 
 	    if( !index ) li.classList.add("active"); // Element 0 receives class active

@@ -12,8 +12,10 @@
 
 </head>
 <body>
-  <header id="projectHeader" class="header cf" role="banner" style="background-image: url(/content/<?php echo $page->diruri() ?>/<?php echo html($page->heroimage()) ?>);">
-    <?php snippet('menu') ?>
+  <?php snippet('menu') ?>
+  <?php if($page->heroimage()->isNotEmpty()): ?>
+  <header id="projectHeader" class="header cf" role="banner" style="background-image: url(<?php echo url(); ?>/content/<?php echo $page->diruri() ?>/<?php echo html($page->heroimage()) ?>);">
+
     <section class="headerSign">
       <h1><?php echo $page->title()->html() ?></h1>
       <h2><?php echo $page->subtitle()->html() ?></h2>
@@ -26,7 +28,7 @@
         </video>
       </div>
     <?php endif ?>
-    
+
     <div id="bristelbot">
       <svg x="0px" y="0px" viewBox="0 0 346 252" style="enable-background:new 0 0 346 252;">
         <g id="brushes">
@@ -63,3 +65,5 @@
     </div>
     <div id="plane"></div>
   </header>
+
+<?php endif ?>

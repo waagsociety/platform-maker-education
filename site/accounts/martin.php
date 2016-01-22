@@ -7,8 +7,8 @@ password: >
 language: en
 role: admin
 history:
+  - home
+  - wat-is-maker-education
   - agenda-maker-education
   - agenda-maker-education/bedankt
   - zet-jezelf-op-de-kaart/bedankt
-  - zet-jezelf-op-de-kaart
-  - wat-is-maker-education
