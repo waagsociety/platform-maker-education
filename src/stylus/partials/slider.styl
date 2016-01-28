@@ -1,2 +1,17 @@
-.projectItem { transition: opacity ease-out 1s; opacity: 0; }
-.active { opacity: 1; }
+.projectItem
+  transition opacity ease-out 1s
+  opacity 0
+  visibility hidden
+
+.inspiration_slider
+  li
+    transition opacity ease-out 1s
+    opacity 0
+    visibility hidden
+.active
+  opacity 1
+  visibility visible
+.inspiration_slider
+  .active
+    opacity 1
+    visibility visible

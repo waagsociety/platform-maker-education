@@ -8,7 +8,7 @@ language: en
 role: admin
 history:
   - home
+  - inspiratie/boogie-board
+  - inspiratie/open-design-now
   - wat-is-maker-education
   - agenda-maker-education
-  - agenda-maker-education/bedankt
-  - zet-jezelf-op-de-kaart/bedankt

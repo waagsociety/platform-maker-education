@@ -11,8 +11,14 @@ function nextSlide( selector ){
       currentItem = container.querySelector( '.active' ),
       nextItem = currentItem.nextSibling;
 
+      // Check if nextItem returns a textnode go to nextSibling
+      if(nextItem.nodeType !=1){
+        nextItem = nextItem.nextSibling;
+      }
+
+      console.log(currentItem);
+
   currentItem.classList.toggle( 'active' );
   ( nextItem || container.children[ 0 ] ).classList.toggle( 'active' );
-
   setTimeout( nextSlide.bind( null, selector ), slideDelay );
 }

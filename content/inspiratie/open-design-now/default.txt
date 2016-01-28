@@ -1,0 +1,41 @@
+Heroimage: open-design-now-why-design-cannot-remain-exclusive.gif
+
+----
+
+Icon: 
+
+----
+
+Title: Open design now
+
+----
+
+Videolink: 
+
+----
+
+Subtitle: 
+
+----
+
+Intro: Een boek over open design
+
+----
+
+Text: Open design now
+
+----
+
+Layout: one-col
+
+----
+
+Elementheight: full-height
+
+----
+
+Voucherform: 0
+
+----
+
+Border: 

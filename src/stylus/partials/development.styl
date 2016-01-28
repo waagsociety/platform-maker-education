@@ -248,6 +248,7 @@ svg
 		width 33.33%
 		height 50%
 		opacity 1
+		visibility visible
 		div
 			width 100%
 			height 100%
@@ -307,10 +308,19 @@ svg
 .meer-lessen
 	z-index 99
 .sectionHeader
-	padding 50px;
+	padding 100px 0 80px
 	text-align center
 	float left
 	width 100%
+	header
+		display inline-block
+		border-top 1px solid #ccc
+		border-bottom 1px solid #ccc
+		padding 10px 0
+		h1
+			margin-bottom .2em
+		p
+			margin-bottom 0
 
 .full-width-label
 	width 100%
@@ -377,3 +387,36 @@ svg
 .leaflet-popup-content
 	font-size 1.3em
 	line-height 2em
+
+
+.inspiration_slider
+	height 100vh
+	li
+		position absolute
+		height 100%
+		width 100%
+		background-size cover
+		background-attachment fixed
+		background-position center center
+		list-style none
+		&:before
+			content ""
+			position absolute
+			background rgba(0,0,0, .3)
+			top 0
+			left 0
+			bottom 0
+			right 0
+		.slider_caption
+			background rgba(projectColor, 1)
+			padding 50px
+			max-width 500px
+			border-top 4px solid white
+			border-right 4px solid white
+			color white
+			position absolute
+			left 0
+			bottom 0
+			transition .2s ease-out
+			h1
+				margin-bottom .2em

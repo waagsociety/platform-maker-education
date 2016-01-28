@@ -1,0 +1,41 @@
+Heroimage: boogie-board-sync.jpg
+
+----
+
+Icon: 
+
+----
+
+Title: Boogie board
+
+----
+
+Videolink: 
+
+----
+
+Subtitle: Boogie board
+
+----
+
+Intro: No other product in the world creates a natural pen on paper experience like the Boogie Board eWriters. Write and Erase with a touch of a
+
+----
+
+Text: Boogie boardBoogie board
+
+----
+
+Layout: one-col
+
+----
+
+Elementheight: full-height
+
+----
+
+Voucherform: 0
+
+----
+
+Border: 

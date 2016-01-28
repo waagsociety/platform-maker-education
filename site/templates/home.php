@@ -14,10 +14,11 @@
    <section class="sectionHeader">
     <header>
       <h1>Lesmateriaal</h1>
-      <p>Een selectie van het lesmateriaal van de afgelopen maand</p>
+      <p>Een selectie van het lesmateriaal</p>
       </header>
     </section>
    <?php snippet('projects') ?>
+   <?php snippet('inspiratie') ?>
   </main>
 
 <?php snippet('footer') ?>

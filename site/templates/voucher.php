@@ -60,12 +60,75 @@
 			<input type="text" id="email" name="email" placeholder="E-mailadres">
 		</div>
 
+    <h3 class="left full-width">Partner</h3>
+		<div class="input_block left">
+			<input type="text" id="partnername" name="partnername" placeholder="Naam partner">
+		</div>
+    <div class="input_block left">
+      <h6 class="left full-width">Type</h6>
+			<!-- <label class="full-width-label">Type: [PO], [VO], anders</label> -->
+			<div class="radio-block left">
+				<input id="makerspace" class="left" type="radio" name="typepartner" value="Makerspace"> <label class="left" for="makerspace">Makerspace</label>
+			</div>
+			<div class="radio-block left">
+				<input id="maker" class="left" type="radio" name="typepartner" value="Maker"> <label class="left" for="maker">Maker</label>
+			</div>
+		</div>
+		<div class="input_block left">
+			<input type="text" id="partneradres" name="partneradres" placeholder="Adres partner">
+		</div>
+		<div class="input_block left">
+			<input type="text" id="partnerwebsite" name="partnerwebsite" placeholder="Website partner">
+		</div>
+		<div class="input_block left">
+			<input type="text" id="partnerkvk" name="partnerkvk" placeholder="KVK partner">
+		</div>
+		<div class="input_block left">
+			<input type="text" id="partnercontact" name="partnercontact" placeholder="Contactpersoon partner">
+		</div>
+		<div class="input_block left">
+			<input type="text" id="partneremail" name="partneremail" placeholder="E-mail partner">
+		</div>
+
+
+
+    <h3 class="left full-width">Activiteit</h3>
+    <div class="input_block left">
+      <h6 class="left full-width">Gewenste activiteit</h6>
+			<!-- <label class="full-width-label">Type: [PO], [VO], anders</label> -->
+			<div class="radio-block left">
+				<input id="workshop" class="left" type="radio" name="typeactiviteit" value="workshop"> <label class="left" for="workshop">Workshop €500,-</label>
+			</div>
+			<div class="radio-block left">
+				<input id="presentatie" class="left" type="radio" name="typeactiviteit" value="presentatie"> <label class="left" for="presentatie">Presentatie €250,-</label>
+			</div>
+		</div>
+		<div class="input_block left">
+			<input type="text" id="activiteitbijdrage" name="activiteitbijdrage" placeholder="Eigen bijdrage">
+		</div>
+    <div class="input_block left">
+      <h6 class="left full-width">Voor wie?</h6>
+			<!-- <label class="full-width-label">Type: [PO], [VO], anders</label> -->
+			<div class="radio-block left">
+				<input id="docenten" class="left" type="radio" name="voorwie" value="docenten"> <label class="left" for="docenten">Docenten</label>
+			</div>
+			<div class="radio-block left">
+				<input id="leerkrachten" class="left" type="radio" name="voorwie" value="leerkrachten"> <label class="left" for="leerkrachten">Leerkrachten</label>
+			</div>
+			<div class="radio-block left">
+				<input id="leerlingen" class="left" type="radio" name="voorwie" value="leerlingen"> <label class="left" for="leerlingen">Leerlingen</label>
+			</div>
+		</div>
+		<div class="input_block left">
+			<input type="text" id="activiteitbeschrijving" name="activiteitbeschrijving" placeholder="Wat gaan jullie doen? maximaal 200 woorden">
+		</div>
+
 		<button class="btn-2" type="submit" name="submit" value="Submit">Vraag je voucher aan</button>
 	</form>
 	</div>
 
 
 
-	
+
 </section>
 <?php snippet('footer') ?>

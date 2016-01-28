@@ -18,7 +18,7 @@ Yay! If you are seeing this, the installation of Kirby worked. :)
 
 ----
 
-Subtitle: 
+Subtitle: In elk kind schuilt een uitvinder
 
 ----
 
@@ -30,4 +30,4 @@ Heroimage: maker3.jpg
 
 ----
 
-Api: "http://developmentversion.openthings.wiki/api/projects/search?tag=48&title=bristlebot"
+Api: "https://www.openthings.wiki/api/projects/search?tag=51,46&nr_of_items=6"

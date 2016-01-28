@@ -9,7 +9,18 @@ return function($site, $pages, $page) {
       'adres' => get('adres'),
       'website' => get('website'),
       'brin' => get('brin'),
-      'contactpersoon' => get('contactpersoon')
+      'contactpersoon' => get('contactpersoon'),
+      'partnername' => get('partnername'),
+      'typepartner' => get('typepartner'),
+      'partneradres' => get('partneradres'),
+      'partnerwebsite' => get('partnerwebsite'),
+      'partnerkvk' => get('partnerkvk'),
+      'partnercontact' => get('partnercontact'),
+      'partneremail' => get('partneremail'),
+      'typeactiviteit' => get('typeactiviteit'),
+      'activiteitbijdrage' => get('activiteitbijdrage'),
+      'voorwie' => get('voorwie'),
+      'activiteitbeschrijving' => get('activiteitbeschrijving')
     );
     $rules = array(
       'name'  => array('required'),

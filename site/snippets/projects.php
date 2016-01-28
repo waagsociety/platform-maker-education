@@ -52,7 +52,7 @@
 	    descriptionContainer.appendChild( projectLink );
 	    descriptionContainer.appendChild( moreLessons );
 	  });
-	  initSlider( '.projects' );
+	  // initSlider( '.projects' );
 	})
 
 	.catch(function(ex) {
