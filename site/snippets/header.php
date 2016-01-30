@@ -23,7 +23,7 @@
 
     <?php if($page->videolink()->isNotEmpty()): ?>
       <div class="covervid-wrapper">
-        <video class="covervid-video" autoplay loop muted preload>
+        <video class="covervid-video" poster="<?php echo url(); ?>/content/<?php echo $page->diruri() ?>/<?php echo html($page->heroimage()) ?>"  autoplay loop muted preload>
             <source src="<?php echo $page->videolink()->text() ?>">
         </video>
       </div>
