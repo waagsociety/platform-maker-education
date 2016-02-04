@@ -25,9 +25,8 @@ fetch(myRequest,myInit)
         moreLessons = document.createElement('a'),
         projectContainer = document.querySelector('.projects');
 
-    
-    li.classList.add("projectItem");
 
+    li.classList.add("projectItem");
     if( !index ) li.classList.add("active"); // Element 0 receives class active
 
     projectLink.classList.add("btn");

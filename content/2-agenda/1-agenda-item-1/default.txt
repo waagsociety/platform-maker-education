@@ -1,0 +1,41 @@
+Heroimage: 
+
+----
+
+Icon: 
+
+----
+
+Title: Agenda item 1
+
+----
+
+Videolink: 
+
+----
+
+Subtitle: dssdadsadsa
+
+----
+
+Intro: adssdasda
+
+----
+
+Text: dsadsadas
+
+----
+
+Layout: one-col
+
+----
+
+Elementheight: full-height
+
+----
+
+Voucherform: 0
+
+----
+
+Border: 

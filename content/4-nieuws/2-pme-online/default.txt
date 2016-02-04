@@ -1,0 +1,45 @@
+Heroimage: maker3.jpg
+
+----
+
+Icon: 
+
+----
+
+Title: PME Online
+
+----
+
+Videolink: 
+
+----
+
+Subtitle: 
+
+----
+
+Intro: Phasellus consectetur arcu id ipsum hendrerit, at hendrerit ante auctor. Nullam quis nulla quam.
+
+----
+
+Text: 
+
+Op zaterdag (goed zo: dan kunnen docenten meedoen) presenteerde Het Platform Onderwijs 2032 haar eindrapport. Het platform onder leiding van Paul Schnabel heeft onderzoek gedaan naar de wensen en eisen die de maatschappij aan het curriculum stelt voor de komende jaren. Staatssecretaris Sander Dekker die begin 2015 het startschot gaf, nam dit eindrapport in ontvangst op het Stanislascollege Krakeelpolderweg in Delft. Ook wij, de kwartiermakers Maker Education hebben een gesprek gehad met twee ambtenaren die de commissie ondersteunden.
+
+Een belangrijk rapport met een zware commissie die ook nog eens behoorlijk sterk ambtelijk ondersteund is. Dat betekent dat veel organisaties hun mening geven en hun eigen krenten uit de pap pikken. En dan kunnen wij, de pleitbezorgers van Maken in het Onderwijs, natuurlijk niet achterblijven. Is er ruimte in het curriculum om Maken in te zetten? Wordt het expliciet als kans genoemd, wordt het gezien als onderdeel van het curriculum? Heeft ons gesprek zin gehad?
+
+----
+
+Layout: one-col
+
+----
+
+Elementheight: full-height
+
+----
+
+Voucherform: 0
+
+----
+
+Border: 

@@ -7,8 +7,8 @@ password: >
 language: en
 role: admin
 history:
+  - nieuws/platform-onderwijs-2032
   - home
-  - inspiratie/boogie-board
-  - inspiratie/open-design-now
-  - wat-is-maker-education
-  - agenda-maker-education
+  - agenda/agenda-item-1
+  - agenda
+  - nieuws

@@ -1,0 +1,41 @@
+Heroimage: news.jpg
+
+----
+
+Icon: news.svg
+
+----
+
+Title: Nieuws
+
+----
+
+Videolink: 
+
+----
+
+Subtitle: Het laatste nieuws omtrent MakerEducation
+
+----
+
+Intro: Intro text
+
+----
+
+Text: 
+
+----
+
+Layout: four-col
+
+----
+
+Elementheight: half-height
+
+----
+
+Voucherform: 0
+
+----
+
+Border: borderBottom, borderLeft

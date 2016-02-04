@@ -15,7 +15,21 @@ var map = L.mapbox.map('makermap', 'martinwaag.9adcc834', {
 	zoom: 18
 });
 
+map.scrollWheelZoom.disable();
 map.featureLayer.setGeoJSON(geojson);
+
+map.featureLayer.eachLayer(function(layer) {
+
+    // here you call `bindPopup` with a string of HTML you create - the feature
+    // properties declared above are available under `layer.feature.properties`
+    var content = '<h2>' + layer.feature.properties.title + '</h2>' +
+        '<p>'+ layer.feature.properties.description +'</p>' +
+		    '<p>'+ layer.feature.properties.adres +'</p>' +
+				"<a target='_blank' href='" + layer.feature.properties.website + "'> Bezoek website</p>";
+    layer.bindPopup(content);
+});
+
+
 // zoom the map to that bounding box
 map.fitBounds(bounds);
 

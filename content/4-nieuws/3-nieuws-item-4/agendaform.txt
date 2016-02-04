@@ -1,0 +1,41 @@
+Heroimage: 
+
+----
+
+Icon: 
+
+----
+
+Title: Nieuws item 4
+
+----
+
+Videolink: 
+
+----
+
+Subtitle: 
+
+----
+
+Intro: Pellentesque at posuere risus, euismod ullamcorper arcu. Pellentesque hendrerit purus sit amet libero ultricies varius. Nullam sollicitudin.
+
+----
+
+Text: 
+
+----
+
+Layout: one-col
+
+----
+
+Elementheight: full-height
+
+----
+
+Voucherform: 0
+
+----
+
+Border: 

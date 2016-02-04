@@ -4,7 +4,7 @@
 	position fixed
 	left 80px
 	top 39px
-	z-index 9
+	z-index 3
 	display block
 	&:hover
 		opacity 1
@@ -21,32 +21,60 @@
 
 .main
 	.item
-		color white
-		padding 40px
-		background #7358FF
+		color projectColor
+		background #fff
 		text-align center
 		background-repeat no-repeat
 		background-size 60%
 		background-position center bottom
 		transition .2s ease-in-out
+		z-index 2
 		&:hover
 			background-size 70%
-		&:first-child
-			border-left none
-		&:nth-of-type(3)
-			border-bottom none
-		&:nth-of-type(4)
-			border-bottom none
+			.icon
+				transform scale(1.2)
+				opacity 1
 		a
-			color white
+			color red
 		p
-			opacity .7
+			opacity .9
 			transition .2s ease-in-out
+			z-index 2
 		h1
-			font-size 1.8em
+			font-size 1.5em
 			margin-bottom .1em
 			font-family 'brandon_textbold'
 			transition .2s ease-in-out
+			z-index 2
+		.icon
+			width 60%
+			height 40%
+			left 20%
+			bottom 0
+			position absolute
+			z-index 2
+			background-size contain
+			background-position center bottom
+			background-repeat no-repeat
+			transition transform .25s ease-in-out, opacity .25s ease-in-out
+			transform-origin bottom center
+			opacity .8
+		section
+			position absolute
+			left 0
+			top 0
+			height 100%
+			width 100%
+			padding 40px
+			background-size cover
+			// &:after
+			// 	content ""
+			// 	position absolute
+			// 	top 0
+			// 	left 0
+			// 	width 100%
+			// 	height 100%
+			// 	background rgba(darken(#ff7b7b,5), .75)
 
 .text
 	width 100%
@@ -67,7 +95,7 @@
 	h5,
 	h6,
 	ul
-		max-width 700px
+		max-width 800px
 		margin-left auto
 		margin-right auto
 		text-transform none
@@ -93,6 +121,8 @@
 		width 100%
 	figure.full
 		width 100%
+	figure.small
+		width 40%
 
 
 .machine-menu
@@ -186,7 +216,10 @@ svg
 
 .projects
 	width 100%
-	height 100vh
+	min-height 100vh
+	display flex
+	flex-wrap wrap
+	align-content flex-end
 	.st0
 		fill #fff
 	nav
@@ -218,15 +251,14 @@ svg
 		position absolute
 		width 100%
 		height 100%
-		top 0
-		left 0
-		bottom 0
-		right 0
 		background-size cover
 		background-position center center
 		background-repeat no-repeat
 		list-style none
 		font-size .875em
+		flex-grow 1
+		h1
+			font-size 1.7em
 		.btn-2
 			margin-right 10px
 		div
@@ -246,7 +278,7 @@ svg
 		position relative
 		float left
 		width 33.33%
-		height 50%
+		height 50vh
 		opacity 1
 		visibility visible
 		div
@@ -299,7 +331,7 @@ svg
 
 .card-page
 	width 50%
-	height 100vh
+	height 80vh
 	float left
 	#makermap
 		width 100%
@@ -311,7 +343,7 @@ svg
 	padding 100px 0 80px
 	text-align center
 	float left
-	width 100%
+	width 33.33%
 	header
 		display inline-block
 		border-top 1px solid #ccc
@@ -321,7 +353,9 @@ svg
 			margin-bottom .2em
 		p
 			margin-bottom 0
-
+.sectionHeader.full-width
+	width 100%
+.sectionHeader.half-width
 .full-width-label
 	width 100%
 	float left
@@ -359,30 +393,13 @@ svg
 
 
 .borderLeft
-	border-left 2px solid white
+	border-left 2px solid #f2f2f2
 .borderTop
-	border-top 2px solid white
+	border-top 2px solid #f2f2f2
 .borderRight
-	border-right 2px solid white
+	border-right 2px solid #f2f2f2
 .borderBottom
-	border-bottom 2px solid white
-
-.kaartBtn
-	z-index 9
-	position absolute
-	bottom 40px
-	left 50%
-	transform translateX(-50%)
-	border 4px solid white !important
-	color projectColor !important
-	background-color white
-	&:hover
-		opacity 1 !important
-		background-color #f2f2f2
-		border 4px solid white
-		box-shadow 0px 10px 0px rgba(0,0,0,.6)
-	&:active
-		box-shadow 0px 0 0px rgba(0,0,0,.6)
+	border-bottom 2px solid #f2f2f2
 
 .leaflet-popup-content
 	font-size 1.3em
@@ -390,13 +407,12 @@ svg
 
 
 .inspiration_slider
-	height 100vh
+	height 80vh
 	li
 		position absolute
 		height 100%
 		width 100%
 		background-size cover
-		background-attachment fixed
 		background-position center center
 		list-style none
 		&:before
@@ -408,15 +424,41 @@ svg
 			bottom 0
 			right 0
 		.slider_caption
-			background rgba(projectColor, 1)
-			padding 50px
-			max-width 500px
-			border-top 4px solid white
-			border-right 4px solid white
-			color white
+			background rgba(255,255,255, .96)
+			padding 30px 30px 40px
+			max-width 75%
+			color #333
 			position absolute
 			left 0
 			bottom 0
 			transition .2s ease-out
 			h1
 				margin-bottom .2em
+
+
+.news_section
+	width 100%
+	margin auto
+	margin-bottom 100px
+	display flex
+	align-content flex-end
+	padding 50px
+	flex-wrap wrap
+	.nieuws-item
+		width 30%
+		flex-grow 1
+		margin 2% 1%
+		color #333
+		padding 40px 0
+		margin-bottom 20px
+		display block
+		border-top 1px solid #f2f2f2
+		h1
+			margin-bottom .1em
+
+.pagination
+	width 100%
+	margin 0 1% 0 1%
+	padding-top 20px
+	border-top 1px solid #f2f2f2
+	float left

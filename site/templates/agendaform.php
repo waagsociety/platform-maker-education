@@ -1,10 +1,9 @@
 <?php snippet('header') ?>
 
   <main class="main defaultPage" role="main">
-    <div class="text">
-      <h1><?php echo $page->title()->html() ?></h1>
-      <?php echo $page->text()->kirbytext() ?>
-    </div>
+    <section class="news_section">
+    	<?php snippet('agenda-items') ?>
+    </section>
   </main>
 
   <section class="contact">
@@ -42,7 +41,7 @@
 			<textarea type="text" id="bericht" name="bericht" rows="5" placeholder="Omschrijf jouw activiteit(en) maximaal 280 karakters"></textarea>
 		</div>
 
-		<button class="btn-2" type="submit" name="submit" value="Submit">Vraag je voucher aan</button>
+		<button class="btn-2" type="submit" name="submit" value="Submit">Zet je activiteit in de agenda</button>
 	</form>
 	</div>
 

@@ -1,4 +1,4 @@
-<section class="card-page">
+<section class="card-page half-width left">
 	<div id="makermap"></div>
 	<a href="zet-jezelf-op-de-kaart" class="btn btn-3 kaartBtn">Zet jezelf op de kaart</a>
 

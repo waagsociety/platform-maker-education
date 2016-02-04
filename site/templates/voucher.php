@@ -106,14 +106,11 @@
 		<div class="input_block left">
 			<input type="text" id="activiteitbijdrage" name="activiteitbijdrage" placeholder="Eigen bijdrage">
 		</div>
-    <div class="input_block left">
+    <div class="input_block left voor-wie">
       <h6 class="left full-width">Voor wie?</h6>
 			<!-- <label class="full-width-label">Type: [PO], [VO], anders</label> -->
 			<div class="radio-block left">
-				<input id="docenten" class="left" type="radio" name="voorwie" value="docenten"> <label class="left" for="docenten">Docenten</label>
-			</div>
-			<div class="radio-block left">
-				<input id="leerkrachten" class="left" type="radio" name="voorwie" value="leerkrachten"> <label class="left" for="leerkrachten">Leerkrachten</label>
+				<input id="leerkrachten" class="left" type="radio" name="voorwie" value="leerkrachten"> <label class="left" for="leerkrachten">Leerkrachten / Docenten</label>
 			</div>
 			<div class="radio-block left">
 				<input id="leerlingen" class="left" type="radio" name="voorwie" value="leerlingen"> <label class="left" for="leerlingen">Leerlingen</label>

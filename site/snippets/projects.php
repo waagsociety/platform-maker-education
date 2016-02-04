@@ -1,4 +1,10 @@
-<section class="projects grid-view left">
+<section class="projects grid-view">
+<section class="sectionHeader">
+ <header>
+	 <h1>Lesmateriaal</h1>
+	 <p>Een selectie van het lesmateriaal</p>
+	 </header>
+ </section>
 <!-- 	<svg version="1.1" id="girdbutton" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 40 40" style="enable-background:new 0 0 40 40;" xml:space="preserve">
 	<rect class="st0" width="19" height="19"/>
