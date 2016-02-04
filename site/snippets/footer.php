@@ -4,13 +4,7 @@ $items = $pages->visible();
 $last  = $items->last();
 
 ?>
-  <section class="sitemap cf left" role="contentinfo">
-  	<ul class="four-col left">
-  		<li><h2>Links</h2></li>
-  	<?php foreach($items as $item): ?>
-   		<li><a href="<?php echo $item->url() ?>"><?php echo html($item->title()) ?></a></li>
-   	<?php endforeach ?>
-  	</ul>
+  <!-- <section class="sitemap cf left" role="contentinfo">
   	<ul class="four-col left">
   		<li><h2>Links</h2></li>
   		<li>About</li>
@@ -29,7 +23,7 @@ $last  = $items->last();
   		<li>Learning</li>
   		<li>Contact</li>
   	</ul>
-  </section>
+  </section> -->
 	<footer>
     <p class="right">
       Made with &hearts; by <a href="http://www.waag.org">Waag Society</a> - Check out the code on <a href="https://github.com/waagsociety/platform-maker-education">github</a>

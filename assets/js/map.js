@@ -1,7 +1,7 @@
 L.mapbox.accessToken = 'pk.eyJ1IjoibWFydGlud2FhZyIsImEiOiJjaWo0NWt6ZWYwMDE0dXlrcm0yenVkNDR5In0.0I9xJzLubP9g3V_NTt1PhA';
 // Construct a bounding box for this map that the user cannot
 // move out of
-var southWest = L.latLng(51.18623,3.262939),
+var southWest = L.latLng(50.18623,3.262939),
 		northEast = L.latLng(53.563967, 6.904907),
 		bounds = L.latLngBounds(southWest, northEast);
 
