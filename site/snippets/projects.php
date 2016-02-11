@@ -1,8 +1,10 @@
 <section class="projects grid-view">
 <section class="sectionHeader">
- <header>
-	 <h1>Lesmateriaal</h1>
-	 <p>Een selectie van het lesmateriaal</p>
+ <header class="change-color">
+	 <h1>Projecten</h1>
+   <p>Laat je inspireren door deze projecten en maak het in de klas!</p>
+   <a href="https://openthings.wiki" class="btn btn-3" target="_blank">Project plaatsen</a>
+   <a href="https://openthings.wiki/tag/48" class="btn btn-3" target="_blank">Meer projecten</a>
 	 </header>
  </section>
 <!-- 	<svg version="1.1" id="girdbutton" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
@@ -29,7 +31,6 @@
 	        descriptionTitleContainer = document.createElement('h1'),
 	        descriptionBodyContainer = document.createElement('p'),
 	        projectLink = document.createElement('a'),
-	        moreLessons = document.createElement('a'),
 	        projectContainer = document.querySelector('.projects');
 
 
@@ -38,25 +39,21 @@
 	    if( !index ) li.classList.add("active"); // Element 0 receives class active
 
 	    projectLink.classList.add("btn");
-	    moreLessons.classList.add("btn");
+      projectLink.setAttribute('target', '_blank');
 	    projectLink.classList.add("btn-2");
-	    moreLessons.classList.add("btn-2");
 
 	    li.style.backgroundImage = "url('" + projects.project.icon + "')";
 
 	    descriptionTitleContainer.innerHTML = projects.project.title;
 	    descriptionBodyContainer.innerHTML = projects.project.teaser;
-	    projectLink.innerHTML = "Bekijk deze les";
-	    moreLessons.innerHTML = "Meer lesmateriaal";
+	    projectLink.innerHTML = "Bekijk dit project";
 	    projectLink.href = projects.project.url;
-	    moreLessons.href = "https://www.openthings.wiki/tag/48";
 	    projectContainer.appendChild(li);
 	    li.appendChild( descriptionContainer );
 
 	    descriptionContainer.appendChild( descriptionTitleContainer );
 	    descriptionContainer.appendChild( descriptionBodyContainer );
 	    descriptionContainer.appendChild( projectLink );
-	    descriptionContainer.appendChild( moreLessons );
 	  });
 	  // initSlider( '.projects' );
 	})

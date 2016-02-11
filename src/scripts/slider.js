@@ -16,7 +16,7 @@ function nextSlide( selector ){
         nextItem = nextItem.nextSibling;
       }
 
-      console.log(currentItem);
+      // console.log(currentItem);
 
   currentItem.classList.toggle( 'active' );
   ( nextItem || container.children[ 0 ] ).classList.toggle( 'active' );

@@ -1,6 +1,6 @@
 <?php snippet('header') ?>
 
-  <main class="main" role="main">
+  <main class="main change-color" role="main">
 
     <h1><?php echo $page->title()->html() ?></h1>
 

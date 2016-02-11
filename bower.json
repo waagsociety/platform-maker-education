@@ -1,0 +1,28 @@
+{
+  "name": "PME",
+  "description": "Platform Maker Education website",
+  "main": "index.js",
+  "authors": [
+    "Martin Risseeuw"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "Fablab"
+  ],
+  "homepage": "https://github.com/waagsociety/platform-maker-education",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "smoothstate": "^0.7.2",
+    "fetch": "^0.11.0",
+    "es6-promise": "^3.0.2",
+    "waypoints": "^4.0.0"
+  }
+}

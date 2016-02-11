@@ -1,0 +1,72 @@
+Title: Wat is Platform Maker Education?
+
+----
+
+Text: 
+
+Maker Education is leren (door te) maken. Maker Education is een creatieve manier om kinderen in staat te stellen uitvinders te worden en stimuleert het hoofd, handen en hart. In de afgelopen jaren zijn allerlei moderne technologieën goedkoop en makkelijker beschikbaar geworden. Denk daarbij aan 3D-printers en elektronica, waarmee kinderen op een laagdrempelige manier kunnen ontwerpen én maken. Leerlingen kunnen deze gereedschappen gebruiken om hun creativiteit te laten ontluiken.
+
+De afstand tussen een idee en een product is heel klein geworden. Leerlingen die op deze manier “maker” worden leren ongemerkt en worden uitvinders. En onze maatschappij zit te wachten op uitvinders. Op deze manier kunnen we de traditie van Nederland als “maak- en ontwerpland” weer waar gaan maken.
+
+Waarom Maker Education?
+- Het maakt van leerlingen i.p.v. consumenten, producenten. Het worden uitvinders en die hebben we in de toekomst hard nodig. Nederland is een kennisland, geen productieland, dus we zullen het moeten hebben van slimme, nieuwe ideeën en producten.
+- Leren door maken is een vorm van leren die we kwijt zijn geraakt maar die heel sterk is. Het geeft richting en context aan hetgene dat je leert. Een leerling construeert zijn of haar eigen kennis: dat is een hele sterke en bestendige manier van leren.
+- Maken doet ook een beroep op vaardigheden waar de waardering soms voor verdwenen is: de vaardigheiden/skills van de vakman.
+- Het lijkt erop dat de aandacht voor goede en mooie ontwerpen ook meer meisjes de richting van de harder bèta techniek op kunnen sturen
+- De Maker economie is groeiende.
+
+**Platform Maker Education**
+
+Platform Maker Education geeft een impuls aan de bottom-up maakonderwijs beweging in Nederland. Enerzijds door scholen in staat te stellen kennis te maken met Maker Education via vouchers. Anderzijds door scholen die al bezig zijn samen te brengen in een leergemeenschap om hun ervaringen en activiteiten te verdiepen. Ook wordt de meerwaarde van maakonderwijs voor (techniek)onderwijs en creativiteit onderzocht. 
+
+Op dit online platform worden Maker Education activiteiten zichtbaar gemaakt en lesmateriaal beschikbaar gesteld. Hier kun je meer informatie vinden over Maker Education, inspiratie opdoen voor maakprojecten in de klas, een voucher aanvragen om kennis te maken met Maker Education in samenwerking met een makerspace of expert in jouw regio en nog veel meer. 
+
+*De activiteiten van Platform Maker Education worden gefinancierd door OCW via het Actieplan Kiezen voor Technologie van Platform Bèta Techniek.*
+
+----
+
+Textcolor: #ffffff
+
+----
+
+Pagecolor: #50e3c2
+
+----
+
+Intro: Maker Education is leren (door te) maken. Platform Maker Education geeft een impuls aan de bottom-up maakonderwijs beweging in Nederland.
+
+----
+
+Heroimage: pme_5.jpg
+
+----
+
+Subtitle: 
+
+----
+
+Layout: four-col
+
+----
+
+Videolink: 
+
+----
+
+Fullheight: 0
+
+----
+
+Elementheight: half-height
+
+----
+
+Icon: makered.svg
+
+----
+
+Voucherform: 0
+
+----
+
+Border: borderBottom, borderLeft

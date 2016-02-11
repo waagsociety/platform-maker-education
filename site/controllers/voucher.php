@@ -39,7 +39,7 @@ return function($site, $pages, $page) {
       $body  = snippet('contactmail', $data, true);
       // build the email
       $email = email(array(
-        'to'      => 'martin@waag.org',
+        'to'      => 'mariska@waag.org',
         'from'    => 'voucher@makereducation.nl',
         'subject' => 'Nieuwe voucher aanvraag',
         'replyTo' => $data['email'],

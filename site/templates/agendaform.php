@@ -1,16 +1,14 @@
 <?php snippet('header') ?>
 
-  <main class="main defaultPage" role="main">
+  <main class="main defaultPage change-color" role="main">
     <section class="news_section">
     	<?php snippet('agenda-items') ?>
     </section>
   </main>
 
-  <section class="contact">
+  <section class="contact black-content">
 	<div class="inner">
-	<h1>Aanmelden voor een kaart</h1>
-	<p>Contact Platform Maker Education</p>
-
+	<h1>Meld jouw Maker Education activiteit aan voor de agenda</h1>
 	<form method="post">
 		<?php if($alert): ?>
 			<div class="alert">

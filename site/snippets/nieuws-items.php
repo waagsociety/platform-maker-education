@@ -1,6 +1,6 @@
 <?php
 
-$items = $pages->find('nieuws')->children()->visible()->flip()->paginate(3);
+$items = $pages->find('nieuws')->children()->visible()->flip()->paginate(6);
 
 ?>
 

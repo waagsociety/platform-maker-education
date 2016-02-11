@@ -1,6 +1,6 @@
 <?php snippet('header') ?>
 
-  <main class="main defaultPage" role="main">
+  <main class="main defaultPage color-change" role="main">
     <section class="news_section">
     	<?php snippet('nieuws-items') ?>
     </section>

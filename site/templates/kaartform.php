@@ -1,6 +1,6 @@
 <?php snippet('header') ?>
 
-  <main class="main defaultPage" role="main">
+  <main class="main defaultPage change-color" role="main">
     <div class="text">
       <h1><?php echo $page->title()->html() ?></h1>
       <?php echo $page->text()->kirbytext() ?>
@@ -9,8 +9,7 @@
 
   <section class="contact">
 	<div class="inner">
-	<h1>Aanmelden voor een kaart</h1>
-	<p>Contact Platform Maker Education</p>
+	<h1>Meld jouw activiteit aan</h1>
 
 	<form method="post">
 		<?php if($alert): ?>

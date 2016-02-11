@@ -1,6 +1,6 @@
 <?php snippet('header') ?>
 
-  <main class="main defaultPage" role="main">
+  <main class="main defaultPage change-color" role="main">
     <section class="sectionHeader">
 		<header>
 			<h1><?php echo $page->title()->html() ?></h1>

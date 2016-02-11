@@ -1,4 +1,4 @@
-<div class="hamburger-menu" data-openselector=".slide-menu">
+<div class="hamburger-menu" data-openselector=".slide-menu" data-changecolor>
 	<div class="habmburer__inner">
 	  <span></span>
 	  <span></span>

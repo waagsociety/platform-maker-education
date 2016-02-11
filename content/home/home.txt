@@ -1,4 +1,4 @@
-Title: Platform maker education!
+Title: Platform maker education
 
 ----
 
@@ -26,12 +26,12 @@ Address: De Waag, Nieuwmarkt 4, Amsterdam
 
 ----
 
-Heroimage: home_poster.jpg
+Heroimage: fab_poster.jpg
 
 ----
 
-Api: "https://www.openthings.wiki/api/projects/search?tag=51,46&nr_of_items=5"
+Api: "https://www.openthings.wiki/api/projects/search?tag=51,46&nr_of_items=8"
 
 ----
 
-Videolink: https://player.vimeo.com/external/153100779.hd.mp4?s=4b40becdd14dcee45ba6f36275e3bad83df056b3&profile_id=119
+Videolink: https://player.vimeo.com/external/154781585.hd.mp4?s=1a74d0eaa315c03d3fb94f77d784f1b435d74d12&profile_id=119

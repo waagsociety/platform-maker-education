@@ -16,12 +16,12 @@ gulp.task('css', function () {
 
 gulp.task('js', function() {
   gulp.src([
-    'bower_components/fetch/fetch.js',
-    'bower_components/es6-promise/promise.min.js',
     'src/scripts/slideMenu.js',
     'src/scripts/scrollAnimate.js',
     'src/scripts/slider.js',
     'src/scripts/eventHandlers.js',
+    'bower_components/waypoints/lib/noframework.waypoints.min.js',
+    'src/scripts/loadWayPoint.js',
     'src/scripts/init.js'
   ])
     // concat pulls all our files together before minifying them

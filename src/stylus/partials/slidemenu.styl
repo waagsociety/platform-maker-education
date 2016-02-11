@@ -5,7 +5,7 @@
   position fixed
   left 30px
   top 30px
-  min-height 40vw
+  min-height 80vh
   width 40vw
   background projectColor
   color #fff
@@ -13,9 +13,11 @@
   padding 80px
   z-index 8
   font-size 1.6em
+  transform-origin top left
   text-align left
   font-family 'brandon_textbold', sans-serif
-  transition transform .1s ease-in-out, opacity .2s ease-in-out
+  transition transform .2s ease-in-out, opacity .25s ease-in-out
+  box-shadow 0 4px 8px rgba(0,0,0,.2)
   li
     a
       color #fff
@@ -28,7 +30,7 @@
 
 .slide-menu.closed
   visibility hidden
-  transform scale(.95)
+  transform scale(.85)
   opacity 0
 .slide-menu.open
   visibility visible
@@ -68,7 +70,18 @@
       opacity 1
       left 0
       transform rotate(0deg)
-      transition .25s ease-in-out
+      transition transform .25s ease-in-out, top .25s ease-in-out, left .25s ease-in-out, width .25s ease-in-out, opacity .25s ease-in-out
+
+.hamburger-menu.black
+  .habmburer__inner
+    span
+      background black
+
+.hamburger-menu.black.open
+  .habmburer__inner
+    span
+      background white
+
 
 .hamburger-menu.open
   z-index 9

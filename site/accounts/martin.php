@@ -7,8 +7,8 @@ password: >
 language: en
 role: admin
 history:
-  - nieuws/platform-onderwijs-2032
   - home
-  - agenda/agenda-item-1
-  - agenda
+  - wat-is-maker-education
   - nieuws
+  - agenda
+  - voucher

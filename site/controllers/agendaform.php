@@ -28,7 +28,7 @@ return function($site, $pages, $page) {
       $body  = snippet('agendamail', $data, true);
       // build the email
       $email = email(array(
-        'to'      => 'martin@waag.org',
+        'to'      => 'mariska@waag.org',
         'from'    => 'agenda@makereducation.nl',
         'subject' => 'Nieuwe agenda aanvraag',
         'replyTo' => $data['email'],

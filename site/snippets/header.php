@@ -7,16 +7,38 @@
   <title><?php echo $site->title()->html() ?> | <?php echo $page->title()->html() ?></title>
   <meta name="description" content="<?php echo $site->description()->html() ?>">
   <meta name="keywords" content="<?php echo $site->keywords()->html() ?>">
+
+  <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
+  <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+  <link rel="icon" type="image/png" href="/android-chrome-192x192.png" sizes="192x192">
+  <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+  <link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+  <link rel="manifest" href="/manifest.json">
+  <meta name="apple-mobile-web-app-title" content="pme">
+  <meta name="application-name" content="pme">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="msapplication-TileImage" content="/mstile-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+
+
   <?php echo css('assets/css/main.css') ?>
   <?php echo js('assets/js/main.min.js') ?>
 
 </head>
-<body>
+<body class="m-scene">
+  <div id="main">
   <?php snippet('menu') ?>
   <?php if($page->heroimage()->isNotEmpty()): ?>
 
-  <header id="projectHeader" class="header cf   <?php if($page->isHomePage()): ?>half-width left<?php endif ?>" role="banner" style="background-image: url(<?php echo url(); ?>/content/<?php echo $page->diruri() ?>/<?php echo html($page->heroimage()) ?>);">
-
+  <header id="projectHeader" class="header cf <?php if($page->isHomePage()): ?>half-width left scene_element scene_element--fadein<?php else: ?> scene_element scene_element--fadein scene_element--shrink <?php endif ?>" role="banner" style="background-image: url(<?php echo url(); ?>/content/<?php echo $page->diruri() ?>/<?php echo html($page->heroimage()) ?>);">
     <section class="headerSign">
       <h1><?php echo $page->title()->html() ?></h1>
       <h2><?php echo $page->subtitle()->html() ?></h2>
@@ -30,7 +52,8 @@
       </div>
     <?php endif ?>
 
-    <div id="plane"></div><div id="bristelbot">
+    <div id="plane"></div>
+    <div id="bristelbot" class="scene_element scene_element--fadein">
       <svg x="0px" y="0px" viewBox="0 0 346 252" style="enable-background:new 0 0 346 252;">
         <g id="brushes">
           <line class="st0" x1="84.5" y1="164.7" x2="69.4" y2="250"/>

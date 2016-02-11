@@ -4,11 +4,11 @@ var geojson = [{
     "id":"marker-ijo1qpiw0",
     "title":"Kaasfabriek Fablab Alkmaar",
     "description":"Kaasfabriek Fablab Alkmaar",
-    "marker-size":"small",
+    "marker-size":"medium",
     "marker-color":"#f86767",
-    "marker-symbol":"",
+    "marker-symbol":"rocket",
     "website" : "http://kaasfabriek.nl/",
-    "adres" : "Pettemerstraat 15 1823 CW Alkmaar"
+    "adres" : "Pettemerstraat 15\n1823 CW Alkmaar"
   },
     "geometry":{
       "coordinates":[4.7502714, 52.6381561],
@@ -21,9 +21,9 @@ var geojson = [{
     "id":"marker-ijo1qpiw0",
     "title":"FabLab Amersfoort",
     "description":"FabLab Amersfoort",
-    "marker-size":"small",
+    "marker-size":"medium",
     "marker-color":"#f86767",
-    "marker-symbol":"",
+    "marker-symbol":"rocket",
     "website" : "http://www.fablabamersfoort.nl",
     "adres" : "Kleine Koppel 40\n3812 PH Amersfoort"
   },
@@ -38,9 +38,9 @@ var geojson = [{
     "id":"marker-ijo1qpiw0",
     "title":"Fablab Amsterdam, Waag Society",
     "description":"Fablab Amsterdam, Waag Society",
-    "marker-size":"small",
+    "marker-size":"medium",
     "marker-color":"#f86767",
-    "marker-symbol":"",
+    "marker-symbol":"rocket",
     "website" : "http://fablab.waag.org/",
     "adres" : "Nieuwmarkt 4, 1012 CR Amsterdam"
   },
@@ -53,11 +53,28 @@ var geojson = [{
   "type":"Feature",
   "properties":{
     "id":"marker-ijo1qpiw0",
+    "title":"Rob van ’t Veer",
+    "description":"Docent Rekenen en STEAM, instituutsopleider, Stenden hogeschool - Emmen, kamer 0.104",
+    "marker-size":"medium",
+    "marker-color":"#7dffb8",
+    "marker-symbol":"school",
+    "website" : "https://stenden.com/locaties/emmen/",
+    "adres" : "Van Schaikweg 94, Emmen"
+  },
+    "geometry":{
+      "coordinates":[6.9122197, 52.7782617],
+      "type":"Point"
+    }
+},
+{
+  "type":"Feature",
+  "properties":{
+    "id":"marker-ijo1qpiw0",
     "title":"ZB45 Makerspace/FabLab Truck",
     "description":"ZB45 Makerspace/FabLab Truck",
-    "marker-size":"small",
+    "marker-size":"medium",
     "marker-color":"#f86767",
-    "marker-symbol":"",
+    "marker-symbol":"rocket",
     "website" : "https://zb45.nl/",
     "adres" : "Zeeburgerpad 45, 1019 AA Amsterdam"
   },
@@ -72,11 +89,11 @@ var geojson = [{
     "id":"marker-ijo1qpiw0",
     "title":"iFabrica (gesloten)",
     "description":"iFabrica (gesloten)",
-    "marker-size":"small",
+    "marker-size":"medium",
     "marker-color":"#f86767",
-    "marker-symbol":"",
+    "marker-symbol":"rocket",
     "website" : "http://www.ifabrica.nl/",
-    "adres" : "Gedempt Hamerkanaal 139 1021 Amsterdam"
+    "adres" : "Gedempt Hamerkanaal 139 1021 Amsterdam\n\n                   "
   },
     "geometry":{
       "coordinates":[4.920729199999999, 52.3839621],
@@ -89,9 +106,9 @@ var geojson = [{
     "id":"marker-ijo1qpiw0",
     "title":"FabLab+",
     "description":"FabLab+",
-    "marker-size":"small",
+    "marker-size":"medium",
     "marker-color":"#f86767",
-    "marker-symbol":"",
+    "marker-symbol":"rocket",
     "website" : "http://www.fablabplus.be/",
     "adres" : "Lange Klarenstraat 17, 2000 ANTWERPEN"
   },
@@ -106,9 +123,9 @@ var geojson = [{
     "id":"marker-ijo1qpiw0",
     "title":"CODA FabLab",
     "description":"CODA FabLab",
-    "marker-size":"small",
+    "marker-size":"medium",
     "marker-color":"#f86767",
-    "marker-symbol":"",
+    "marker-symbol":"rocket",
     "website" : "http://www.coda-apeldoorn.nl/jeugd/fablab/",
     "adres" : "Vosselmanstraat 299 7311 CL Apeldoorn"
   },
@@ -123,9 +140,9 @@ var geojson = [{
     "id":"marker-ijo1qpiw0",
     "title":"FabLab Arnhem",
     "description":"FabLab Arnhem",
-    "marker-size":"small",
+    "marker-size":"medium",
     "marker-color":"#f86767",
-    "marker-symbol":"",
+    "marker-symbol":"rocket",
     "website" : "http://www.fablabarnhem.nl/",
     "adres" : "Ruitenberglaan 26\n6926 CC Arnhem"
   },
@@ -140,9 +157,9 @@ var geojson = [{
     "id":"marker-ijo1qpiw0",
     "title":"FabLab Bergen op Zoom",
     "description":"FabLab Bergen op Zoom",
-    "marker-size":"small",
+    "marker-size":"medium",
     "marker-color":"#f86767",
-    "marker-symbol":"",
+    "marker-symbol":"rocket",
     "website" : "http://www.fablabbergenopzoom.nl/",
     "adres" : "Drebbelstraat 20  4622 RC Bergen op Zoom"
   },
@@ -155,28 +172,11 @@ var geojson = [{
   "type":"Feature",
   "properties":{
     "id":"marker-ijo1qpiw0",
-    "title":"FabLab Bornem",
-    "description":"FabLab Bornem",
-    "marker-size":"small",
-    "marker-color":"#f86767",
-    "marker-symbol":"",
-    "website" : null,
-    "adres" : null
-  },
-    "geometry":{
-      "coordinates":[4.7502714, 52.6381561],
-      "type":"Point"
-    }
-},
-{
-  "type":"Feature",
-  "properties":{
-    "id":"marker-ijo1qpiw0",
     "title":"Makersbuzz",
     "description":"Makersbuzz",
-    "marker-size":"small",
+    "marker-size":"medium",
     "marker-color":"#f86767",
-    "marker-symbol":"",
+    "marker-symbol":"rocket",
     "website" : "http://www.facebook.com/MakersBuzz",
     "adres" : "Statenlaan 4\n5042 RX Tilburg"
   },
@@ -191,9 +191,9 @@ var geojson = [{
     "id":"marker-ijo1qpiw0",
     "title":"FabLab Breda",
     "description":"FabLab Breda",
-    "marker-size":"small",
+    "marker-size":"medium",
     "marker-color":"#f86767",
-    "marker-symbol":"",
+    "marker-symbol":"rocket",
     "website" : "http://fablabbreda.nl/",
     "adres" : "Veilingkade 8, 4815 HC Breda "
   },
@@ -208,9 +208,9 @@ var geojson = [{
     "id":"marker-ijo1qpiw0",
     "title":"Eco-Fab-Lab",
     "description":"Eco-Fab-Lab",
-    "marker-size":"small",
+    "marker-size":"medium",
     "marker-color":"#f86767",
-    "marker-symbol":"",
+    "marker-symbol":"rocket",
     "website" : "https://nl-nl.facebook.com/ecofablab",
     "adres" : "Hoefijzerlaan 20  8000 Brugge"
   },
@@ -225,14 +225,14 @@ var geojson = [{
     "id":"marker-ijo1qpiw0",
     "title":"fablab Imal Brussel",
     "description":"fablab Imal Brussel",
-    "marker-size":"small",
+    "marker-size":"medium",
     "marker-color":"#f86767",
-    "marker-symbol":"",
+    "marker-symbol":"rocket",
     "website" : "http://www.imal.org/nl/fablab",
-    "adres" : "30-34 Quai des Charbonnages Koolmijnenkaai, Brussels, 1080, Belgi��"
+    "adres" : "30-34 Quai des Charbonnages, boîte 9 B-1080 Bruxelles"
   },
     "geometry":{
-      "coordinates":[4.7502714, 52.6381561],
+      "coordinates":[4.3193694, 50.8569755],
       "type":"Point"
     }
 },
@@ -242,14 +242,14 @@ var geojson = [{
     "id":"marker-ijo1qpiw0",
     "title":"FabLab XL Brussel",
     "description":"FabLab XL Brussel",
-    "marker-size":"small",
+    "marker-size":"medium",
     "marker-color":"#f86767",
-    "marker-symbol":"",
+    "marker-symbol":"rocket",
     "website" : "http://www.fablab-brussels.be/index.html",
-    "adres" : "Erasmushogeschool Brussel\nDepartement Industri��le Wetenschappen en Technologie\n\nGebouw B\nNijverheidskaai 170\n1070 Brussel (Anderlecht)\nBelgi��"
+    "adres" : "Nijverheidskaai 170 1070 Brussel"
   },
     "geometry":{
-      "coordinates":[4.7502714, 52.6381561],
+      "coordinates":[4.3230242, 50.84155149999999],
       "type":"Point"
     }
 },
@@ -259,9 +259,9 @@ var geojson = [{
     "id":"marker-ijo1qpiw0",
     "title":"Open Fab",
     "description":"Open Fab",
-    "marker-size":"small",
+    "marker-size":"medium",
     "marker-color":"#f86767",
-    "marker-symbol":"",
+    "marker-symbol":"rocket",
     "website" : "http://openfab.be/",
     "adres" : "274, avenue de la Couronne"
   },
@@ -276,9 +276,9 @@ var geojson = [{
     "id":"marker-ijo1qpiw0",
     "title":"FabLab Den Haag",
     "description":"FabLab Den Haag",
-    "marker-size":"small",
+    "marker-size":"medium",
     "marker-color":"#f86767",
-    "marker-symbol":"",
+    "marker-symbol":"rocket",
     "website" : "http://www.fablabdenhaag.nl/",
     "adres" : "B-1050 Ixelles"
   },
@@ -293,10 +293,10 @@ var geojson = [{
     "id":"marker-ijo1qpiw0",
     "title":"SmartLab Deventer",
     "description":"SmartLab Deventer",
-    "marker-size":"small",
+    "marker-size":"medium",
     "marker-color":"#f86767",
-    "marker-symbol":"",
-    "website" : "http://smartlabdeventer.nl",
+    "marker-symbol":"rocket",
+    "website" : "www.smartlabdeventer.nl",
     "adres" : "Belgique"
   },
     "geometry":{
@@ -310,9 +310,9 @@ var geojson = [{
     "id":"marker-ijo1qpiw0",
     "title":"JeugdFabLab",
     "description":"JeugdFabLab",
-    "marker-size":"small",
+    "marker-size":"medium",
     "marker-color":"#f86767",
-    "marker-symbol":"",
+    "marker-symbol":"rocket",
     "website" : "http://www.jeugdfablab.nl/",
     "adres" : "Basisschool Het Zuiderlicht Langstraat 48, 8251 JZ Dronten"
   },
@@ -327,9 +327,9 @@ var geojson = [{
     "id":"marker-ijo1qpiw0",
     "title":"FabLab Ede",
     "description":"FabLab Ede",
-    "marker-size":"small",
+    "marker-size":"medium",
     "marker-color":"#f86767",
-    "marker-symbol":"",
+    "marker-symbol":"rocket",
     "website" : "http://fablabede.nl/",
     "adres" : "Bovenbuurtweg 7 Ede"
   },
@@ -344,9 +344,9 @@ var geojson = [{
     "id":"marker-ijo1qpiw0",
     "title":"de Maakschappij",
     "description":"de Maakschappij",
-    "marker-size":"small",
+    "marker-size":"medium",
     "marker-color":"#f86767",
-    "marker-symbol":"",
+    "marker-symbol":"rocket",
     "website" : "http://www.de-maakschappij.nl/",
     "adres" : "Hobbemaweg 9, 9761HL eelde"
   },
@@ -361,9 +361,9 @@ var geojson = [{
     "id":"marker-ijo1qpiw0",
     "title":"De Factorij",
     "description":"De Factorij",
-    "marker-size":"small",
+    "marker-size":"medium",
     "marker-color":"#f86767",
-    "marker-symbol":"",
+    "marker-symbol":"rocket",
     "website" : "http://de-factorij.nl/",
     "adres" : "Klokgebouw 151/145, Strijp-S, 5617 AB Eindhoven"
   },
@@ -378,9 +378,9 @@ var geojson = [{
     "id":"marker-ijo1qpiw0",
     "title":"FabLab Brainport Eindhoven",
     "description":"FabLab Brainport Eindhoven",
-    "marker-size":"small",
+    "marker-size":"medium",
     "marker-color":"#f86767",
-    "marker-symbol":"",
+    "marker-symbol":"rocket",
     "website" : "http://fablabbrainport.nl/",
     "adres" : "Frederiklaan 60a\n5616 NJ Eindhoven"
   },
@@ -395,9 +395,9 @@ var geojson = [{
     "id":"marker-ijo1qpiw0",
     "title":"MAD emergent art center",
     "description":"MAD emergent art center",
-    "marker-size":"small",
+    "marker-size":"medium",
     "marker-color":"#f86767",
-    "marker-symbol":"",
+    "marker-symbol":"rocket",
     "website" : "http://madlab.nl/",
     "adres" : "Don Boscostraat 4, 5611 KW Eindhoven"
   },
@@ -412,9 +412,9 @@ var geojson = [{
     "id":"marker-ijo1qpiw0",
     "title":"FabLab Enschede",
     "description":"FabLab Enschede",
-    "marker-size":"small",
+    "marker-size":"medium",
     "marker-color":"#f86767",
-    "marker-symbol":"",
+    "marker-symbol":"rocket",
     "website" : "http://www.fablabenschede.nl/",
     "adres" : "Bezoekadres: M.H. Tromplaan 28 7513 AB Enschede Postadres: Postbus 70.000 7500 KB Enschede"
   },
@@ -429,9 +429,9 @@ var geojson = [{
     "id":"marker-ijo1qpiw0",
     "title":"KinderFabLab",
     "description":"KinderFabLab",
-    "marker-size":"small",
+    "marker-size":"medium",
     "marker-color":"#f86767",
-    "marker-symbol":"",
+    "marker-symbol":"rocket",
     "website" : "http://www.kinderfablab.nl/",
     "adres" : "Stroinksbleekweg 2\n\n7523 ZL Enschede"
   },
@@ -446,9 +446,9 @@ var geojson = [{
     "id":"marker-ijo1qpiw0",
     "title":"minifablab makerhousehold",
     "description":"minifablab makerhousehold",
-    "marker-size":"small",
+    "marker-size":"medium",
     "marker-color":"#f86767",
-    "marker-symbol":"",
+    "marker-symbol":"rocket",
     "website" : null,
     "adres" : "Amelinkhorst 4, Enschede, 7531GN,"
   },
@@ -463,9 +463,9 @@ var geojson = [{
     "id":"marker-ijo1qpiw0",
     "title":"Wowlab",
     "description":"Wowlab",
-    "marker-size":"small",
+    "marker-size":"medium",
     "marker-color":"#f86767",
-    "marker-symbol":"",
+    "marker-symbol":"rocket",
     "website" : "http://www.woutzweers.nl/wowlab/",
     "adres" : "Stroinksbleekweg 4a\n7523 ZL Enschede\n"
   },
@@ -480,9 +480,9 @@ var geojson = [{
     "id":"marker-ijo1qpiw0",
     "title":"FabLab",
     "description":"FabLab",
-    "marker-size":"small",
+    "marker-size":"medium",
     "marker-color":"#f86767",
-    "marker-symbol":"",
+    "marker-symbol":"rocket",
     "website" : "http://www.fablaberpemere.be/",
     "adres" : "Kloosterstraat 31, 9420 Erpe-Mere, Belgium"
   },
@@ -497,9 +497,9 @@ var geojson = [{
     "id":"marker-ijo1qpiw0",
     "title":"FabLab Genk",
     "description":"FabLab Genk",
-    "marker-size":"small",
+    "marker-size":"medium",
     "marker-color":"#f86767",
-    "marker-symbol":"",
+    "marker-symbol":"rocket",
     "website" : "http://www.fablabgenk.be/",
     "adres" : "Media, Arts & Design faculty (campus C-mine) C-mine 5, 3600 Genk"
   },
@@ -514,9 +514,9 @@ var geojson = [{
     "id":"marker-ijo1qpiw0",
     "title":"Timelab Gent",
     "description":"Timelab Gent",
-    "marker-size":"small",
+    "marker-size":"medium",
     "marker-color":"#f86767",
-    "marker-symbol":"",
+    "marker-symbol":"rocket",
     "website" : "http://www.timelab.org/",
     "adres" : "Brusselsepoortstraat 97\n9000 Gent"
   },
@@ -531,9 +531,9 @@ var geojson = [{
     "id":"marker-ijo1qpiw0",
     "title":"Nerdlab",
     "description":"Nerdlab",
-    "marker-size":"small",
+    "marker-size":"medium",
     "marker-color":"#f86767",
-    "marker-symbol":"",
+    "marker-symbol":"rocket",
     "website" : "http://nerdlab.be/",
     "adres" : "Nieuwland 67 Gent 9000"
   },
@@ -548,9 +548,9 @@ var geojson = [{
     "id":"marker-ijo1qpiw0",
     "title":"Fablab Groningen",
     "description":"Fablab Groningen",
-    "marker-size":"small",
+    "marker-size":"medium",
     "marker-color":"#f86767",
-    "marker-symbol":"",
+    "marker-symbol":"rocket",
     "website" : "http://www.fablabgroningen.nl/",
     "adres" : "Herestraat 106 9711 AM Groningen"
   },
@@ -565,14 +565,14 @@ var geojson = [{
     "id":"marker-ijo1qpiw0",
     "title":"Maakplek",
     "description":"Maakplek",
-    "marker-size":"small",
+    "marker-size":"medium",
     "marker-color":"#f86767",
-    "marker-symbol":"",
+    "marker-symbol":"rocket",
     "website" : "http://maakplek.nl/wiki/doku.php",
-    "adres" : null
+    "adres" : "Achterweg 1, Groningen"
   },
     "geometry":{
-      "coordinates":[4.7502714, 52.6381561],
+      "coordinates":[6.567031099999999, 53.2096228],
       "type":"Point"
     }
 },
@@ -580,50 +580,16 @@ var geojson = [{
   "type":"Feature",
   "properties":{
     "id":"marker-ijo1qpiw0",
-    "title":"hackerspaces Belgi��",
-    "description":"hackerspaces Belgi��",
-    "marker-size":"small",
+    "title":"Hack BE",
+    "description":"Hack BE",
+    "marker-size":"medium",
     "marker-color":"#f86767",
-    "marker-symbol":"",
+    "marker-symbol":"rocket",
     "website" : "http://hackerspaces.be/",
-    "adres" : null
+    "adres" : "Herrystraat 22, 2100 Deurne"
   },
     "geometry":{
-      "coordinates":[4.7502714, 52.6381561],
-      "type":"Point"
-    }
-},
-{
-  "type":"Feature",
-  "properties":{
-    "id":"marker-ijo1qpiw0",
-    "title":"hackerspaces Nederland",
-    "description":"hackerspaces Nederland",
-    "marker-size":"small",
-    "marker-color":"#f86767",
-    "marker-symbol":"",
-    "website" : "https://hackerspaces.nl/spaces/",
-    "adres" : null
-  },
-    "geometry":{
-      "coordinates":[4.7502714, 52.6381561],
-      "type":"Point"
-    }
-},
-{
-  "type":"Feature",
-  "properties":{
-    "id":"marker-ijo1qpiw0",
-    "title":"Makerspace PXL/UHasselt",
-    "description":"Makerspace PXL/UHasselt",
-    "marker-size":"small",
-    "marker-color":"#f86767",
-    "marker-symbol":"",
-    "website" : "http://makerspace.pxluhasselt.be/",
-    "adres" : null
-  },
-    "geometry":{
-      "coordinates":[4.7502714, 52.6381561],
+      "coordinates":[4.4535708, 51.20913290000001],
       "type":"Point"
     }
 },
@@ -633,9 +599,9 @@ var geojson = [{
     "id":"marker-ijo1qpiw0",
     "title":"BUDA::lab Kortrijk",
     "description":"BUDA::lab Kortrijk",
-    "marker-size":"small",
+    "marker-size":"medium",
     "marker-color":"#f86767",
-    "marker-symbol":"",
+    "marker-symbol":"rocket",
     "website" : "http://budalab.be/",
     "adres" : "Dam 2a, B-5800 Kortrijk"
   },
@@ -648,28 +614,11 @@ var geojson = [{
   "type":"Feature",
   "properties":{
     "id":"marker-ijo1qpiw0",
-    "title":null,
-    "description":null,
-    "marker-size":"small",
-    "marker-color":"#f86767",
-    "marker-symbol":"",
-    "website" : null,
-    "adres" : null
-  },
-    "geometry":{
-      "coordinates":[4.7502714, 52.6381561],
-      "type":"Point"
-    }
-},
-{
-  "type":"Feature",
-  "properties":{
-    "id":"marker-ijo1qpiw0",
     "title":"Frysklab Leeuwarden/Frysl��n",
     "description":"Frysklab Leeuwarden/Frysl��n",
-    "marker-size":"small",
+    "marker-size":"medium",
     "marker-color":"#f86767",
-    "marker-symbol":"",
+    "marker-symbol":"rocket",
     "website" : "http://www.frysklab.nl/",
     "adres" : "Zuiderkruisweg 4, 8903 JM Leeuwarden"
   },
@@ -684,10 +633,10 @@ var geojson = [{
     "id":"marker-ijo1qpiw0",
     "title":"FabLab Leiden",
     "description":"FabLab Leiden",
-    "marker-size":"small",
+    "marker-size":"medium",
     "marker-color":"#f86767",
-    "marker-symbol":"",
-    "website" : "http://makerspaceleiden.nl/drupal/node/12",
+    "marker-symbol":"rocket",
+    "website" : "www.makerspaceleiden.nl/drupal/node/12",
     "adres" : "Volmolengracht 13, 2312 PG Leiden (atelier 14)"
   },
     "geometry":{
@@ -701,9 +650,9 @@ var geojson = [{
     "id":"marker-ijo1qpiw0",
     "title":"D'Lab",
     "description":"D'Lab",
-    "marker-size":"small",
+    "marker-size":"medium",
     "marker-color":"#f86767",
-    "marker-symbol":"",
+    "marker-symbol":"rocket",
     "website" : null,
     "adres" : "Blokhuisplein 40, 8911 LJ Leeuwarden"
   },
@@ -718,9 +667,9 @@ var geojson = [{
     "id":"marker-ijo1qpiw0",
     "title":"FabLab Flevoland Dronten / BiblioLab Lelystad",
     "description":"FabLab Flevoland Dronten / BiblioLab Lelystad",
-    "marker-size":"small",
+    "marker-size":"medium",
     "marker-color":"#f86767",
-    "marker-symbol":"",
+    "marker-symbol":"rocket",
     "website" : "http://www.fablabflevoland.nl/",
     "adres" : "de Morinel 55 8251 HT Dronten"
   },
@@ -735,9 +684,9 @@ var geojson = [{
     "id":"marker-ijo1qpiw0",
     "title":"FabLab Leuven",
     "description":"FabLab Leuven",
-    "marker-size":"small",
+    "marker-size":"medium",
     "marker-color":"#f86767",
-    "marker-symbol":"",
+    "marker-symbol":"rocket",
     "website" : "http://fablab-leuven.be/",
     "adres" : "Celestijnenlaan 300A, 3001 Heverlee"
   },
@@ -750,16 +699,16 @@ var geojson = [{
   "type":"Feature",
   "properties":{
     "id":"marker-ijo1qpiw0",
-    "title":"RElab Li��ge",
-    "description":"RElab Li��ge",
-    "marker-size":"small",
+    "title":"RElab Liege",
+    "description":"RElab Liege",
+    "marker-size":"medium",
     "marker-color":"#f86767",
-    "marker-symbol":"",
+    "marker-symbol":"rocket",
     "website" : "http://www.relab.be/",
-    "adres" : "Place Saint-Etienne  Rue��Lambert Lombard, 1 4000 Li��ge"
+    "adres" : "Rue Chapelle-des-Clercs, 2\n4000 Liege"
   },
     "geometry":{
-      "coordinates":[4.7502714, 52.6381561],
+      "coordinates":[5.5748297, 50.64380999999999],
       "type":"Point"
     }
 },
@@ -769,11 +718,11 @@ var geojson = [{
     "id":"marker-ijo1qpiw0",
     "title":"Makilab",
     "description":"Makilab",
-    "marker-size":"small",
+    "marker-size":"medium",
     "marker-color":"#f86767",
-    "marker-symbol":"",
+    "marker-symbol":"rocket",
     "website" : "http://makilab.org/",
-    "adres" : "Rue Z��nobe Gramme, 1348 Ottignies-Louvain-la-Neuve"
+    "adres" : "Rue Zénobe Gramme, 1348 Ottignies-Louvain-la-Neuve"
   },
     "geometry":{
       "coordinates":[4.6218694, 50.669526],
@@ -786,9 +735,9 @@ var geojson = [{
     "id":"marker-ijo1qpiw0",
     "title":"FabLab Luxemburg",
     "description":"FabLab Luxemburg",
-    "marker-size":"small",
+    "marker-size":"medium",
     "marker-color":"#f86767",
-    "marker-symbol":"",
+    "marker-symbol":"rocket",
     "website" : "http://fablablux.org/",
     "adres" : "9, Avenue des Hauts-Fourneaux\nL-4362 Esch-sur-Alzette"
   },
@@ -803,9 +752,9 @@ var geojson = [{
     "id":"marker-ijo1qpiw0",
     "title":"FabLab Maastricht",
     "description":"FabLab Maastricht",
-    "marker-size":"small",
+    "marker-size":"medium",
     "marker-color":"#f86767",
-    "marker-symbol":"",
+    "marker-symbol":"rocket",
     "website" : "http://www.fablabmaastricht.nl/",
     "adres" : "Herbenusstraat 89\n 6211 RB Maastricht"
   },
@@ -818,45 +767,11 @@ var geojson = [{
   "type":"Feature",
   "properties":{
     "id":"marker-ijo1qpiw0",
-    "title":"FabLab Mechelen",
-    "description":"FabLab Mechelen",
-    "marker-size":"small",
-    "marker-color":"#f86767",
-    "marker-symbol":"",
-    "website" : "http://fablabmechelen.be",
-    "adres" : "nog geen locatie"
-  },
-    "geometry":{
-      "coordinates":[4.7502714, 52.6381561],
-      "type":"Point"
-    }
-},
-{
-  "type":"Feature",
-  "properties":{
-    "id":"marker-ijo1qpiw0",
-    "title":"zz Mechelen",
-    "description":"zz Mechelen",
-    "marker-size":"small",
-    "marker-color":"#f86767",
-    "marker-symbol":"",
-    "website" : "http://technopolis.be/nl/?n=1&e=472&s=488",
-    "adres" : null
-  },
-    "geometry":{
-      "coordinates":[4.7502714, 52.6381561],
-      "type":"Point"
-    }
-},
-{
-  "type":"Feature",
-  "properties":{
-    "id":"marker-ijo1qpiw0",
     "title":"Zeeland",
     "description":"Zeeland",
-    "marker-size":"small",
+    "marker-size":"medium",
     "marker-color":"#f86767",
-    "marker-symbol":"",
+    "marker-symbol":"rocket",
     "website" : " http://www.dezb.nl\nwww.fablabzeeland.com",
     "adres" : "Kousteensedijk 7, 4331 JE Middelburg"
   },
@@ -869,33 +784,16 @@ var geojson = [{
   "type":"Feature",
   "properties":{
     "id":"marker-ijo1qpiw0",
-    "title":"Makerbus",
-    "description":"Makerbus",
-    "marker-size":"small",
-    "marker-color":"#f86767",
-    "marker-symbol":"",
-    "website" : "http://makerbus.nl/",
-    "adres" : null
-  },
-    "geometry":{
-      "coordinates":[4.7502714, 52.6381561],
-      "type":"Point"
-    }
-},
-{
-  "type":"Feature",
-  "properties":{
-    "id":"marker-ijo1qpiw0",
     "title":"FabLabMons",
     "description":"FabLabMons",
-    "marker-size":"small",
+    "marker-size":"medium",
     "marker-color":"#f86767",
-    "marker-symbol":"",
+    "marker-symbol":"rocket",
     "website" : "http://fablabmons.be/",
-    "adres" : "Rue du Joncquois n��53\n\n7000 Mons"
+    "adres" : "Rue du Joncquois n53\n\n7000 Mons"
   },
     "geometry":{
-      "coordinates":[3.9566904, 50.4542165],
+      "coordinates":[3.9531139, 50.4444161],
       "type":"Point"
     }
 },
@@ -905,9 +803,9 @@ var geojson = [{
     "id":"marker-ijo1qpiw0",
     "title":"TRAKK",
     "description":"TRAKK",
-    "marker-size":"small",
+    "marker-size":"medium",
     "marker-color":"#f86767",
-    "marker-symbol":"",
+    "marker-symbol":"rocket",
     "website" : "http://www.trakk.be/",
     "adres" : "Avenue Reine Astrid 118 5000 Namur"
   },
@@ -922,9 +820,9 @@ var geojson = [{
     "id":"marker-ijo1qpiw0",
     "title":"Groene Hart",
     "description":"Groene Hart",
-    "marker-size":"small",
+    "marker-size":"medium",
     "marker-color":"#f86767",
-    "marker-symbol":"",
+    "marker-symbol":"rocket",
     "website" : "http://www.lasersnijdenservice.nl/",
     "adres" : "Achttienkavels 8, Nieuwkoop, 2421 LG"
   },
@@ -939,14 +837,14 @@ var geojson = [{
     "id":"marker-ijo1qpiw0",
     "title":"Tech Lab\n",
     "description":"Tech Lab\n",
-    "marker-size":"small",
+    "marker-size":"medium",
     "marker-color":"#f86767",
-    "marker-symbol":"",
+    "marker-symbol":"rocket",
     "website" : "http://www.techlab-nijmegen.nl/",
-    "adres" : null
+    "adres" : "Heyendaalseweg 98, 6525 EE Nijmegen"
   },
     "geometry":{
-      "coordinates":[4.7502714, 52.6381561],
+      "coordinates":[5.8693689, 51.8281808],
       "type":"Point"
     }
 },
@@ -956,14 +854,14 @@ var geojson = [{
     "id":"marker-ijo1qpiw0",
     "title":"FabLab Nijmegen i.o.",
     "description":"FabLab Nijmegen i.o.",
-    "marker-size":"small",
+    "marker-size":"medium",
     "marker-color":"#f86767",
-    "marker-symbol":"",
+    "marker-symbol":"rocket",
     "website" : null,
-    "adres" : null
+    "adres" : "Heyendaalseweg 98, 6525 EE Nijmegen\n"
   },
     "geometry":{
-      "coordinates":[4.7502714, 52.6381561],
+      "coordinates":[5.8693689, 51.8281808],
       "type":"Point"
     }
 },
@@ -973,9 +871,9 @@ var geojson = [{
     "id":"marker-ijo1qpiw0",
     "title":"FabLab NoordBrabant Hertogenbosch",
     "description":"FabLab NoordBrabant Hertogenbosch",
-    "marker-size":"small",
+    "marker-size":"medium",
     "marker-color":"#f86767",
-    "marker-symbol":"",
+    "marker-symbol":"rocket",
     "website" : "http://www.fablabnoordbrabant.nl/",
     "adres" : "Almijstraat 10,\n5061 PA Oisterwijk. "
   },
@@ -990,10 +888,10 @@ var geojson = [{
     "id":"marker-ijo1qpiw0",
     "title":"Sparklab  i.o.",
     "description":"Sparklab  i.o.",
-    "marker-size":"small",
+    "marker-size":"medium",
     "marker-color":"#f86767",
-    "marker-symbol":"",
-    "website" : "http://sparkcampus.nl",
+    "marker-symbol":"rocket",
+    "website" : "www.sparkcampus.nl",
     "adres" : "Graafsebaan 3 Rosmalen "
   },
     "geometry":{
@@ -1007,9 +905,9 @@ var geojson = [{
     "id":"marker-ijo1qpiw0",
     "title":"Stadslab Rotterdam",
     "description":"Stadslab Rotterdam",
-    "marker-size":"small",
+    "marker-size":"medium",
     "marker-color":"#f86767",
-    "marker-symbol":"",
+    "marker-symbol":"rocket",
     "website" : "http://stadslabrotterdam.nl/",
     "adres" : "Wijnhaven 101, 3011 WN Rotterdam, lokaal WN.0.0023."
   },
@@ -1024,9 +922,9 @@ var geojson = [{
     "id":"marker-ijo1qpiw0",
     "title":"HET LAB",
     "description":"HET LAB",
-    "marker-size":"small",
+    "marker-size":"medium",
     "marker-color":"#f86767",
-    "marker-symbol":"",
+    "marker-symbol":"rocket",
     "website" : "http://hetlabrotterdam.nl/",
     "adres" : "Beukelsdijk 91a\n3021 AE Rotterdam"
   },
@@ -1041,14 +939,14 @@ var geojson = [{
     "id":"marker-ijo1qpiw0",
     "title":"RDM Makerspace",
     "description":"RDM Makerspace",
-    "marker-size":"small",
+    "marker-size":"medium",
     "marker-color":"#f86767",
-    "marker-symbol":"",
+    "marker-symbol":"rocket",
     "website" : "http://www.rdmmakerspace.nl/",
-    "adres" : null
+    "adres" : "Scheepsbouwweg 8, 3089 JW Rotterdam"
   },
     "geometry":{
-      "coordinates":[4.7502714, 52.6381561],
+      "coordinates":[4.4186144, 51.8965208],
       "type":"Point"
     }
 },
@@ -1058,10 +956,10 @@ var geojson = [{
     "id":"marker-ijo1qpiw0",
     "title":"Bouwkeet i.o.",
     "description":"Bouwkeet i.o.",
-    "marker-size":"small",
+    "marker-size":"medium",
     "marker-color":"#f86767",
-    "marker-symbol":"",
-    "website" : "http://bouwkeet.org",
+    "marker-symbol":"rocket",
+    "website" : "www.bouwkeet.org",
     "adres" : "Schiedamseweg 240-248 3025AP Rotterdam"
   },
     "geometry":{
@@ -1075,9 +973,9 @@ var geojson = [{
     "id":"marker-ijo1qpiw0",
     "title":"FabLab013XL",
     "description":"FabLab013XL",
-    "marker-size":"small",
+    "marker-size":"medium",
     "marker-color":"#f86767",
-    "marker-symbol":"",
+    "marker-symbol":"rocket",
     "website" : "http://fablab013.nl/",
     "adres" : "Galjoenstraat 37, Tilburg, 5017 CL, Nederland"
   },
@@ -1092,9 +990,9 @@ var geojson = [{
     "id":"marker-ijo1qpiw0",
     "title":"ICER-lab Ulft",
     "description":"ICER-lab Ulft",
-    "marker-size":"small",
+    "marker-size":"medium",
     "marker-color":"#f86767",
-    "marker-symbol":"",
+    "marker-symbol":"rocket",
     "website" : "https://www.icer.nl/",
     "adres" : "Hutteweg 24 7071 BV Ulft"
   },
@@ -1109,9 +1007,9 @@ var geojson = [{
     "id":"marker-ijo1qpiw0",
     "title":"miniFabLab Utrecht",
     "description":"miniFabLab Utrecht",
-    "marker-size":"small",
+    "marker-size":"medium",
     "marker-color":"#f86767",
-    "marker-symbol":"",
+    "marker-symbol":"rocket",
     "website" : "http://www.minifablab.nl/",
     "adres" : "Nobeldwarsstraat 33, 3512 EW Utrecht"
   },
@@ -1126,9 +1024,9 @@ var geojson = [{
     "id":"marker-ijo1qpiw0",
     "title":"Protospace",
     "description":"Protospace",
-    "marker-size":"small",
+    "marker-size":"medium",
     "marker-color":"#f86767",
-    "marker-symbol":"",
+    "marker-symbol":"rocket",
     "website" : "http://www.protospace.nl/",
     "adres" : "Nijverheidsweg 16B, 3534 AM Utrecht\n\n"
   },
@@ -1143,9 +1041,9 @@ var geojson = [{
     "id":"marker-ijo1qpiw0",
     "title":"Rotslab",
     "description":"Rotslab",
-    "marker-size":"small",
+    "marker-size":"medium",
     "marker-color":"#f86767",
-    "marker-symbol":"",
+    "marker-symbol":"rocket",
     "website" : "http://www.rotslab.nl/",
     "adres" : "Heuveloord 140 3523 CK Utrecht"
   },
@@ -1160,9 +1058,9 @@ var geojson = [{
     "id":"marker-ijo1qpiw0",
     "title":"FabLab Veenendaal",
     "description":"FabLab Veenendaal",
-    "marker-size":"small",
+    "marker-size":"medium",
     "marker-color":"#f86767",
-    "marker-symbol":"",
+    "marker-symbol":"rocket",
     "website" : "http://www.bibliotheekveenendaal.nl/educatie/fablab-veenendaal.html",
     "adres" : "Kees Stipplein 74\n3901TP VEENENDAAL"
   },
@@ -1177,9 +1075,9 @@ var geojson = [{
     "id":"marker-ijo1qpiw0",
     "title":"FabLab Wageningen",
     "description":"FabLab Wageningen",
-    "marker-size":"small",
+    "marker-size":"medium",
     "marker-color":"#f86767",
-    "marker-symbol":"",
+    "marker-symbol":"rocket",
     "website" : "http://www.fablabwag.nl/",
     "adres" : "Triton, campus WUR gebouw 119, Vijfde Polderweg 1, 6708 WC Wageningen"
   },
@@ -1194,10 +1092,10 @@ var geojson = [{
     "id":"marker-ijo1qpiw0",
     "title":"Fablab Zoetermeer",
     "description":"Fablab Zoetermeer",
-    "marker-size":"small",
+    "marker-size":"medium",
     "marker-color":"#f86767",
-    "marker-symbol":"",
-    "website" : "http://fablab-zoetermeer.nl",
+    "marker-symbol":"rocket",
+    "website" : "http://www.fablab-zoetermeer.nl",
     "adres" : "Stadhuisplein 2\n 2711 EC  ZOETERMEER"
   },
     "geometry":{
@@ -1209,203 +1107,16 @@ var geojson = [{
   "type":"Feature",
   "properties":{
     "id":"marker-ijo1qpiw0",
-    "title":"Digital Art Lab",
-    "description":"Digital Art Lab",
-    "marker-size":"small",
-    "marker-color":"#f86767",
-    "marker-symbol":"",
-    "website" : "http://www.digitalartlab.nl/over-het-lab",
-    "adres" : null
-  },
-    "geometry":{
-      "coordinates":[4.7502714, 52.6381561],
-      "type":"Point"
-    }
-},
-{
-  "type":"Feature",
-  "properties":{
-    "id":"marker-ijo1qpiw0",
     "title":"FabLab R10 Zwolle",
     "description":"FabLab R10 Zwolle",
-    "marker-size":"small",
+    "marker-size":"medium",
     "marker-color":"#f86767",
-    "marker-symbol":"",
+    "marker-symbol":"rocket",
     "website" : "http://fablabzwolle.nl/",
     "adres" : "Rieteweg 10\n8041AK Zwolle"
   },
     "geometry":{
       "coordinates":[6.074521, 52.5147164],
-      "type":"Point"
-    }
-},
-{
-  "type":"Feature",
-  "properties":{
-    "id":"marker-ijo1qpiw0",
-    "title":null,
-    "description":null,
-    "marker-size":"small",
-    "marker-color":"#f86767",
-    "marker-symbol":"",
-    "website" : null,
-    "adres" : null
-  },
-    "geometry":{
-      "coordinates":[4.7502714, 52.6381561],
-      "type":"Point"
-    }
-},
-{
-  "type":"Feature",
-  "properties":{
-    "id":"marker-ijo1qpiw0",
-    "title":null,
-    "description":null,
-    "marker-size":"small",
-    "marker-color":"#f86767",
-    "marker-symbol":"",
-    "website" : null,
-    "adres" : null
-  },
-    "geometry":{
-      "coordinates":[4.7502714, 52.6381561],
-      "type":"Point"
-    }
-},
-{
-  "type":"Feature",
-  "properties":{
-    "id":"marker-ijo1qpiw0",
-    "title":null,
-    "description":null,
-    "marker-size":"small",
-    "marker-color":"#f86767",
-    "marker-symbol":"",
-    "website" : null,
-    "adres" : null
-  },
-    "geometry":{
-      "coordinates":[4.7502714, 52.6381561],
-      "type":"Point"
-    }
-},
-{
-  "type":"Feature",
-  "properties":{
-    "id":"marker-ijo1qpiw0",
-    "title":null,
-    "description":null,
-    "marker-size":"small",
-    "marker-color":"#f86767",
-    "marker-symbol":"",
-    "website" : null,
-    "adres" : null
-  },
-    "geometry":{
-      "coordinates":[4.7502714, 52.6381561],
-      "type":"Point"
-    }
-},
-{
-  "type":"Feature",
-  "properties":{
-    "id":"marker-ijo1qpiw0",
-    "title":null,
-    "description":null,
-    "marker-size":"small",
-    "marker-color":"#f86767",
-    "marker-symbol":"",
-    "website" : null,
-    "adres" : null
-  },
-    "geometry":{
-      "coordinates":[4.7502714, 52.6381561],
-      "type":"Point"
-    }
-},
-{
-  "type":"Feature",
-  "properties":{
-    "id":"marker-ijo1qpiw0",
-    "title":null,
-    "description":null,
-    "marker-size":"small",
-    "marker-color":"#f86767",
-    "marker-symbol":"",
-    "website" : null,
-    "adres" : null
-  },
-    "geometry":{
-      "coordinates":[4.7502714, 52.6381561],
-      "type":"Point"
-    }
-},
-{
-  "type":"Feature",
-  "properties":{
-    "id":"marker-ijo1qpiw0",
-    "title":null,
-    "description":null,
-    "marker-size":"small",
-    "marker-color":"#f86767",
-    "marker-symbol":"",
-    "website" : null,
-    "adres" : null
-  },
-    "geometry":{
-      "coordinates":[4.7502714, 52.6381561],
-      "type":"Point"
-    }
-},
-{
-  "type":"Feature",
-  "properties":{
-    "id":"marker-ijo1qpiw0",
-    "title":null,
-    "description":null,
-    "marker-size":"small",
-    "marker-color":"#f86767",
-    "marker-symbol":"",
-    "website" : null,
-    "adres" : null
-  },
-    "geometry":{
-      "coordinates":[4.7502714, 52.6381561],
-      "type":"Point"
-    }
-},
-{
-  "type":"Feature",
-  "properties":{
-    "id":"marker-ijo1qpiw0",
-    "title":null,
-    "description":null,
-    "marker-size":"small",
-    "marker-color":"#f86767",
-    "marker-symbol":"",
-    "website" : null,
-    "adres" : null
-  },
-    "geometry":{
-      "coordinates":[4.7502714, 52.6381561],
-      "type":"Point"
-    }
-},
-{
-  "type":"Feature",
-  "properties":{
-    "id":"marker-ijo1qpiw0",
-    "title":null,
-    "description":null,
-    "marker-size":"small",
-    "marker-color":"#f86767",
-    "marker-symbol":"",
-    "website" : null,
-    "adres" : null
-  },
-    "geometry":{
-      "coordinates":[4.7502714, 52.6381561],
       "type":"Point"
     }
 }];
