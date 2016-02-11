@@ -2,7 +2,7 @@
 <section class="sectionHeader">
  <header class="change-color">
 	 <h1>Projecten</h1>
-   <p>Laat je inspireren door deze projecten en maak het in de klas!</p>
+   <p>Laat je inspireren door deze projecten voor in de klas! Voeg projecten toe of stuur een e-mail naar projecten@makereducation.nl</p>
    <a href="https://openthings.wiki" class="btn btn-3" target="_blank">Project plaatsen</a>
    <a href="https://openthings.wiki/tag/48" class="btn btn-3" target="_blank">Meer projecten</a>
 	 </header>
