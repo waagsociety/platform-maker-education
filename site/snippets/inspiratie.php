@@ -4,6 +4,7 @@
 ?>
 
 <section class="inspiration_slider half-width left">
+  <ul class="slider_list">
   <?php foreach($items as $section):?>
       <li <?php if($section == $first) echo ' class="active"' ?> style="background-image: url(<?php echo url(); ?>/content/<?php echo $section->diruri() ?>/<?php echo html($section->heroimage()) ?>);">
         <div class="slider_caption">
@@ -13,4 +14,5 @@
         </div>
       </li>
   <?php endforeach ?>
+  </ul>
 </section>

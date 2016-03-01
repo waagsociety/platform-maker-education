@@ -1,6 +1,6 @@
 <?php snippet('header') ?>
 
-  <main class="main defaultPage change-color" role="main">
+  <main class="main defaultPage change-color">
     <div class="text">
       <h1><?php echo $page->title()->html() ?></h1>
       <?php echo $page->text()->kirbytext() ?>
@@ -50,7 +50,7 @@
 			<input type="text" id="website" name="website" placeholder="Website">
 		</div>
 		<div class="input_block left">
-			<textarea type="text" id="bericht" name="bericht" rows="5" placeholder="Omschrijf jouw activiteit(en) maximaal 280 karakters"></textarea>
+			<textarea type="text" id="bericht" name="bericht" rows="7" maxlength="280" placeholder="Omschrijf jouw activiteit(en) maximaal 280 karakters"></textarea>
 		</div>
 
 		<button class="btn-2" type="submit" name="submit" value="Submit">Zet jezelf op de kaart</button>

@@ -1,6 +1,6 @@
 function init(){
 	initEventHandlers();
-	initSlider( '.inspiration_slider' );
+	initSlider( '.slider_list' );
 	loadWayPoint();
 }
 document.addEventListener("DOMContentLoaded", init);
