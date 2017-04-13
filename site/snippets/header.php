@@ -27,6 +27,9 @@
   <meta name="msapplication-TileColor" content="#da532c">
   <meta name="msapplication-TileImage" content="/mstile-144x144.png">
   <meta name="theme-color" content="#ffffff">
+  
+  <script src="https://use.typekit.net/qrr5icn.js"></script>
+  <script>try{Typekit.load({ async: true });}catch(e){}</script>
 
 
   <?php echo css('assets/css/main.css') ?>
@@ -37,6 +40,11 @@
   <div id="main">
   <?php snippet('menu') ?>
   <?php if($page->heroimage()->isNotEmpty()): ?>
+    <script type="text/javascript">
+      document.addEventListener("DOMContentLoaded", function(event) { 
+        loop();
+      });
+    </script>
 
   <header id="projectHeader" class="header cf <?php if($page->isHomePage()): ?>half-width left scene_element scene_element--fadein<?php else: ?> scene_element scene_element--fadein scene_element--shrink <?php endif ?>" style="background-image: url(<?php echo url(); ?>/content/<?php echo $page->diruri() ?>/<?php echo html($page->heroimage()) ?>);">
     <section class="headerSign">

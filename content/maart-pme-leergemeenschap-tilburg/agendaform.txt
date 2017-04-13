@@ -1,0 +1,71 @@
+Heroimage: 
+
+----
+
+Icon: 
+
+----
+
+Title: 9 maart PME Leergemeenschap Tilburg
+
+----
+
+Videolink: 
+
+----
+
+Subtitle: 
+
+----
+
+Intro: Bijeenkomst Platform Maker Education in Tilburg.
+
+----
+
+Text: 
+
+Het duurde even maar we organiseren weer een bijeenkomst van het Platform Maker Education. Dit keer in samenwerking met  het STEMTeacherLab van de Fontys Lerarenopleiding Tilburg. We zijn heel blij met de samenwerking en we hopen dat we weer een mooie avond met elkaar kunnen maken. 
+
+Het thema is deze keer "Physical Computing". We weten even geen goede Nederlandse term. Je programmeert dingen die in de fysieke wereld iets kunnen doen (denk bijvoorbeeld aan robots) of andersom: de fysieke wereld laat jouw programma iets doen. Recentelijk zijn er veel ontwikkelingen die veel bruikbaar materiaal voor het onderwijs hebben opgeleverd. De Micro:Bit van de BBC is daar een voorbeeld van. Op de deze avond zal Lex van Gijsel wat vertellen over de mogelijkheden voor het Nederlandse onderwijs.
+
+Naast de Micro:bit is er nog veel meer materiaal waar je tijdens de avond mee aan de slag kan. Het is echt voor alle niveaus, PO tot HO, beginner tot expert en voor alle vakken (ja, ook als je een taal geeft). We leren van en met elkaar! Wanneer je zelf materiaal hebt dat bij het thema past, dan vinden we het leuk als je dat deelt met anderen op deze avond.
+
+Schrijf je hier of hieronder in en neem iemand mee!
+
+**Datum: donderdag 9 maart
+Inloop vanaf 16.00 uur, start om 16.30uur, einde: 21.00 uur.
+Voor een eenvoudige maaltijd wordt gezorgd.**
+
+Fontys Lerarenopleiding
+Professor Goossenslaan 1, Tilburg.
+
+Er is een grote parkeerplaats achter het instituut. Deze parkeerplaats is gratis, maar vaak erg vol. Mocht je geen plek meer kunnen vinden is er naast het instituut een groot parkeerterrein onder en achter de bioscoop (euroscoop). Hier parkeren kost 1 euro, ongeacht de parkeerduur.
+
+Het lokaal is B0.14. Dit bevindt zich in de groene B-vleugel op de begane grond. Het gebouw zit vrij logisch in elkaar. Het is een natuurkunde practicum lokaal.
+
+Onderaan deze site staat een tool die je helpt je route te bepalen naar het instituut:
+(link: https://fontys.nl/Over-Fontys/Fontys-Lerarenopleiding-Tilburg.htm text: https://fontys.nl/Over-Fontys/Fontys-Lerarenopleiding-Tilburg.htm)
+
+Namens het Platform Maker Education,
+Per-Ivar Kloen, Arjan van der Meij, Karien Vermeulen, Jeroen de Boer
+
+Namens het STEMTeacherLab van de Fontys Lerarenopleiding Tilburg,
+Lex van Gijsel, Mandy Stoop
+
+**Inschrijven: (link: https://goo.gl/nyOJvt text: https://goo.gl/nyOJvt)**
+
+----
+
+Layout: one-col
+
+----
+
+Elementheight: full-height
+
+----
+
+Voucherform: 0
+
+----
+
+Border: 

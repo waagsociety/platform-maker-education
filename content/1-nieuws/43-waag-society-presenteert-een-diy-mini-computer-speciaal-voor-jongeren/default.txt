@@ -1,0 +1,55 @@
+Heroimage: 
+
+----
+
+Icon: 
+
+----
+
+Title: Waag Society presenteert een DIY mini-computer speciaal voor jongeren!
+
+----
+
+Videolink: 
+
+----
+
+Subtitle: Waag Society presenteert een DIY mini-computer speciaal voor jongeren!
+
+----
+
+Intro: Met trots presenteert Waag Society de Fabschoolino, een doe-het-zelf mini-computer voor de jonge maker.
+
+----
+
+Text: 
+
+Scholen, makers, makerspaces en superhandige ouders opgelet! Met trots presenteert Waag Society (link: https://www.waag.org/nl/project/fabschoolino text: de Fabschoolino), een doe-het-zelf mini-computer voor de jonge maker. Omdat wij vinden dat iedereen de kans moet krijgen een creatieve uitvinder te zijn.
+
+De Fabschoolino is een op de Arduino gebaseerde microcontroller die je helemaal zelf moet bouwen en programmeren. Helemaal zelf ja! Speciaal voor alle supernieuwsgierige aagjes, niet-te-stoppen ontdekkers, jonge makers en alle anderen die niet kunnen wachten om hun eigen creaties tot leven te wekken. De hardware en extra onderdelen voor drie projecten ontvang je thuis, de instructies zijn te vinden op (link: http://fabschoolino.waag.org text: fabschoolino.waag.org).
+
+Want wie wil er nu niet zijn eigen robot maken? De Fabschoolino moet je eerst solderen en daarna zelf programmeren. Download de instructies van de TV-B-gone en programmeer de Fabschoolino zo dat je een televisie met een klik op de knop kunt uitschakelen. Of ontwerp een eigen deuralarm zodat er nooit meer iemand onopgemerkt de ruimte binnenkomt.
+
+Met de Fabschoolino wil Waag Society een extra impuls geven aan de maakonderwijsbeweging in Nederland. Niet alleen om leerlingen bekend te maken met de technieken van de toekomst, maar ook om hen uit te dagen hun verbeeldingskracht te gebruiken. Jongeren van groeien op in een maatschappij waar technologie en ondernemerschap steeds belangrijker worden. Zij worden echter nog altijd opgeleid naar de oude maatstaven. Met het Fabschool lesprogramma onderzoekt Waag Society hoe dit anders kan. Aan de hand van de praktijkervaring die wij opdeden tijdens de afgelopen Fabschool edities ontwikkelde wij de Fabschoolino.
+
+De 21ste eeuw is een tijd van snelle economische, sociale en technologische veranderingen. De toekomst stelt nieuwe eisen aan de jonge generatie die op dit moment aan de start van deze ontwikkelingen staat. Waag Society ziet het als haar taak deze generatie uit te rusten met de vaardigheden die nodig zijn om deze uitdagingen op een creatieve manier en met plezier te lijf te gaan.
+
+De Fabschoolino is voor makers vanaf 9 tot 100 jaar oud. Bestel hem voor €20,- excl. verzendkosten via onze (link: http://fabschoolino.waag.org text: webshop).
+
+*De Fabschoolino is ontwikkeld door de makers Henk Buursen, Emma Pareschi, Cecilia Raspanti, Anne Vlaanderen, Marc Kunst Robin van Westen en de FabSchool-kinderen in het Fablab van Waag Society. De Fabschoolino is geïnspireerd op de Diavolino van Evil Mad Scientist.*
+
+----
+
+Layout: one-col
+
+----
+
+Elementheight: full-height
+
+----
+
+Voucherform: 0
+
+----
+
+Border: 

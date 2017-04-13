@@ -1,0 +1,41 @@
+Heroimage: pme_6_square.jpg
+
+----
+
+Icon: 3d-invent-to-learn.png
+
+----
+
+Title: Invent To Learn
+
+----
+
+Videolink: 
+
+----
+
+Subtitle: Making, Tinkering, and Engineering in the Classroom
+
+----
+
+Intro: By Sylvia Libow Martinez & Gary Stager. Using technology to make, repair, or customize the things we need.
+
+----
+
+Text: By Sylvia Libow Martinez & Gary Stager. Using technology to make, repair, or customize the things we need brings engineering, design, and computer science to the masses. Fortunately for educators, this maker movement overlaps with the natural inclinations of children and the power of learning by doing. (link: http://inventtolearn.com text: Lees meer).
+
+----
+
+Layout: one-col
+
+----
+
+Elementheight: full-height
+
+----
+
+Voucherform: 0
+
+----
+
+Border: 

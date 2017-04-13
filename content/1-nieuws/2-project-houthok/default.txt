@@ -1,0 +1,53 @@
+Heroimage: 
+
+----
+
+Icon: 
+
+----
+
+Title: Project Houthok
+
+----
+
+Videolink: 
+
+----
+
+Subtitle: Door Tom Bosch, leerling op De Populier en al 2 jaar maker bij FABklas.
+
+----
+
+Intro: Tom Bosch, leerling op De Populier en al 2 jaar maker bij FABklas, deelt zijn ervaringen van project houthok.
+
+----
+
+Text: 
+
+In juni 2015 ben ik verhuisd naar een prachtig huis met een tuin en een open haard. In mijn vorige huis had ik dat allebei niet tot mijn spijt. Als huiscadeau hebben wij een hele hoop hout gekregen wat nu netjes door mijzelf opgestapeld is in de tuin onder 2 afdakjes. Het enige probleem is: waarom steeds naar buiten moeten om hout te halen voor de open haard als het regent of het hout is net allemaal opgebrand? De oplossing: een kleiner houthok binnen wat je een paar keer van hout voorziet om er daarna een tijdje mee te kunnen stoken. Ontwerpen dus maar! 
+
+Ik dus zoeken naar wat mooie 3D software om iets realistisch te laten zien. Ik kom uit bij Tinkercad, een gratis programma van Autodesk®. Precies wat ik nodig had (je kan het gratis downloaden in de Windows 10 app store of gewoon op tinkercad.com gebruiken)! Na lang klooien en veel instructievideo’s van YouTube is dit het resultaat: (plaatje rechts) het heeft 4 vakken voor hout en het is erg groot. De maten zijn: 60cm x 60cm x 40 cm. De zijkanten zijn dus 60×40 cm en de onderkant ook. Het ingewikkelde gedeelte ligt alleen in het kruis in het midden, deze lengtes zijn allebei even lang en precies 85 cm. In het midden van de 2 planken die het kruis vormen zit een sleuf zodat ze in elkaar glijden en daardoor goed passen. Alle planken zijn 12mm dik multiplex. Op het plaatje hier links zie je alles iets beter hoe het in elkaar zit.
+
+Na de goedkeuring van mijn ouders en broertje heb ik alles in het bestelformulier van FABklas gezet en gevraagd of Mr. Kloen het voor mij wilde bestellen. Dat is min of meer gelukt, de eerst volgende FABklas had Mr. Kloen de materialen, hij had ze goed doorgegeven aan de fabriek, maar de fabriek heeft ze niet goed op maat gemaakt. Dus had ik een probleem. De 2 planken die het kruis in het midden vormden waren niet 85cm maar 80; te kort dus. Ik dus de stelling van Pythagoras in het echt gebruiken en niet alleen in een wiskunde boek, dat was nieuw voor mij. Ik had besloten om de rechter en linker zijkanten aan te passen want dat leek mij het handigst. Dan kom je op zoiets als figuur 1.
+
+Als je dat dan uitwerkt krijg je figuur 2. Dan komt er dus uit dat ik de 2 zijkanten van 60cm naar 53cm moet verkorten. Dat heb ik dus gedaan en na een hoop gezaag op de figuurzaagmachine en een paar gebroken zaagjes waren allebei de planken netjes 53 cm lang. Ik zit niet voor niets op school, op school leer je dingen, zoals de stelling van Pythagoras! Op school mag je ook fouten maken, want van fouten leer je… Maar de net netjes bij gezaagde planken bleken te kort zijn! Ik heb er nog heel vaak de berekening opnieuw gedaan maar ik kwam er niet uit. 
+
+Uiteindelijk heb ik aan mijn vader gevraagd of hij het wist. Hij wist het, het was namelijk zo dat ik niet rekening had gehouden met de dikte van de planken. Ik had de planken namelijk als dunne blaadjes papier gezien. Ik heb alles mee naar huis genomen en daar zo goed mogelijk in elkaar gezet, mijn vader en ik moesten alleen nog wel oplossing bedenken voor het probleem van de te korte planken. De oplossing: we hadden nog een plint gevonden in onze eigen kluskamer, die hebben we zo gegutst zodat hij paste op de randen van de schuine zijde en de rechte zijde, daarna hebben we hem vastgelijmd en gespijkerd. Als laatste iets heb ik het geheel nog gelakt en het  resultaat zie je hiernaast met het hout er al in. Klaar!
+
+Geschreven door Tom Bosch, leerling op De Populier, al 2 jaar bij FABklas.
+
+----
+
+Layout: one-col
+
+----
+
+Elementheight: full-height
+
+----
+
+Voucherform: 0
+
+----
+
+Border: 

@@ -1,0 +1,55 @@
+Heroimage: 
+
+----
+
+Icon: 
+
+----
+
+Title: 17 september Opening Bouwkeet Rotterdam
+
+----
+
+Videolink: 
+
+----
+
+Subtitle: Bouwkeet, de makerspace van Bospolder-Tussendijken
+
+----
+
+Intro: U bent van harte uitgenodigd om op zaterdag 17 september met ons Bouwkeet feestelijk te openen.
+
+----
+
+Text: 
+
+U bent van harte uitgenodigd om op zaterdag 17 september met ons Bouwkeet feestelijk te openen. Tijdens deze dag kunt u ontdekken wat Bouwkeet, de makerspace van Bospolder-Tussendijken, allemaal te bieden heeft.
+
+Na de feestelijke opening kunt u de hele middag deelnemen aan gratis maak-workshops in de verschillende werkplaatsen, van metaal tot textiel.
+
+Datum: 17 September 2016
+Tijdstip: 12:00 -17:00
+Locatie: Schiedamseweg 240, Rotterdam
+
+Bouwkeet zal om 12:00 officieël geopend worden door burgemeester Aboutaleb waarna Rotterdamse straatvoetballer Soufiane Touzani zijn kunsten zal vertonen. Daarna kunt u deelnemen aan een van de vele workshops in onze werkplaatsen waaronder hout, metaal, textiel, keramiek en het fablab. Workshops zullen starten om 13:15, 14:30 en 15:45 uur.
+
+Inschrijven workshops: <http://www.bouwkeet.org/aanmelden-workshop>
+
+Meer informatie: <http://www.bouwkeet.org>
+
+----
+
+Layout: one-col
+
+----
+
+Elementheight: full-height
+
+----
+
+Voucherform: 0
+
+----
+
+Border: 

@@ -1,0 +1,46 @@
+Heroimage: 
+
+----
+
+Icon: 
+
+----
+
+Title: 30 maart 2016 MakerSchool Meetup
+
+----
+
+Videolink: 
+
+----
+
+Subtitle: 
+
+----
+
+Intro: Woensdag 30 maart 2016 bij Makerpoint in Utrecht. De plek om kennis te maken met verschillende makers en tools! Van 15.00 tot 18.00 uur.
+
+----
+
+Text: 
+
+Woensdag 30 maart 2016 bij Makerpoint in Utrecht, georganiseerd in samenwerking met MakerSchool. Interesse in maakonderwijs? Wil je kennismaken met verschillende makers en tools? Dan is dit de plek! Van 15.00 tot 18.00.
+
+Adres: Donkerstraat 13, 3511 KB Utrecht
+website: (link: http://www.makerschool.nl text: www.makerschool.nl)
+
+----
+
+Layout: one-col
+
+----
+
+Elementheight: full-height
+
+----
+
+Voucherform: 0
+
+----
+
+Border: 

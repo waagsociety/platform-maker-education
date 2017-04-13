@@ -14,11 +14,11 @@ Videolink:
 
 ----
 
-Subtitle: 
+Subtitle: Inspiratie om met Maker Education aan de slag te gaan.
 
 ----
 
-Intro: 
+Intro: Inspirerende boeken, websites, videos, materialen en tools voor Maker Education.
 
 ----
 
@@ -26,15 +26,15 @@ Text:
 
 ----
 
-Layout: 
+Layout: one-col
 
 ----
 
-Elementheight: 
+Elementheight: full-height
 
 ----
 
-Voucherform: 
+Voucherform: 0
 
 ----
 

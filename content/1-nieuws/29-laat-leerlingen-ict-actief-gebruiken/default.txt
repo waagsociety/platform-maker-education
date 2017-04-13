@@ -1,0 +1,81 @@
+Heroimage: 
+
+----
+
+Icon: 
+
+----
+
+Title: Laat leerlingen ict actief gebruiken
+
+----
+
+Videolink: 
+
+----
+
+Subtitle: 
+
+----
+
+Intro: Gastboog door Muriel Warners van 2MW MediaWijs.
+
+----
+
+Text: 
+
+Zwetend sjouw ik mijn rolkoffer met 6 macbooks de trap op. Ik ben nog aan de late kant ook dus ik haast me naar het lokaal. De leerlingen vuren vragen en op- en aanmerkingen op me af, dwars door mijn uitleg heen. Inwendig sta ik me op te vreten over die brutale kinderen van tegenweurdig.
+
+Maar na wat waarschuwingen gaat het beter. En dan heb ik ineens een hartstikke leuke les waar de leerlingen als een speer gaan.
+
+En ja, ik weet het. Ik heb makkelijk praten als zelfstandige naschoolse juf. Niks te maken met verstikkende curriculums en enorme tijdsdruk op school. Hoef niet eens echt verantwoording af te leggen. Beetje lol maken met kinderen en computers. Maar in de praktijk is het hard werken.
+
+(Ook als mijn kat is doodgereden en mijn huis op instorten staat. En onder voortdurende spanning over mijn financiële onzekerheid. Maar dat even tussen haakjes.)
+(image: muriel-warners-1.jpg class: medium)
+**Vrijheid**
+Ik heb wel de vrijheid en creativiteit om mijn lessen helemaal zelf te bedenken en in te richten en weer aan te passen. Dat is heel leuk voor mij, maar het komt naar mijn idee ook het onderwijs ten goede. En dus uiteindelijk de leerling.
+
+**Motivatie leerlingen**
+“Nederlandse leerlingen zijn ongedisciplineerd” (link: https://twitter.com/Titchener/status/735436112777379841 text: concludeerde de OESO) pas geleden (link: http://www.keepeek.com/Digital-Asset-Management/oecd/education/netherlands-2016_9789264257658-en#page88 text: in hun rapport).
+(image: screen-shot-2016-06-21-at-13.35.57.png class: medium)
+Ook (link: http://www.volkskrant.nl/binnenland/oeso-nederlandse-scholier-ongemotiveerd-amper-orde-in-klas-veel-talent-onbenut~a4307999/?hash=289cfeb59c84b9de5266ecbd73ee62132cbccb12 text: de motivatie onder Nederlandse leerlingen) laten te wensen over volgens de OESO.
+
+**Ict op school**
+Daarnaast kwam het (link: https://www.nro.nl/ text: NRO) pas ook met (link: https://xyofeinstein.wordpress.com/2016/05/25/persbericht-nro-leraren-benutten-specifieke-mogelijkheden-ict-nauwelijks/ text: een onderzoek). Daarin schrijven ze onder meer:
+
+*“Leraren benutten specifieke mogelijkheden ict nauwelijks.”
+“Docenten gebruiken ict vooral bij klassikale instructie en zelfstandig leren van leerlingen. Leerlingen zijn voornamelijk uitvoerder en toehoorder en leraren dragen informatie over (…).”*
+
+**Ruimte voor eigen invulling**
+Voor mij staat als een paal boven water dat leerlingen gemotiveerder raken en meer gefocust zijn als ze actief met de stof aan de slag mogen gaan en de ruimte hebben hun eigen invulling daaraan te geven. Daar heb ik geen onderzoek naar gedaan, maar dit is wat ik vele malen heb ervaren in mijn lessen.
+
+Leerlingen zitten liever een hele les de achtergrond digitaal weg te gummen van een (link: https://www.frankwatching.com/archive/2016/03/12/gif-wel-gif-niks-ga-jij-gifjes-inzetten-bij-je-marketing/ text: gifje) dat ze zelf hebben geïmporteerd in (link: https://scratch.mit.edu/ text: Scratch), dan dat ze een kant-en-klare game van papier af namaken. Ze vinden het werken met (link: http://gamestudio.hetklokhuis.nl/index/home text: Gamestudio) leuk omdat ze, na tips en tricks van mij, er helemaal zelf iets mee kunnen maken.
+(image: screen-shot-2016-06-21-at-13.36.24.png class: medium)
+En waarom gingen die leerlingen van het begin als een speer? Omdat zij binnen een afgebakend kader hun eigen ideeën mogen uitwerken via een door hen gemaakte site, die nog in de klas gebruikt gaat worden ook, waardoor ze dus kunnen laten zien wat ze in huis hebben.
+
+**Lesgeven**
+Hoe leuk en opwindend ook: het zijn wel lastigere lessen om te geven. De ideeën vliegen alle kanten op en kinderen hebben bijvoorbeeld nog geen besef van wat wel en niet mogelijk is. Dat je niet een bestaande game als (link: http://agar.io/ text: agar.io) kunt aanpassen ook al heb je veel leukere plaatjes.
+
+En als docent heb je ook niet zomaar alle oplossingen paraat. Er komt dus veel geworstel, teleurstelling, aanpassen, onderzoeken en iets anders proberen bij kijken.
+
+De andere kant van die (link: 21st century skills text: 21st century skills), zeg maar.
+
+Deze blog is geschreven door (link: http://murielwarners.nl/laat-leerlingen-ict-actief-gebruiken/ text: Muriel Warners/2MW)
+*Leert klein en groot goed gebruik te maken van de mogelijkheden van het web.*
+Docent | spreker | schrijver | contentstrateeg
+
+----
+
+Layout: one-col
+
+----
+
+Elementheight: full-height
+
+----
+
+Voucherform: 0
+
+----
+
+Border: 

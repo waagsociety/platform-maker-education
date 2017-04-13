@@ -1,0 +1,57 @@
+Heroimage: fabschool-02.jpg
+
+----
+
+Icon: fabschool-02.jpg
+
+----
+
+Title: 50 Dangerous Things
+
+----
+
+Videolink: 
+
+----
+
+Subtitle: (You Should Let Your Children Do)
+
+----
+
+Intro: 
+
+----
+
+Text: 
+
+An activity book about danger, safety, and the incredible world around us. 
+
+In a time when children are too often coddled, 50 Dangerous Things (You Should Let Your Children Do) reminds readers that climbing trees is good for the soul, and that a pocket knife is not a weapon. Full of exciting ways children can explore the world around them, this book explains how to "Play with Fire" and "Taste Electricity" while learning about safety. With easy-to-follow instructions, it includes: 
+
+• Activities, like walking a tightrope 
+• Skills, like throwing a spear 
+• Projects, like melting glass 
+• Experiences, like sleeping in the wild
+
+Fifty Dangerous Things (you should let your children do) is the first book from the people who created Tinkering School. With projects, activities, experiences, and skills ranging from “Superglue Your Fingers Together” to “Play with Fire,” along with 48 other great ideas, the book is a manifesto for kids and parents alike to reclaim childhood. Easy to follow instructions, fun facts, and challenging undertakings that will engage and inspire whole households.
+
+Why Fifty Dangerous Things? First off, Five Dangerous Things just weren’t enough (although the audience at TED thought it was a good starting point). More importantly, there are many “dangerous” things that are interesting, eye-opening, enlightening or just plain fun! And while there are aspects of danger in virtually everything we do, the trick is to learn how mastery actually minimizes danger. Most of us learn how to walk without toppling over at a very young age, so that walking is no longer dangerous. Next we learn to negotiate stairs. Why stop there? Why not practice and become proficient at walking on the roof or walking on a tightrope? These are just a few of the Fifty Dangerous Things that we invite you to try.
+
+Take a peek and step into a world of danger and discovery.
+(link: http://www.fiftydangerousthings.com text: Lees meer).
+
+----
+
+Layout: one-col
+
+----
+
+Elementheight: full-height
+
+----
+
+Voucherform: 0
+
+----
+
+Border: 

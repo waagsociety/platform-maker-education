@@ -1,0 +1,53 @@
+Heroimage: 
+
+----
+
+Icon: 
+
+----
+
+Title: SmaakMakers, PraatjesMakers en OnderwijsMakers
+
+----
+
+Videolink: 
+
+----
+
+Subtitle: 
+
+----
+
+Intro: In vier dagen van 33 docenten makers maken? Tijdens het Teacher Maker Camp gingen wij deze uitdaging aan!
+
+----
+
+Text: 
+
+In vier dagen van 33 docenten makers maken? Samen met Kristina Andersen, (link: http://plugnmake.com/bart-bakker-video-interview/ text: Bart Bakker), (link: https://twitter.com/besselink text: Thieu Besselink) en de geweldige mannen van (link: http://fabklas.nl text: FabKlas) ging Waag Society’s Creative Learning Lab de uitdaging aan tijdens het (link: https://www.waag.org/nl/project/teacher-maker-camp text: Teacher Maker Camp). Leraren werd gevraagd zichzelf onder te dompelen in het MakerOnderwijs en samen nieuwe dingen te ontdekken en te leren door te maken. De Waag transformeerde in een makerswalhalla en het programma stond bomvol challenges, inspirerende praatjesmakers en tijd om zelf aan de slag te gaan.
+
+OnderwijsMaker Per Ivar loopt met een brede grijns door het Fablab “Ken je het ‘The A-team’-gevoel nog? Met hoeveel apparaten kun je opgesloten worden: het is geen optie om niks te maken!" De leerkrachten, docenten, onderwijscoordinatoren, onderwijsondernemers en een scrummeester maken kennis met de nieuwste maaktechnieken zoals digitale fabricage, 3D-printen, elektronica, programmeren en tools voor creatieve technologie. Leerkracht Monique: “Dit lag best ver van me af. Dus ik dacht, laat ik me er nou eens vier dagen in onderdompelen zodat ik me iets vrijer voel om het met de leerlingen te gaan doen.”
+
+(image: teacher-maker-camp2015.jpg class: small)
+
+Een uur voor de ‘show and tell’-expo heerst er “toch wel een beetje leuke stress”. Er klinkt veelvuldig gejuich en hier en daar een vloek. Overhitte batterijen worden afgevoerd, prototypes worden nog snel getest en aangepast, meters bedrading worden vakkundig in kledingstukken verwerkt, looddampen worden weggeblazen, handen zitten vol met geleidende verf en leesbrillen worden verwisseld. Instructeur Henk legt nog eens het verschil uit tussen jong leren en jongleren met je soldeerbout. Een docent verzucht: “Het is lastig om afstand te nemen. Je wordt er zo in meegezogen. Opeens laat ik dingen vallen, vergeet ik te eten en naar de wc te gaan.”
+
+Het resultaat? “Indrukwekkend hoe alles toch nog bij elkaar is gekomen”. Op de expo worden trots de resultaten geshowd, van de decibelmeter ‘dBeter’ voor in de klas, interactieve wearables voor eenzame “oma” tot een “wrattenballetje”. Volgens ICT-coordinator Lenny gaat het niet om de techniek, “maar om wat je ermee kunt, oplossingen bieden en andere mogelijkheden zien.” Docent Edwin: “Ik maakte het veel te ingewikkeld. Ik weet nu wat ik de komende lessen ga doen!” Zelfstandig docent Robert Jan stelt vast dat de tijd rijp is voor de zoektocht naar alternatieve vormen van leren: “Interessant aan maakonderwijs is dat het laat zien hoe het anders kan. Niet alleen klagen, maar er iets mee gaan doen.”
+
+Bekijk ook de foto's van het Teacher Maker Camp op (link: https://www.flickr.com/photos/waagsociety/sets/72157657623622484 text: Flickr).
+
+----
+
+Layout: one-col
+
+----
+
+Elementheight: full-height
+
+----
+
+Voucherform: 0
+
+----
+
+Border: 

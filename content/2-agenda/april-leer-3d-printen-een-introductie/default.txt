@@ -1,0 +1,65 @@
+Heroimage: 
+
+----
+
+Icon: 
+
+----
+
+Title: 25 april Leer 3D Printen, een introductie
+
+----
+
+Videolink: 
+
+----
+
+Subtitle: 
+
+----
+
+Intro: Tijdens de Introductie 3D Printen bij ZB45 Makerspace krijg je inzicht in het proces van 3D ontwerpen tot 3D printen.
+
+----
+
+Text: 
+
+3D printen kan een aavulling zijn op verschillende lessen op school: bij wiskunde, informatica, of beeldende vorming, maar ook om modellen te maken bij werkstukken en presentaties voor andere vakken.
+
+Kinderen vanaf 10 jaar zijn goed in staat een 3 dimensionale tekening te leren maken op een computer, om deze dan zelfstandig met een 3D printer te printen. Tijdens de Introductie 3D Printen bij ZB45 Makerspace krijg je inzicht in het proces vanaf het 3D ontwerpen tot en met het bedienen van de 3D printer.
+
+- Je leert zelf printen met een Ultimaker 3D Printer.
+- Je ontdekt waar je al bestaande 3D ontwerpen kunt vinden.
+- Je leert 3D tekenen in het programma 123D Design. Dit is een geschikt computerprogramma voor kinderen om 3 dimensionale ontwerpen mee te tekenen.
+
+Ook als je nog nooit een 3D tekening op een computer gemaakt hebt, kun je leren 3D ontwerpen en 3D printen.
+Kleine groep van 7 cursisten; iedere cursist heeft een 3D printer tot zijn beschikking.
+
+Cursusdata:
+Maandagavond 25 april van 19.00-21.30 uur. 
+Meer cursusdata staan op de website.
+
+Wil je met een aantal docenten samen op cursus, neem dan contact met op met ZB45 Makerspace om een afspraak te maken.
+
+Meer informatie over deze cursus en het aanmeldformulier vind je op de website (link: https://zb45.nl/introductie3Dprint text: zb45.nl/introductie3Dprint)
+
+email: make@zb45.nl
+datum: 25 april
+adres: Zeeburgerpad 45, Amsterdam
+website: (link: https://zb45.nl/introductie3Dprint text: zb45.nl/introductie3Dprint)
+
+----
+
+Layout: one-col
+
+----
+
+Elementheight: full-height
+
+----
+
+Voucherform: 0
+
+----
+
+Border: 

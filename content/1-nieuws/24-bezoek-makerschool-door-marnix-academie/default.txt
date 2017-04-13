@@ -1,0 +1,49 @@
+Heroimage: 
+
+----
+
+Icon: 
+
+----
+
+Title: Bezoek MakerSchool door Marnix Academie
+
+----
+
+Videolink: 
+
+----
+
+Subtitle: 
+
+----
+
+Intro: Op donderdag 12 mei kwam een groep studenten met een docent van de Marnix Academie bij MakerSchool op bezoek.
+
+----
+
+Text: 
+
+Op donderdag 12 mei kwam een groep studenten met een docent van de Marnix Academie bij MakerSchool, om de trainingslijn ‘Maker Education’ af te ronden. Dankzij een voucher van Platform Maker Education konden ze hier naar toe. Hieronder een verslag, geschreven door Petra Jansen, docent aan de Marnix Academie:
+(image: makerschool1.jpg class: medium)
+Op 12 mei kwamen 12 studenten van de Marnix Academie (pabo) op bezoek bij de Makerschool in Utrecht. Deze studenten uit het 2e jaar hadden de trainingslijn Maker Education gekozen. In drie bijeenkomsten verdiepten zij zich in het leren (door te) maken en gingen ze zelf aan de slag met de Makey Makey, Littlebits en Scratch.
+(image: makerschool2.jpg class: medium)
+De excursie naar MakerSchool was de afsluiting van deze trainingslijn. Na een korte inleiding door Michiel Lucassen mochten de studenten zelf aan de slag. Na enige aarzeling gingen ze steeds enthousiaster en fanatieker aan de slag met 3D printen, 3D scannen, lego Mindstorms en diverse maak-apps. Mooi om te zien hoe ze soms vastliepen, gefrustreerd raakten, er dan weer uitkwamen of elkaar weer verder hielpen en dan nog fanatieker verder gingen. De enige teleurstelling van de middag was dat de studenten weg moesten voordat de 3D printer klaar was. We komen graag nog een keer. 
+(image: makerschool3.jpg class: medium)
+Ook interesse om eens langs te komen? Laat dat dan vooral weten! Via het (link: http://makerschool.rotslab.nl/#contact text: contact-formulier) van MakerSchool kun je een aanvraag doen voor een bezoek.
+
+----
+
+Layout: one-col
+
+----
+
+Elementheight: full-height
+
+----
+
+Voucherform: 0
+
+----
+
+Border: 

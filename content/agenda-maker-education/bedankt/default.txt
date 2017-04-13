@@ -1,0 +1,41 @@
+Heroimage: pme_2.jpg
+
+----
+
+Icon: 
+
+----
+
+Title: Bedankt
+
+----
+
+Videolink: 
+
+----
+
+Subtitle: Bedankt
+
+----
+
+Intro: Bedankt voor het aanmelden van jouw Maker Education event. Wij voegen jouw event zo snel mogelijk toe aan de agenda.
+
+----
+
+Text: Bedankt voor het aanmelden van jouw Maker Education event. Wij voegen jouw event zo snel mogelijk toe aan de agenda.
+
+----
+
+Layout: one-col
+
+----
+
+Elementheight: full-height
+
+----
+
+Voucherform: 0
+
+----
+
+Border: 

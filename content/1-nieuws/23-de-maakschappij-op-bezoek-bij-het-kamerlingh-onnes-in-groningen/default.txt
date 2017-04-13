@@ -1,0 +1,50 @@
+Heroimage: 
+
+----
+
+Icon: 
+
+----
+
+Title: De Maakschappij op bezoek bij het Kamerlingh Onnes College in Groningen
+
+----
+
+Videolink: 
+
+----
+
+Subtitle: 
+
+----
+
+Intro: Tijdens het KO-festival op 22 april hebben leerlingen vanuit allerlei kunstdisciplines een presentatie gegeven. Nu ook met Maker Education.
+
+----
+
+Text: 
+
+Op 22 april is op het Kamerlingh Onnes College in Groningen het KO-festival georganiseerd. Op deze vrijdag namiddag hebben leerlingen vanuit allerlei kunstdisciplines een presentatie gegeven: muziek, theater en beeldende vorming. Nu ook met Maker Education. Om de leerlingen en leerkrachten verder kennis te laten maken met Maker Educatie zijn voor het KO-festival demonstraties gegeven van wat dit betekent. Een middag van kijken, doen, spelen en praten.
+(image: kamerlingh-onnes-1.jpg class: medium)
+Hoe maak je je eigen lichtgevende armband die vanzelf aan gaat als je hem om doet? Hoe maak je een grappig eigenwijs bibberbeestje (voor de poes) van eenvoudige materialen? Allemaal super inspirerende voorbeelden van hoe je zelf lekker kan prototypen. Hoe ziet dat er dan uit? Hoe geef je dat vorm? Hoe kunnen we dit zelf doen? Veel leerlingen en leerkrachten zijn enthousiast geraakt over het idee dat we op school nu echt zelf dingen gaan maken en eigen ideeën mogen gaan uitvoeren.
+(image: kamerlingh-onnes-2.jpg class: medium)
+De silhouettenprinter is een super voorbeeld van hoe programmeren, digitale productie, mediatechnieken, creativiteit en theater samengaan. Door de silhouettenprinter hebben we op de school een eerste onuitwisbare herinnering achtergelaten met silhouetten op het raam van de conciërge. Het KO-LAB komt er aan!
+(image: kamerlingh-onnes-3.jpg class: medium)
+Op school is gestart met het goed opzetten van Maker Educatie binnen de kunstvakken. Onlosmakelijk verbonden met het onderwijs van nu. De school heeft daarom een start gemaakt met het opzetten van het KO-LAB. In juli wordt er een vervolg gegeven met nog meer workshops! Tijdens de SpoCu-dag (sport & cultuur) gaan we een stap verder. Het nieuwe schooljaar gaan we het KO-LAB echt inrichten.
+(image: kamerlingh-onnes-4.jpg class: medium)
+
+----
+
+Layout: one-col
+
+----
+
+Elementheight: full-height
+
+----
+
+Voucherform: 0
+
+----
+
+Border: 

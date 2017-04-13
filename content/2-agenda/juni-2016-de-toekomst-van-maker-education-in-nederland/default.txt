@@ -1,0 +1,78 @@
+Heroimage: 
+
+----
+
+Icon: 
+
+----
+
+Title: 22 juni 2016 De toekomst van Maker Education in Nederland
+
+----
+
+Videolink: 
+
+----
+
+Subtitle: 
+
+----
+
+Intro: Een avond over de toekomst van maakonderwijs in Nederland en de resultaten van het eerste (half)jaar Platform Maker Education.
+
+----
+
+Text: 
+
+Op 22 juni organiseren we een avond over de toekomst van *Maker Education* in Nederland en de resultaten van het eerste (half)jaar Platform Maker Education, dat zich inzet om het maakonderwijs in Nederland een impuls te geven.
+(image: future-maker-education.jpg class:medium)
+Bij De Populier in Den Haag vieren we leren door te maken, het succes van de vouchers, de lessen van de leergemeenschap en het enthousiasme van alle betrokkenen die Maker Education in Nederland op de kaart zetten. We blikken vooruit op de toekomst van maakonderwijs, hoe we die samen vorm kunnen geven en welke stappen nodig zijn om maakonderwijs te laten wortelen in het Nederlandse onderwijssysteem.
+
+Deze avond is gratis toegankelijk na registratie via deze (link: http://waag.org/nl/event/de-toekomst-van-maker-education-nederland text: link). 
+(image: teacher-makers.jpg class:medium)
+
+**Prijs voor de beste blog**
+Platform Maker Education reikt prijzen uit voor de leukste blogs van maakactiviteiten geschreven door leraren of leerlingen die een voucher ontvingen of docenten die deelnamen aan de leergemeenschap. Blogs die vóór 22 juni worden aangeleverd maken kans op één van de drie tegoedbonnen voor materialen: één ter waarde van 500 euro en twee ter waarde van 250 euro! E-mail ons nog snel je blog (voucher@makereducation.nl)!
+
+*Moderatoren deze avond zijn Arjan van der Meij en Jeroen de Boer.*
+
+**Programma**
+19:15 - 19:30 Inloop
+19:30 - 19:35 Welkom door Henk Ordelman, directeur van De Populier
+19:35 - 19:45 Resultaten Platform Maker Education 2015-2016 en prijsuitreiking beste blog
+19:45 - 19:55 Toekomst Platform Maker Education door Karien Vermeulen
+19:55 - 20:10 Maker Education in Nederland door Remco Pijpers
+20:10 - 20:30 Research on Maker Education and Diversity door Paulo Blikstein, Stanford University USA
+20:30 - 20:50 Onderzoek naar Maker Education in Nederland door Iris Douma en Peter Troxler
+20:50 - 21:10 Maker Inspirator: Leo van der Veen
+21:10 - 21:25 Maken met Leo van der Veen
+21:25 - 21:30 Tot slot, door Arjan van der Meij en Jeroen de Boer
+21:30 - 22:00 Borrel
+
+**Sprekers**
+(link: http://www.blikstein.com/paulo/ text: **Paulo Blikstein**), Stanford (USA) professor, onderzoekt hoe nieuwe technologie als robotica en digital fabrication ingezet kan worden om het onderwijs te vernieuwen. In de ontwikkeling van Maker Education zijn er volgens Blikstein nog een aantal obstakels. Een daarvan is diversiteit: hoe kan Maker Education het gat tussen de kinderen die alles al mee hebben, de "haves", en de minder geprivilegieerden, de "have-nots", verkleinen in plaats van vergroten?
+(link: http://www.nr37.nl/ text: **nr37**) is de naam waaronder Leo van der Veen (interactieve) objecten maakt waarin hardware, elektronica en absurdisme worden gecombineerd. Daarnaast is Leo van der Veen actief als software en app ontwikkelaar. Samen met Iris Douma ontwikkelde nr37 Icker Sticker. Met deze installatie kun je je silhouette direct in een sticker omzetten, of laten snijden in textielfolie waarmee je rechtstreeks je T-shirt of tas kan pimpen!
+**Remco Pijpers** is strategisch adviseur digitale vaardigheden van stichting Kennisnet. Hij is verantwoordelijk voor de website (link: http://mijnkindonline.nl/ text: mijnkindonline.nl). Zijn streven is dat alle kinderen profiteren in hun ontwikkeling van de mogelijkheden die media en technologie bieden.
+(link: http://petertroxler.net/about/ text: **Peter Troxler**) is een onafhankelijk onderzoeker op de snijvlakken van arbeidspsychologie, informatica en bedrijfskunde, die zich vooral richt op open source toepassingen in de breedst mogelijke zin. Hij heeft ook bijgedragen aan de totstandkoming van diverse interdisciplinaire culturele en artistieke projecten.
+**Iris Douma** is design researcher & lab developer bij het (link: http://www.hku.nl/OnderzoekEnExpertise/ExpertisecentrumCreatieveTechnologie.htm text: Expertisecentrum Creatieve Technologie) van de HKU. Het centrum ontwikkelt, verbindt en verspreidt kennis op het gebied van technologie in relatie tot kunst en creativiteit.
+
+*Deze avond wordt georganiseerd door de kwartiermakers van Platform Maker Education: Arjan van der Meij (De Populier / FabKlas in Den Haag), Jeroen de Boer (Frysklab / FabLab Benelux) en Karien Vermeulen (Waag Society / FabSchool / Fablab Amsterdam).*
+
+Wanneer: woensdag 22 juni 2016, 19.30 u. tot 21.30 u.
+Waar: De Populier, Populierstraat 109, 2565 MK Den Haag
+
+----
+
+Layout: one-col
+
+----
+
+Elementheight: full-height
+
+----
+
+Voucherform: 0
+
+----
+
+Border: 

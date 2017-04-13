@@ -1,0 +1,64 @@
+Heroimage: 
+
+----
+
+Icon: 
+
+----
+
+Title: Pionieren met maakonderwijs
+
+----
+
+Videolink: 
+
+----
+
+Subtitle: 
+
+----
+
+Intro: Gastblog door Aad van der Drift over de pioniersavond van het maakonderwijs in Nederland, op 11 februari jl. in De Balie in Amsterdam.
+
+----
+
+Text: 
+
+Ons klassikale vakgerichte onderwijs is toe aan een flinke verandering. De bedenkers van Platform Maker Education hebben wel een idee hoe je dat voor elkaar krijgt. Erg revolutionair is het echter weer niet. De eerste die maakonderwijs in de praktijk probeerde toe te passen was John Dewey (1859-1952). Nu al weer honderd jaar geleden vond hij dat kinderen naar school zouden moeten gaan om echt dingen te doen. Op die wijze zouden ze leren hoe ze zich in een samenleving moeten gedragen en daaraan bijdragen.
+
+Het is dan ook niet voor niets dat de eerste spreker van deze pioniersavond van het maakonderwijs in Nederland, op 11 februari jl. in De Balie in Amsterdam, de Laboratory school van Dewey aanhaalt. Spreker (link: http://www.thelearninglab.nl text: Thieu Besselink) is een bevlogen pleiter van maker education.
+
+(image: maakonderwijs.jpg class: medium)
+Foto: Jan Boeve/De Balie 2016
+
+Doordat in de afgelopen jaren allerlei moderne technologieën goedkoop en beschikbaar zijn, is het mogelijk bijzondere dingen te bedenken en ontwerpen. 3D-printers en allerhande elektronica zijn nu de gereedschappen waar leerlingen van vandaag hun creativiteit op kunnen loslaten. De afstand tussen een idee en een product is door technische mogelijkheden als plottersnijders en sensortechnologie kleiner geworden. Creatieve makers zijn uitvinders en uitvinders hebben we hard nodig om schaarse bronnen, honger, overbevolking, ongelijkheid en andere vraagstukken op te lossen.
+
+Volgens Richard Sennett is de hand het venster naar de geest. In de overvolle zaal zaten veel onderwijsuitvinders die graag iets met hun handen doen. Opvallend was dat het een zaal met jong en oud was en voornamelijk afkomstig uit PO, VO en MBO. Omdat ik tijdens het Teach Maker Camp, in de herfstvakantie, al gemerkt had dat we hier met mensen te maken hebben die graag het onderwijs beter willen maken, had ik er ook uitleg gegeven over het (link: https://www.onderwijscooperatie.nl/lerarenontwikkelfonds/ text: LerarenOntwikkelFonds). Tot mijn grote genoegen gaf Mariska Hamelink (van Waag Society) aan dat er zich een tiental deelnemers voor het fonds hadden aangemeld. De ideeën van maker education trekt vernieuwers en veranderaars aan.
+
+Astrid Poot van (link: http://lekkersamenklooien.nl text: www.lekkersamenklooien.nl) heeft deze vorm van onderwijs helemaal omarmd en probeert dit in het basisonderwijs te laten landen. Inmiddels heeft ze support van het bedrijf Conrad waardoor ze honderden, zo niet duizenden Klooikoffers in het onderwijs kan uitzetten. Het enthousiasme van deze onderwijspionier werkte aanstekelijk. Ik kreeg in ieder geval het gevoel dat ik iets gemist heb tijdens mijn schoolcarrière. Heel mooi gaf ze aan wat leerlingen doen als ze een vrije opdracht krijgen. De een gaat aan de gang en doet maar iets, de ander bedenkt iets en de laatste gaat heel praktisch met een onderdeel aan de slag om er iets van te leren.
+
+De laatste inspirerende spreker was (link: http://www.rolfhut.nl text: Rolf Hut). Rolf was volgens eigen zeggen een onhandige klungel, tot hij tijdens zijn studie aan het maken ging. Hij is wetenschapper aan de TU Delft en lost zijn problemen met een MacGyver instelling op (naar een televisieserie waarin wetenschappelijke kennis en inventief gebruik van huis-, tuin- en keukenspullen belangrijk is). Rolf motiveert studenten om te leren door te ontdekken, te bouwen en te doen. Uiteraard heeft Rolf een van zijn sensorprojecten meegenomen, de terug-schreeuw-machine. Uit een luidspreker komt een enorme herrie als het geluidsniveau te hoog word. Een handige gadget voor in de klas. Daarnaast is hij ook auteur van het boek “Rolfs Maakbare Wereld”, waarin hij beschrijft hoe je prachtige dingen kunt maken met huis-, tuin- en keukentechniek.
+
+Wat betekent maker education nu voor leraren? Van Jorg Duitsman, van het (link: http://www.vanmaerlantlyceum.nl text: Van Maerlantlyceum) uit Eindhoven, hoor ik dat ze langzaamaan het curriculum aanpassen om maakprojecten te realiseren. Helaas geldt ook hier dat er te weinig tijd is om alles te doen. Zijn grootste wens zou zijn om een etmaal 48 uur te geven. In het kort kregen we het wonderlijke verhaal van opdracht naar uitvoering. Leerlingen moesten van een zelfgemaakt 2D vogelhuisje een stop-motion zonder vogel maken. Cryptisch? Nee, wij kregen het resultaat te zien en dat was prachtig.
+
+Aandoenlijk was het verhaal van de leerkracht Yvonne Bogers van (link: http://www.paletnet.nl text: RKBS ‘t Palet) uit Den Haag. Na een uitvoerig betoog over haar beweegredenen, kwam heel enthousiast haar ervaring met maakonderwijs naar voren. Inventieve constructies uit groep 7 en 8 werden door leerlingen bedacht en gemaakt. Het resultaat: een heel groot huis met rokende schoorsteen was niet alleen aandoenlijk, maar ook een mooi samenspel tussen samenwerkende leerlingen die hun eigen idee en fantasie de vrije loop lieten.
+
+Aan het eind van de avond werd de website van het Platform Maker Education gelanceerd. Op dit online platform worden activiteiten bekendgemaakt en wordt lesmateriaal ter beschikking gesteld. Wie ook iets met deze onderzoekende en proberende vorm van onderwijs wil, kan in contact treden met het platform via de website. Ben je zover en wil je het invoeren met een paar collega’s, dan kom je wellicht ook in aanmerking voor ondersteuning vanuit het (link: https://www.onderwijscooperatie.nl/lerarenontwikkelfonds/ text: LerarenOntwikkelFonds). Leraren moeten immers ook de ruimte hebben om iets dat zij willen te ontwikkelen.
+
+*Gastblog door Aad van der Drift*
+
+----
+
+Layout: one-col
+
+----
+
+Elementheight: full-height
+
+----
+
+Voucherform: 0
+
+----
+
+Border: 

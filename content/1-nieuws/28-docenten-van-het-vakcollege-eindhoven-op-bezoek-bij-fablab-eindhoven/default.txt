@@ -1,0 +1,51 @@
+Heroimage: 
+
+----
+
+Icon: 
+
+----
+
+Title: Docenten van het Vakcollege Eindhoven op bezoek bij Fablab Eindhoven
+
+----
+
+Videolink: 
+
+----
+
+Subtitle: 
+
+----
+
+Intro: Dinsdag 19 april 2016 brachten docenten van het Vakcollege Eindhoven een bezoek aan Fablab Eindhoven. Lees hun ervaringen in deze blog.
+
+----
+
+Text: 
+
+Op dinsdag 19 April hebben wij als sectie Techniek en Vakmanschap van het Vakcollege Eindhoven een studie/inspiratie dag gehad bij het Fablab Eindhoven, ook wel Fablab Brainport genoemd. 
+
+FabLab Brainport is een open werkplaats met digitale fabricage machines zoals 3D printers en lasersnijders en dergelijke. FabLab Brainport ondersteunt kleine bedrijven met prototype oplossingen maar je kunt bij het Fablab ook je eigen ideeën uitwerken met behulp van de medewerkers en het gebruik van de aanwezige machines.
+(image: image1-2.jpg class: medium)
+Wij hebben op deze studiedag de keuze gekregen uit twee projecten; een "lijnvolgauto" of een "schrijvende robotarm". In twee teams zijn we aan de slag gegaan om van diverse losse componenten deze twee projecten verder uit te werken met behulp van tekenprogramma's, 3D printers en lasersnijder. De medewerkers en studenten van het Summa college hebben ons fantastisch geholpen bij de uitvoering van ons project en aan het einde van de dag hadden we moe maar voldaan met succes onze projecten afgesloten.
+(image: image2.jpg class: medium)
+We hebben een hoop nieuwe  inzichten gekregen in het gebruik en de verschillende toepassingen van diverse programma's en machines. Kortom een heel leerzame en inspirerende dag! 
+(image: image3.jpg class: medium)
+Vakcollege Eindhoven
+
+----
+
+Layout: one-col
+
+----
+
+Elementheight: full-height
+
+----
+
+Voucherform: 0
+
+----
+
+Border: 

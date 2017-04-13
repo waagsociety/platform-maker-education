@@ -1,0 +1,41 @@
+Heroimage: pme_4.jpg
+
+----
+
+Icon: news.svg
+
+----
+
+Title: Nieuws en blogs over Maker Education
+
+----
+
+Videolink: 
+
+----
+
+Subtitle: Nieuws, blogs en verslagen van events en conferenties over Maker Education in Nederland.
+
+----
+
+Intro: Nieuws, blogs en verslagen van events en conferenties over Maker Education in Nederland.
+
+----
+
+Text: 
+
+----
+
+Layout: four-col
+
+----
+
+Elementheight: half-height
+
+----
+
+Voucherform: 0
+
+----
+
+Border: borderRight

@@ -1,0 +1,53 @@
+Heroimage: 
+
+----
+
+Icon: 
+
+----
+
+Title: Bedankt smartlab
+
+----
+
+Videolink: 
+
+----
+
+Subtitle: 
+
+----
+
+Intro: Op vrijdag 24 juni heeft groep 7 van basisschool de Wingerd een bezoek gebracht aan Smartlab in Deventer.
+
+----
+
+Text: 
+
+Bij aankomst werd de groep in tweeën gesplitst. Na een kort voorstel rondje, bij de eerste activiteit, en een praatje over de mogelijkheden van Smartlab, mochten de leerlingen al snel zelf aan de slag. Met een digitaal programma mochten de leerlingen een sleutelhanger ontwerpen. De leerlingen gingen enthousiast aan de slag en al snel waren de eerste sleutelhangers klaar. Omdat de tijd nog niet om was mochten sommige leerlingen nog eentje maken. Nu via een plaatje van internet die ze vervolgens helemaal zelf moesten overtrekken.
+
+
+
+De tweede helft werd gestart met een spel waarbij de leerlingen een ‘robot’ moesten aansturen. Al snel kwamen ze erachter dat dit toch moeilijker was dan dat ze in eerste instantie dachten. Na ongeveer 45 pogingen hadden ze de robot bereid gevonden om een broodje met jam te smeren. Na deze leuke inleiding mochten de leerlingen ook hier zelf aan de slag. Via het programma Scratch moesten ze een spel opbouwen. Hierbij was het belangrijk dat ze de exacte stappen volgde zodat het spel speelbaar was. De leerlingen hebben de spellen van elkaar gespeeld. Als laatste mochten ze zelf een spel bedenken en dit vonden ze geweldig. Na een ochtend vol nieuwe vaardigheden en inzichten kan ik zeggen dat de leerlingen een stuk wijzer naar huis zijn gegaan. Bedankt Smartlab.
+
+(image: school_1.jpg class: small)
+Zelf aan de slag….leuk!
+
+(image: school_2.jpg class:small)
+De leerlingen staan nieuwsgierig te kijken……..
+
+----
+
+Layout: one-col
+
+----
+
+Elementheight: full-height
+
+----
+
+Voucherform: 0
+
+----
+
+Border: 

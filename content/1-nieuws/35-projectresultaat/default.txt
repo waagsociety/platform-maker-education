@@ -1,0 +1,51 @@
+Heroimage: 
+
+----
+
+Icon: 
+
+----
+
+Title: Projectresultaat
+
+----
+
+Videolink: 
+
+----
+
+Subtitle: 
+
+----
+
+Intro: Gastblog geschreven door Freek Pols van Interconfessionele Scholengroep Westland.
+
+----
+
+Text: 
+
+Gastblog geschreven door Freek Pols van Interconfessionele Scholengroep Westland.
+
+Zowel voor havo als voor vwo wilde ik projecten hebben waarbij leerlingen veel vrijheid hebben, leren een groot project aan te pakken en ervaren dat als ze de drive eenmaal hebben gevonden alles kunnen wat ze willen. Dit laatste heeft met name betrekking op de wereld van programmeren en elektronica. Een wereld die er voor buitenstaanders moeilijk, zo niet onbegrijpelijk, uit ziet. In de laatste vier maanden van het schooljaar, het gedeelte waar de meeste leerlingen al minder zin hebben om hard te leren, introduceerde ik ontwerpopdrachten bij het hoofdstuk elektriciteit. De lessen elektriciteitsleer werden begeleid door programmeer/elektronica lessen waarbij een Arduino in werd gezet. Een Arduino is een programmeerbare microcontroller die je in staat stelt elektronica uit te lezen en aan te sturen. Je kunt bijvoorbeeld, als je wilt, je eigen bierbrouwerij maken met behulp van een enkele Arduino. Leerlingen uit 4VWO kregen de volgende keuze uit opdrachten: Maak een automatisch plantwatersysteem, muisvriendelijke muizenval, of diervoedersysteem. Ook hadden leerlingen de vrijheid om zelf met een idee te komen. Zo wilden leerlingen meteen een automatisch hoossysteem maken voor hun boot. Als het geregend heeft moet de waterpomp zelf aan gaan.
+(image: freek-pols-1.jpg class: medium)
+In de lessen leerden de leerlingen de beginselen van programmeren, het uitlezen van sensoren en het aansturen van andere elektronische componenten. Daarna heb ik ze weinig meer gezien, ze waren in hun eigen tijd (soms tot na 17:00, de conciërge wilde echt de school sluiten) aan de slag met het project. Vorige week was de eindpresentatie van 4 VWO. Leerlingen hebben doormiddel van een posterpresentatie en een demonstratie van hun ontwerp laten zien wat ze hebben gedaan, welke ontwerpkeuzes ze hebben gemaakt, welke problemen ze tegen kwamen en welke oplossingen ze daarvoor hebben bedacht. Op de fotocollage zijn enkele ontwerprealisaties te zien van deze leerlingen. Vier havo is nog bezig met hun opdracht: Hack-a-toy of reproduceer, verbeter en maak een instructable (zie instructables.com). Mijn leerlingen hebben een hoop geleerd en het is aan hun eindproducten te zien dat ze lol hebben gehad en trots zijn op hun ontwerp en de realisatie daarvan. Wordt vervolgd…!
+
+Deze blog is geschreven door:
+(link: https://lerarenontwikkelfonds.onderwijscooperatie.nl/author/freek/ text: Freek Pols)
+Interconfessionele Scholengroep Westland voor Lyc Havo Mavo Vbo Lwoo
+
+----
+
+Layout: one-col
+
+----
+
+Elementheight: full-height
+
+----
+
+Voucherform: 0
+
+----
+
+Border: 

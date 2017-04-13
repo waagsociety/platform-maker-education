@@ -28,7 +28,7 @@ return function($site, $pages, $page) {
       $body  = snippet('kaartmail', $data, true);
       // build the email
       $email = email(array(
-        'to'      => 'mariska@waag.org',
+        'to'      => 'karien@waag.org',
         'from'    => 'kaart@makereducation.nl',
         'subject' => 'Nieuwe kaart aanvraag',
         'replyTo' => $data['email'],

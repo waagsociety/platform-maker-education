@@ -1,0 +1,59 @@
+Heroimage: 
+
+----
+
+Icon: 
+
+----
+
+Title: Nieuw boek voor Maker Educators
+
+----
+
+Videolink: 
+
+----
+
+Subtitle: 
+
+----
+
+Intro: Stanford University FabLearn Fellows publiceerde een nieuw en gratis te downloaden boek voor Maker Educators.
+
+----
+
+Text: 
+
+Stanford University FabLearn Fellows publiceerde een nieuw en gratis te downloaden boek voor Maker Educators en mailde Platform Maker Education hierover:
+
+Hello!
+
+We are proud to announce a new book from our Stanford University FabLearn Fellows. Please share this with educators and educational organizations in your network.
+ 
+Meaningful Making: Projects and Inspirations for Fab Labs and Makerspaces offers projects, strategies, and resources for maker educators in formal and informal learning spaces. The book is available as a free e-book for download or in print at Amazon and other online retailers.
+Read more about the book (link: http://fablearn.stanford.edu/fellows-new/meaningful-making-book/ text: here).
+
+Meaningful Making: Projects and Inspirations for Fab Labs and Makerspaces is edited by Dr. Paulo Blikstein, Sylvia Libow Martinez, and Heather Allen Pang. The FabLearn Fellow authors include Jaymes Dec, Gilson Domingues, Christa Flores, Susan Klimczak, David Malpica, Roy Ombatti, Keith Ostfeld, Heather Allen Pang, Erin Riley, Tracy Rudzitis, Mark Schreiber, Susanna Tesconi, Nalin Tutiyanphuengprasert, Aaron Vanderwerff, and Juliet Wanyiri.
+ 
+Best,
+
+The FabLearn Team
+ 
+PS Please tweet using your favorite hashtags! Here’s a suggestion:
+New book for maker educators! Meaningful Making - now in print AND free download http://fablearn.stanford.edu/fellows-new/meaningful-making-book/
+
+----
+
+Layout: one-col
+
+----
+
+Elementheight: full-height
+
+----
+
+Voucherform: 0
+
+----
+
+Border: 

@@ -1,0 +1,56 @@
+Heroimage: 
+
+----
+
+Icon: 
+
+----
+
+Title: Het Groene Lint op bezoek bij FabLab Breda
+
+----
+
+Videolink: 
+
+----
+
+Subtitle: 
+
+----
+
+Intro: Op 7 april 2016 gingen de ICT– en Deltaklascoördinatoren van Het Groene Lint op bezoek bij FabLab Breda. Lees hun ervaringen in deze blog.
+
+----
+
+Text: 
+
+Op 7 april 2016 gingen de ICT– en Deltaklascoördinatoren van Het Groene Lint op bezoek bij FabLab Breda, middels een voucher van het Platform Maker Education.
+
+Daar hebben we een workshop gehad over 3D ontwerpen en printen in het basisonderwijs. We hebben kennis gemaakt met software als TinkerCad en Mesh-mixer. Beide zijn kosteloos te gebruiken. ThinkerCad om heel precies mee te ontwerpen en Meshmixer om ‘boetserend’ mee te ontwerpen. Het voordeel van TinkerCad is dat het webbased is en op vrijwel iedere pc en Ipad te gebruiken.
+
+Bij het FabLab hebben we geprint met de Ultimaker. Een Nederlands merk met open source software en een grote groep gebruikers die er veel informatie over delen op het internet. Charlotte van FabLab gaf aan dat dat erg handig is als je problemen met de printer hebt of je er verder in wilt verdiepen. Bij veel andere merken is dat niet het geval. Met de Ultimaker kun je nauwkeurig printen en de printer kan veel soorten filamenten aan. Voor filament raadt ze Colorfabb aan. Dit is betrouwbaar en droogt niet snel uit. Charlotte heeft ook aangegeven dat we voor meer informatie altijd bij haar terecht kunnen. 
+
+Aan het eind van de workshop hebben we gesproken over welke plaats 3D printers binnen HGL kunnen krijgen. Op basis van de nieuwe inzichten die we tijdens de workshop hebben gekregen doen we een voorstel aan het bestuur van de stichting.
+
+**Voorstel**
+Het 3D printen gaat niet zozeer om het eindproduct, maar vooral om het cyclische ontwerpproces. Het bedenken, tekenen, printklaar maken, printen, evalueren en bijstellen staat in ons onderwijs centraal. Leerlingen worden uitgedaagd om creatief en kritisch te denken en werken o.a. met ruimtelijk inzicht, meten, Engels en wiskundige vormen. Ze werken samen en zijn probleemoplossend bezig. Het 3D printen is daarom een middel bij uitstek om onze leerlingen 21ste eeuwse vaardigheden te laten ontwikkelen. 
+
+Om het goed op te zetten willen we een proef beginnen. De leerlingen van de twee plusklaslocaties worden getraind om te werken met het materiaal en worden productexpert. In die rol kunnen ze leerkrachten helpen door bijvoorbeeld een presentatie te geven in een groep of te ondersteunen bij de lessen. In het eerste jaar kunnen we voor de groepen 7-8 een aanbod samenstellen waarin de printers rouleren en waarbij alle kinderen al een keer kennismaken met het ontwerpen en printen. Aan de hand van de ervaringen die we daarmee opdoen krijgen we een beter beeld van hoe we 3D printers in de toekomst structureel onderdeel kunnen maken van ons onderwijs.
+
+Bekijk hier de blog van Het Groene Lint met foto's (pdf): (file: blog-voor-makereducation.pdf)
+
+----
+
+Layout: one-col
+
+----
+
+Elementheight: full-height
+
+----
+
+Voucherform: 0
+
+----
+
+Border: 

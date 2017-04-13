@@ -1,0 +1,94 @@
+Heroimage: 
+
+----
+
+Icon: 
+
+----
+
+Title: De toekomst van Maker Education in Nederland
+
+----
+
+Videolink: https://vimeo.com/openwetlab/makereducation
+
+----
+
+Subtitle: 
+
+----
+
+Intro: Op 22 juni organiseerden we een avond over de toekomst van maakonderwijs in Nederland en de platformresultaten van het eerste (half)jaar.
+
+----
+
+Text: 
+
+Op 22 juni organiseerden we een feestelijke avond over de toekomst van maakonderwijs in Nederland en de resultaten van het eerste (half)jaar Platform Maker Education. De avond was een groot succes dankzij alle 140 enthousiaste betrokkenen die Maker Education in Nederland op de kaart zetten.
+(image: pme-resultaten.jpg class: medium) 
+*Beeld gemaakt door Astrid Poot.*
+
+In een bomvol auditorium bij De Populier in Den Haag vierden we leren door te maken, het succes van de vouchers, de lessen van de leergemeenschap en de resultaten van het onderzoek naar Maker Education. We blikten vooruit op de toekomst van maakonderwijs, hoe we die samen vorm kunnen geven en welke stappen nodig zijn om maakonderwijs te laten wortelen in het Nederlandse onderwijssysteem.
+
+De volledige avond is vastgelegd op video: bekijk de toekomst van Maker Education op (link: https://vimeo.com/openwetlab/makereducation text: Vimeo).
+
+(image: pme-avond.jpg class: medium)
+
+**Prijs voor de beste blog**
+Platform Maker Education reikte prijzen uit voor de leukste blogs van maakactiviteiten geschreven door leraren of leerlingen die een voucher ontvingen of docenten die deelnamen aan de leergemeenschap. De schrijvers van de blogs maakten kans op één van de drie tegoedbonnen voor materialen: een 1e prijs ter waarde van 500 euro en een 2e en 3e prijs ter waarde van 250 euro. Lees de winnende blogs via onderstaande links:
+
+**1e prijs**
+Suzanne van Lier en Joke de Hoogh, Montessorischool de Regenboog, Amsterdam Zuidoost (beschrijving van het maakproces op school) PO
+(link: https://makereducation.nl/nieuws/samen-iets-maken-dat-werkt-of-zou-kunnen-werken text: *Samen iets maken dat werkt of zou kunnen werken*)
+
+Fragment: “We hadden al ervaring met een knikkerbaan, maar nu zijn er andere krachten in het spel. We hangen een dakgoot schuiner, we knippen tie-rips door en bevestigen de trechter strakker tegen het plantenrek. Het water loopt tussen de dakgoten door, dus moeten er maatregelen genomen worden. Rudinho maakt een waterval door de onderste dakgoot lager te hangen en deze goot deels te laten overlappen met de bovenste. Het maken van het waterrad met de lepels heeft ons bij elkaar een dagdeel school gekost. En wat levert het veel op: maken, plakken, lijmen, opnieuw maken, bevestigen, losmaken, mislukken, proberen, veranderen, verbeteren en weer proberen. Natuurkundige wetten ervaren, nieuwe woorden leren, samenwerken, overleggen, plezier hebben en enthousiast worden.
+En dan juichen: “Ja, het rad draait!”
+Dit is maakonderwijs: zeven ‘raddraaiers’ maken vol enthousiasme met (water) vallen en opstaan een waterbaan.”
+
+**2e prijs**
+Niels van der Tuuk, Leraar in groep 4 op de A. Bekemaschool, Zwolle (perceptie vanuit docent, incl. ‘struggle’ om het voor elkaar te krijgen)
+(link: https://makereducation.nl/nieuws/maken-en-mollen text: *Maken en Mollen 1*)
+(link: https://makereducation.nl/nieuws/maken-en-mollen-2 text: *Maken en Mollen 2*)
+(link: https://makereducation.nl/nieuws/maken-en-mollen-3 text: *Maken en Mollen 3*)
+
+Fragment: “Alles goed en wel. Mooi dat denken en onderzoeken. Nog mooier dat doen, ervaren, en meemaken. Toch ontbrak er nog iets. Want dat alles wat je leert terwijl je aan het doen, ervaren en meemaken bent, wat kan je daar vervolgens mee? Wat maak je ervan? Een werkblad? Een toets? Een mindmap? Ja, maar toch niet alleen dat? Hoe mooi is het als je er ‘iets’ mee zou kunnen maken? ‘Iets echts’. ‘Iets’ dat ook nog eens ‘iets kan’. Dat kan van alles zijn. Een poster of een verhaal om iets te vertellen. Of echt een ‘ding’ dat ‘iets doet’. 
+Toch kunnen we niet van leerlingen verwachten dat ze zomaar iets gaan maken. Je moet wel weten hoe je het kan maken, weten dat je de juiste vaardigheden en kennis in huis hebt en daardoor op jezelf kan vertrouwen. Daarvoor hebben ze instructie nodig van mij. Want maken kun je leren. Door erover te lezen en te praten. Maar, natuurlijk, vooral door aan de slag te gaan. Dat geldt voor mijn leerlingen, maar het geldt ook voor mij. Ik wil niet alleen leren hoe je dat doet – iets maken – maar ik wil ook dat het een gewoonte wordt, dat het deel wordt van mijn routine, als mens en als leraar. Kortom - ik wil een maker worden, en een meester-maker bovendien.”
+
+**3e prijs**
+Bart Brom (over de rol en inspiratie van een extern lab voor de school)
+(link: https://makereducation.nl/nieuws/voucher-blog-veldvest text: *[Digitale] Creatie & Ontwerpprocessen / FabLab013*)
+
+Fragment: “Het bezoek aan het Fablab heeft veel nieuwe inzichten opgeleverd. De apparatuur, maar zeker de stappen die kinderen doorlopen bij een ontwikkel-/ontwerpproces sluiten nauw aan bij de geformuleerde (pedagogische) doelstellingen uit het ICT-beleidsplan en verdienen dus een nader onderzoek. Ook moeten hierbij passende onderwijsarrangementen gezocht/uitgewerkt worden om te zorgen dat een kennismaking met deze apparatuur niet blijft steken op een ‘leuke gadget’.
+In de komende tijd zal een uitnodiging uitgaan aan leerkrachten die hieraan een bijdrage kunnen leveren, vanuit eigen professionele interesse. Wij hopen op een enthousiaste groep leerkrachten die hier samen met ons de schouders onder wil gaan zetten!”
+
+**Programma**
+19:30 Welkom door Henk Ordelman, De Populier
+19:35 Maker education and diversity, Paulo Blikstein
+19:55 1e Onderzoek naar maker education in Nederland, Iris Douma
+20:05 2e Onderzoek naar maker education in Nederland, Peter Troxler
+20:15 Maak ‘t in de FABklas, Victor Hupe
+20:20 Maker education in Nederland, Remco Pijpers
+20:35 Resultaten en plannen Platform Maker Education, Karien Vermeulen
+20:45 Prijsuitreiking beste blog, Jeroen de Boer
+20:50 Maker inspirator, Leo van der Veen
+21:10 Icker Sticker, Leo van der Veen en Iris Douma
+
+Moderator van deze avond was Arjan van der Meij, docent op De Populier en kwartiermaker van Platform Maker Education.
+
+*Deze avond werd georganiseerd door de kwartiermakers van Platform Maker Education: Arjan van der Meij (De Populier / FabKlas in Den Haag), Jeroen de Boer (Frysklab / FabLab Benelux) en Karien Vermeulen (Waag Society / FabSchool / Fablab Amsterdam).*
+
+----
+
+Layout: one-col
+
+----
+
+Elementheight: full-height
+
+----
+
+Voucherform: 0
+
+----
+
+Border: 

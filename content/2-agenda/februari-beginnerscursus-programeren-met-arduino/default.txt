@@ -1,0 +1,61 @@
+Heroimage: 
+
+----
+
+Icon: 
+
+----
+
+Title: 18 februari 2017 Beginnerscursus programeren met Arduino
+
+----
+
+Videolink: 
+
+----
+
+Subtitle: 
+
+----
+
+Intro: Deze cursus is bedoeld voor technici, creatievelingen en docenten die in hun lessen aan de slag willen met Arduino.
+
+----
+
+Text: 
+
+De Arduino stelt je in staat om op een makkelijke manier projecten te ontwikkelen die voorheen alleen toegankelijk waren voor professionele techneuten. Denk aan lampen die je kan laten reageren op beweging, een verwarming die je met je smartphone kan bedienen, robots, en nog veel meer.
+
+Leerlingen in het middelbaar onderwijs kunnen hiermee goed zicht krijgen op computergestuurde processen, door deze met de Arduino zelf toe te passen in werkstukken. Voor vakken als Informatica, Wis-, Natuur- en Schijkunde, maar ook Beeldende vorming.
+
+ZB45 Makerspace en IN2TECH bieden een Arduino workshop om de basiskennis hiervoor te leren. Je begint met eenvoudige dingen als het uitlezen van een joystick, het aansturen van een driekleuren led, en het aandrijven van dingen met een servo motor.
+
+Aan het eind van de dag neem je jouw project mee naar huis, inclusief een Arduino, een breadboard en de electronica die je hebt gebruikt in de workshop.
+
+Datum: zaterdag 18 februari van 13.00-17.00 uur
+Adres: Zeeburgerpad 45, Amsterdam
+Kosten: 125,00 (incl BTW), inclusief een Arduino starters kit.
+
+Deze workshop zal gegeven worden in het Nederlands.
+
+Wil je met een aantal docenten samen op cursus, neem dan contact met op met ZB45 Makerspace om een afspraak te maken.
+
+Meer informatie over deze cursus en het aanmeldformulier vind via deze link: (link: https://zb45.nl/ArduinoCursus text: https://zb45.nl/ArduinoCursus)
+
+e-mail: (email: make@zb45.nl text: make@zb45.nl)
+
+----
+
+Layout: one-col
+
+----
+
+Elementheight: full-height
+
+----
+
+Voucherform: 0
+
+----
+
+Border: 

@@ -1,0 +1,51 @@
+Heroimage: 
+
+----
+
+Icon: 
+
+----
+
+Title: IPON Award voor Maker Education Nederland
+
+----
+
+Videolink: 
+
+----
+
+Subtitle: Stimuleringsprijs voor Maker Education Nederland
+
+----
+
+Intro: Dit jaar ging de prime award, de stimuleringsprijs, niet naar een persoon maar naar een beweging: de Maker Education beweging in Nederland!
+
+----
+
+Text: 
+
+Woensdag 3 februari 2016 werd de eerste dag van de vakbeurs voor ICT en innovatie IPON traditioneel afgesloten met de IPON awards. Dit jaar ging de prime award, de stimuleringsprijs, niet naar een persoon maar naar een beweging: de Maker Education beweging in Nederland! Kwartiermakers Jeroen de Boer en Karien Vermeulen waren al op de beurs aanwezig en docent Per-Ivar Kloen werd met een smoes naar de vakbeurs gelokt. Per-Ivar mocht namens de beweging de prijs in ontvangst nemen.
+
+(image: ipon-award-per-ivar.jpg class: small)
+
+We zijn heel trots en verguld met de prijs, met name dat de prijs voor de beweging is! Dit past helemaal bij de bottom-up maakbeweging.
+
+Het juryrapport en alle andere winnaars van IPON Awards zijn op (link: http://www.ipon.nl/algemeen/iponawards2016/ text: de website van de IPON Awards) terug te vinden.
+
+Geschreven door Arjan van der Meij.
+
+----
+
+Layout: one-col
+
+----
+
+Elementheight: full-height
+
+----
+
+Voucherform: 0
+
+----
+
+Border: 

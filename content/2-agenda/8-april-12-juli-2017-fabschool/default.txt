@@ -1,0 +1,50 @@
+Heroimage: 
+
+----
+
+Icon: 
+
+----
+
+Title: 12 april - 12 juli 2017 Fabschool
+
+----
+
+Videolink: 
+
+----
+
+Subtitle: 
+
+----
+
+Intro: Als je alles zou mogen maken wat je maar zou willen, wat zou het dan zijn?
+
+----
+
+Text: 
+
+Het naschoolse activiteitenprogramma FabSchool vindt plaats in het Fablab van Waag Society, in de Waag op de Nieuwmarkt. Fablab staat voor fabrication laboratory; het is een werkplaats voor digitale fabricage. Hier zijn 3D-printers, lasersnijders, houtbewerkingsmachines, elektronica en vele andere machines beschikbaar voor mensen om hun eigen ideeën te realiseren. Leren door te maken is het centrale uitgangspunt in FabSchool. Je werkt in ons Fablab met hoofd, hart en handen.
+
+Het thema van deze FabSchool-editie is biotechnologie.
+
+Kinderen van 10 t/m 14 jaar oud kunnen meedoen aan FabSchool.
+
+E-mail: (email: society@waag.org text: society@waag.org)
+Meer informatie: (link: http://waag.org/nl/event/fabschool-2017-2 text: http://waag.org/nl/event/fabschool-2017-2)
+
+----
+
+Layout: one-col
+
+----
+
+Elementheight: full-height
+
+----
+
+Voucherform: 0
+
+----
+
+Border: 

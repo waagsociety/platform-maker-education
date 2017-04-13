@@ -1,0 +1,48 @@
+Heroimage: 
+
+----
+
+Icon: 
+
+----
+
+Title: Minister Bussemaker bezoekt Frysklab
+
+----
+
+Videolink: https://www.youtube.com/watch?v=P3t1VIT7V_s
+
+----
+
+Subtitle: 
+
+----
+
+Intro: Minister Bussemaker bezocht afgelopen woensdag FryskLab. In de bus sprak ze met studenten van het Leeuwarder Lyceum, Piter Jelles.
+
+----
+
+Text: 
+
+Minister Bussemaker bezocht afgelopen woensdag FryskLab. In de bus sprak ze met studenten van het Leeuwarder Lyceum, (link: http://www.piterjelles.nl text: Piter Jelles). Thijs, Amber en Silkewerken momenteel aan hun meesterproef en maken daarbij gebruik van de faciliteiten van de bus. Hun oplossing en prototypes om kapotte computerkabeltjes te kunnen (her)gebruiken had de warme belangstelling van de Minister.
+
+Het mobiele lab is volgens de Minister een innovatieve vorm van zowel bibliotheek en maker education. Zij zegt daarover: “Ik hoop dat anderen zich erdoor laten inspireren, opdat we jonge mensen vooral ook leren om dingen weer te maken. Dat zij door te maken, te onderzoeken, nieuwsgierig te worden en creativiteit te ontwikkelen ze nieuwe inzichten en nieuwe producten kunnen ontwikkelen.”
+
+Bekijk (link: http://www.frysklab.nl/ text: hier) het hele nieuwsbericht. 
+En (link: https://www.youtube.com/watch?v=P3t1VIT7V_s text: hier) een filmpje van Minister Bussemaker in de bus.
+
+----
+
+Layout: one-col
+
+----
+
+Elementheight: full-height
+
+----
+
+Voucherform: 0
+
+----
+
+Border: 

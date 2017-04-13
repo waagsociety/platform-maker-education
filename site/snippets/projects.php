@@ -2,7 +2,7 @@
 <header class="sectionHeader">
    <div class="change-color">
   	 <h2>Projecten</h2>
-     <p>Laat je inspireren door deze projecten voor in de klas! Voeg projecten toe of stuur een <a href="mailto:projecten@makereducation.nl?subject=Project aanmelden Openthings">e-mail</a></p>
+     <p>Laat je inspireren door deze projecten voor in de klas! Voeg projecten toe of stuur een <a href="mailto:projecten@makereducation.nl?subject=Project aanmelden Openthings">e-mail</a> - <a href="<?php echo $site->url() ?>/uitleg_openthings_all.pdf" target="_blank">Uitleg Openthings</a></p>
      <a href="https://openthings.wiki" class="btn btn-3" target="_blank">Project plaatsen</a>
      <a href="https://openthings.wiki/tag/48" class="btn btn-3" target="_blank">Meer projecten</a>
    </div>

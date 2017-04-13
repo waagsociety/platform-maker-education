@@ -14,15 +14,15 @@ Videolink:
 
 ----
 
-Subtitle: Agenda Maker Education
+Subtitle: Een overzicht van de komende Maker Education events.
 
 ----
 
-Intro: Agenda Maker Education
+Intro: Deze agenda geeft een overzicht van komende Maker Education events in Nederland.
 
 ----
 
-Text: Agenda Maker Education
+Text: Deze agenda geeft een overzicht van komende Maker Education events in Nederland. Voeg jouw event toe door onderstaand formulier zo volledig mogelijk in te vullen.
 
 ----
 
@@ -38,4 +38,4 @@ Voucherform: 0
 
 ----
 
-Border: borderBottom, borderLeft
+Border: 

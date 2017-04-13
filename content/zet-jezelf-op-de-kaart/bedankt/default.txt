@@ -1,4 +1,4 @@
-Heroimage: 
+Heroimage: pme_1.jpg
 
 ----
 
@@ -22,7 +22,7 @@ Intro: Bedankt
 
 ----
 
-Text: Bedankt
+Text: Bedankt voor het aanmelden van jouw Maker Education activiteit. Wij zetten jouw activiteit zo snel mogelijk op de kaart.
 
 ----
 

@@ -1,0 +1,41 @@
+Heroimage: per.jpg
+
+----
+
+Icon: 
+
+----
+
+Title: Interview Per-Ivar Kloen
+
+----
+
+Videolink: 
+
+----
+
+Subtitle: 
+
+----
+
+Intro: Per-Ivar werd geïnterviewd over Maakonderwijs en zijn Fablearn Fellowship van Stanford.
+
+----
+
+Text: (link: http://makered.nl/wp-content/uploads/2017/01/Watmaak.pdf text: Klik hier voor het interview.)
+
+----
+
+Layout: one-col
+
+----
+
+Elementheight: full-height
+
+----
+
+Voucherform: 0
+
+----
+
+Border: 

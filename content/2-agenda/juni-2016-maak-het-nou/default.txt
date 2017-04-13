@@ -1,0 +1,52 @@
+Heroimage: 
+
+----
+
+Icon: 
+
+----
+
+Title: 4 juni 2016 MAAK HET NOU!
+
+----
+
+Videolink: 
+
+----
+
+Subtitle: 
+
+----
+
+Intro: Op zaterdag 4 juni kan je tijdens www.gemaaktingelderland.nl in ons coole WALHALLAb weer lekker maken!
+
+----
+
+Text: 
+
+Tijdens (link: http://www.gemaaktingelderland.nl text: www.gemaaktingelderland.nl) kan je in ons coole WALHALLAb weer lekker maken! Van 12 tot 17u staan onze deuren open en kan je ook in onze 14e eeuwse toren werken.  Hoe cool is dat? Heel koel! Want we hebben dikke muren daar...
+
+Voor maar 3 euro kan je solderen, designen, bouwen, ontwerpen, plakken,  knippen enzovoort!
+
+Lees alles op (link: http://www.gemaaktingelderland.nl text: www.gemaaktingelderland.nl) en volg ons op Twitter @dekruittoren
+
+Datum: zaterdag 4 juni 2016
+Email: Info@kruittoren.eu
+Adres: Kruittoren 1  7201NZ  Zutphen
+Website: (link: http://www.kruittoren.eu text: www.Kruittoren.eu)
+
+----
+
+Layout: one-col
+
+----
+
+Elementheight: full-height
+
+----
+
+Voucherform: 0
+
+----
+
+Border: 

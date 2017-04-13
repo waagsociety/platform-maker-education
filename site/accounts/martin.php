@@ -7,8 +7,10 @@ password: >
 language: en
 role: admin
 history:
-  - home
-  - wat-is-maker-education
-  - nieuws
-  - agenda
-  - voucher
+  - >
+    agenda/en-11-september-maker-faire-eindhoven
+  - >
+    nieuws/publicatie-onderzoeksrapporten-maker-education-in-nederland
+  - >
+    nieuws/het-knutselkunstkabinet-neemt-sbo-sprankel-mee-naar-spark-lab-s-hertogenbosch
+  - nieuws/bezoek-aan-smartlab

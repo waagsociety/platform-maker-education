@@ -1,0 +1,59 @@
+Heroimage: 
+
+----
+
+Icon: 
+
+----
+
+Title: Talentontwikkeling in het FabLab Amsterdam
+
+----
+
+Videolink: 
+
+----
+
+Subtitle: 
+
+----
+
+Intro: Achttien leerlingen van het Mendelcollege in Haarlem hebben donderdag 21 april 2016 een workshop bijgewoond in het Fablab Amsterdam.
+
+----
+
+Text: 
+
+Achttien leerlingen van het Mendelcollege in Haarlem hebben donderdag 21 april 2016 een workshop bijgewoond in het Fablab van Waag Society in Amsterdam, middels een voucher van Platform Maker Education. 
+
+(image: p1030036.jpg class: medium)
+
+Deze leerlingen zitten in het tweede leerjaar van mavo, havo of (Engelstalig) vwo en nemen deel aan het talentontwikkelingsprogramma 'Ontdek!'. Dit biedt hun de gelegenheid om, in plaats van het gewone schoolwerk, aan een project op hun eigen interessegebied te werken. Op 21 april mochten ze een maker workshop bijwonen, gesponsord door het Platform Maker Education. Onder deskundige begeleiding van Anne maakten de leerlingen een product met hun eigen tekening er in geëtst (glas) of gelaserd (mdf).
+
+Leerlingen begonnen met het maken van een afbeelding. Deze konden ze zelf tekenen, of van internet downloaden, of met een computer bewerken. De afbeelding werd digitaal gemaakt door deze te scannen. Vervolgens konden de leerlingen kiezen uit drie producten: een buigbare houten kaft voor een notitieblok, een geëtst glas of een gegraveerde pennendoos. 
+
+(image: p1030051.jpg class: medium)
+
+De buigbare houten kaft was het meest populair. Voor maken van deze kaft werd de digitale tekening naar de lasersnijder gestuurd. De lasersnijder snijdt heel nauwkeurig met behulp van licht door hout en ander materiaal. Voor onze notitie-blok-kaften gebruiken we mdf. 
+
+Voor het etsen van glas werd de tekening naar een stickersnijder gestuurd, die ook heel nauwkeurig een stickerversie maakt van de tekening. Die sticker werd op het glas geplakt waarna er etsvloeistof overheen gaat. Zes minuten laten intrekken, afspoelen, en je hebt een glas met je eigen afbeelding er in geëtst.
+
+(image: p1030047.jpg class: medium)
+
+Het was een leuke en leerzame middag. Het was wel jammer dat er niet genoeg tijd was voor iedereen om zijn/haar product af te maken. Gelukkig woont workshopbegeleider Anne in Haarlem en komt zij na de meivakantie de producten brengen. De houten kaften zijn dan klaar en de glazen zullen dan nog op school geëtst worden.
+
+----
+
+Layout: one-col
+
+----
+
+Elementheight: full-height
+
+----
+
+Voucherform: 0
+
+----
+
+Border: 

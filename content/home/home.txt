@@ -18,7 +18,7 @@ Yay! If you are seeing this, the installation of Kirby worked. :)
 
 ----
 
-Subtitle: In elk kind schuilt een uitvinder
+Subtitle: elk kind een uitvinder
 
 ----
 
@@ -30,7 +30,7 @@ Heroimage: fab_poster.jpg
 
 ----
 
-Api: "https://www.openthings.wiki/api/projects/search?tag=51,46&nr_of_items=6"
+Api: "https://www.openthings.wiki/api/projects/search?tag=51,48&nr_of_items=8"
 
 ----
 

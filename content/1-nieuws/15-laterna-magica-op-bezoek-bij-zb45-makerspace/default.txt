@@ -1,0 +1,62 @@
+Heroimage: 
+
+----
+
+Icon: 
+
+----
+
+Title: ZB45 Makerspace in de klas bij Laterna Magica
+
+----
+
+Videolink: 
+
+----
+
+Subtitle: 
+
+----
+
+Intro: 30 maart en 6 april 2016 gaf ZB45 Makerspace een introductie 3D printen in de klas bij Laterna Magica. Lees hier de blog van de leerkracht.
+
+----
+
+Text: 
+
+30 maart en 6 april 2016 gaf ZB45 Makerspace een introductie 3D printen in de klas bij Laterna Magica, middels een voucher van Platform Maker Education. Lees hier de ervaringen van de leerkrachten.
+
+(image: naamloos.jpg class:medium)
+
+Afgelopen week kwam de docente van ZB45 Makerspace bij ons in de klas om iets te vertellen over de 3D-printer. Dit aansluitend op het project van het ontwerpen en bouwen van een eigen huis. Binnen dit project was het heel interessant om te leren hoe een 3D-printer werkt, omdat er ook al gebruik van wordt gemaakt bij het bouwen van een huis. 
+
+Kinderen werden helemaal meegenomen in het proces, van het ontwerpen, versturen tot het daadwerkelijke printen. Ook waren er mooie voorbeelden die kinderen konden bekijken, die het maken van bijvoorbeeld een maquette weer heel inzichtelijk maakten. Zo werd het hele proces duidelijk gemaakt. 
+
+Veel dank voor de interessante workshop!
+
+(image: naamloos2.jpg class:medium)
+
+3D printing workshop voor leraren:
+
+Zodra ik de school binnenkwam lopen zag ik hem hangen, de poster waarin je jezelf kon inschrijven voor de 3D printing workshop. Toen ik zag dat er nog plaatsen over waren heb ik snel mijn kans gegrepen. Ik ben al tijden gefascineerd door 3D printing, maar voelde ook veel beperkingen hoe dit in het onderwijs geïmplementeerd kon worden. Hoe kun je immers iets waar al huizen en lichaamsdelen mee geprint kunnen worden beoefen met kinderen? Het leek mij dat dit een beoefening was waar veel professionele kennis aan te pas komt. Echter eenmaal bij de workshop aangekomen bleek het tegendeel waar. Hier stonden een aantal 3D printers die niet groter waren dan 0.5m3, waarmee ook wij de kans kregen er op een later moment mee te werken. 
+(image: laterna-magica-1.jpg class: medium)
+Het onderdeel waar ik het meest tegenaan liep bij het idee van implementatie in het primair onderwijs is het gebruik van 3D tekenprogramma’s. Dit leek mij een geavanceerd onderdeel, waar de nodige kennis voor vereist is. Dit viel echter reuze mee nadat er een instructie plaats vond met het programma (naam even kwijt…). Het had een simplistisch design en omgeving waarin gewerkt kon werken en was kindvriendelijk! Evengoed werd de website thingiverse genoemd, waar alledaagse mensen hun 3D designs uploaded en beschikbaar stellen voor het grote publiek. Na de instructie zijn we natuurlijk ook zelf aan de slag gegaan. Zo ben ik gaan werken aan het design van een rood snorretje dat ik op een later moment ook heb geprint. Al met al is dit een dag geweest die mijn aandacht heeft getrokken en mijn enthousiasme over de 3D printer heeft vergroot. Ik zie nu meer mogelijkheden voor 3D printing in het primair onderwijs.
+
+Lowie Martens, coach unit 3 Laterna Magica
+(image: laterna-magica-2.jpg class:medium)
+
+----
+
+Layout: one-col
+
+----
+
+Elementheight: full-height
+
+----
+
+Voucherform: 0
+
+----
+
+Border: 

@@ -1,0 +1,45 @@
+Heroimage: img_2190.jpg
+
+----
+
+Icon: 
+
+----
+
+Title: Het hoofd van de juf in 3d
+
+----
+
+Videolink: 
+
+----
+
+Subtitle: 
+
+----
+
+Intro: Op woensdag 29 juni is groep 8 van de Hagenpoort naar het Smartlab in Deventer geweest. We zijn daar in 2 groepen verdeeld.
+
+----
+
+Text: 
+
+De ene groep ging programmeren, waarbij de kinderen leerden hoe belangrijk het is om een duidelijke instructie aan de computer te geven. De andere groep kreeg uitleg over een 3D printer, waarbij het hoofd van de juf in 3D werd uitgeprint. Vervolgens gingen de kinderen aan de slag op de computer om een eigen sleutelhanger te ontwerpen en uit te printen op hout. Halverwege de ochtend werden de groepen gewisseld. Het was een leuke en leerzame ochtend!
+
+(image: img_2196.jpg)
+
+----
+
+Layout: one-col
+
+----
+
+Elementheight: full-height
+
+----
+
+Voucherform: 0
+
+----
+
+Border: 

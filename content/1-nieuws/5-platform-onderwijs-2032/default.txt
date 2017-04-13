@@ -1,0 +1,83 @@
+Heroimage: rommel.jpg
+
+----
+
+Icon: 
+
+----
+
+Title: Platform Onderwijs 2032
+
+----
+
+Videolink: 
+
+----
+
+Subtitle: 
+
+----
+
+Intro: 23 januari 2016 presenteerde Paul Schnabel, voorzitter van Platform Ons Onderwijs 2032, het eindrapport aan Staatssecretaris Dekker.
+
+----
+
+Text: 
+
+Op zaterdag (goed zo: dan kunnen docenten meedoen) presenteerde (link: http://onsonderwijs2032.nl text: Het Platform Onderwijs 2032) (link: http://onsonderwijs2032.nl/wp-content/uploads/2016/01/Ons-Onderwijs2032-Eindadvies-januari-2016.pdf text: haar eindrapport). Het platform onder leiding van Paul Schnabel heeft onderzoek gedaan naar de wensen en eisen die de maatschappij aan het curriculum stelt voor de komende jaren. (link: https://twitter.com/sanderdekker text: Staatssecretaris Sander Dekker) die begin 2015 het startschot gaf, nam dit eindrapport in ontvangst op het (link: http://www.stanislascollege.nl/krakeelpolderweg/ text: Stanislascollege Krakeelpolderweg in Delft). Ook wij, de kwartiermakers Maker Education hebben een gesprek gehad met twee ambtenaren die de commissie ondersteunden.
+
+Een belangrijk rapport met een zware commissie die ook nog eens behoorlijk sterk ambtelijk ondersteund is. Dat betekent dat veel organisaties hun mening geven en hun eigen krenten uit de pap pikken. En dan kunnen wij, de pleitbezorgers van Maken in het Onderwijs, natuurlijk niet achterblijven. Is er ruimte in het curriculum om Maken in te zetten? Wordt het expliciet als kans genoemd, wordt het gezien als onderdeel van het curriculum? Heeft ons gesprek zin gehad?
+
+**Maken in het eindrapport**
+Het woord “Maken” komt regelmatig voor in de tekst, vaak in de samenstelling met “kennis”. Kennismaken. Ik zie drie kansen voor Maker Education.
+
+rommelTen eerste wordt het bepleit dat er meer vakken in samenhang worden gegeven. En als dat gebeurt dan zou het zomaar kunnen dat er langere tijd is om de verwerking van het geleerde te doen door iets te maken. Als er iets is dat in de weg zit van goed Makersonderwijs is het wel de geringe hoeveelheid tijd. Bedenk maar eens hoe dat gaat. Eerst je spullen pakken, dan alle neerzetten en dan kan je pas aan de slag. Dan moet je ook nog weer precies weten waar je was en welk probleem je aan het tackelen was. Aan het einde van de les moet je opruimen, schoonmaken, je project opbergen. En dat terwijl je net lekker bezig was. Dus, wanneer er meer samenhangende tijd komt, biedt dit mogelijkheden.
+
+Ten tweede ziet het platform dat de “digitale geletterdheid” een basisvaardigheid is naast o.a. taalvaardigheid, rekenvaardigheid en burgerschap. Deze vaardigheid wordt weer onderverdeeld in een aantal subvaardigheden en een daarvan is Computational Thinking. De formulering die het Platform kiest is wel bijzonder:
+
+**Computational thinking**
+Gezien de huidige technologische ontwikkelingen, bijvoorbeeld als het gaat om robotisering of slimme communicatie tussen technologie, vindt het Platform het belangrijk dat leerlingen leren de essentie van computertechnologie te begrijpen en computers kunnen inzetten om een probleem op te lossen. Hoe kiest een zoekmachine bijvoorbeeld uit een grote hoeveelheid zoekresultaten een bepaalde volgorde? Hoe bouw je een onmogelijke constructie? Waardoor doet een robot wat hij doet?
+
+Computational thinking richt zich op de vaardigheden om problemen op te lossen waar veel informatie, variabelen en rekenkracht voor nodig zijn. Het gaat om een verzameling denkprocessen, zoals logisch redeneren, patroonherkenning en systematisch denken. Die leert een leerling door technologie te gebruiken, bijvoorbeeld door kennis te maken met programmeren, te werken met robotica en te experimenteren met 3D-printing. Zulke activiteiten wekken de interesse van leerlingen en geven ze een voldoende basis mee om zich, desgewenst, in deze richting te specialiseren. Leerlingen kunnen dergelijke kennis en vaardigheden ook opdoen zonder technologie, bijvoorbeeld door middel van zogeheten ontwerpend denken en leren.
+
+(image: rommel.jpg alt: Op deze foto is rommel te zien caption: Rommel in de klas class: small)
+
+Over de zin “Hoe bouw je een onmogelijke constructie?” vielen al wat mensen. Maar ik vind er nog meer bijzondere dingen instaan. “Experimenteren met 3D-printen” is logisch: de lobby van de 3D printer enthousiastelingen is sterk en de eerste keer dat je zo’n apparaat ziet, is het inderdaad magisch. Maar er zijn onderwijskundig veel haken en ogen aan het gebruik van dit apparaat. Casper Hulshof vertelde me dat hij er op de onderwijsbijeenkomst BETT in Londen (link: https://twitter.com/Titchener/status/691014289780523009 text: veel gezien had maar weinig goede voorbeelden van educatief gebruik had gezien). Een bevestiging van wat wij al een tijdje roepen: koop maar geen 3D printer, zeker niet als basisschool. (link: http://makered.nl/basisscholen-koop-geen-3d-printer/ text: Zie hier voor de argumenten) en (link: http://makered.nl/3d-printer-of-en-3-uur-later/ text: hier voor een fraaie illustratie van deze argumenten).
+
+Maar het merkwaardigste vond ik de zinsnede: “Leerlingen kunnen dergelijke kennis en vaardigheden ook opdoen zonder technologie, bijvoorbeeld door middel van zogeheten ontwerpend denken en leren.” Vermoedelijk kan het, wellicht door gaming en soms gewoon door te luisteren naar de leraar (niks mis mee) maar het wordt natuurlijk pas echt en levend als je het ook echt gaat doen. En dat kost helemaal niet veel tijd of geld. De programmeertaal Scratch is geweldig en gratis, en ook een MaKeyMaKey of een Arduino zijn niet zo duur. Onze leerlingen verdienen een rijke leeromgeving.
+
+Maar het mooiste, de derde kans, is voor het laatst bewaard. Het platform onderscheidt een laatste categorie bij de basisvaardigheden en dat zijn de “Vakoverstijgende vaardigheden“. Daar wordt wederom een onderverdeling in gemaakt en een daarvan heet “creëren”.
+
+Creëren: leerlingen kunnen innovatieve oplossingen voor bestaande problemen bedenken en maken. Ze kunnen met hun handen werken, maar ook met moderne technologieën, die in toenemende mate voorhanden zijn. Denk daarbij aan 3D-printers en allerhande elektronica, waarmee jongeren op een laagdrempelige manier kunnen ontwerpen én maken. Leerlingen leren buiten de gebaande paden denken en nieuwe verbanden zien, durven te experimenteren en te onderzoeken.
+Weer die makkelijk noembare 3D-printers maar dit is verder eerlijk gezegd precies wat wij, als pleitbezorgers voor Maker Education, voor makersonderwijs voor ogen hebben. Van deze zinnen worden we blij en eerlijk gezegd heb ik het nog niet zo vaak, zo goed opgeschreven gezien. Hulde dus en we zijn blij!
+
+**Wat nu?**
+Er komt een “ontwerpteam2032” ingesteld door het ministerie. Met de opdracht:
+
+een ontwerp maken voor een nieuw curriculum voor basisonderwijs, voortgezet onderwijs (vmbo, havo, vwo en praktijkonderwijs) en speciaal onderwijs.
+
+Het is onduidelijk wie daarin gaan plaats nemen. Er is ook geen mogelijkheid om je daarvoor aan te melden. De staatssecretaris kondigt wel in zijn (file: kamerbrief-met-beleidsreactie-op-het-advies-van-het-platform-onderwijs2032-2.pdf text: brief aan de kamer) aan dat hij binnenkort gaat bekendmaken wie erin zit (best jammer dat dit niet openbaar gaat maar wellicht is dat onmogelijk). Maar wie er ook in zal zitten, we zullen ons laten zien. Bij het eerste gesprek met het platform hebben we ook helder aangegeven dat we Maken niet zien als vak maar als een mogelijkheid om het geleerde te verwerken als vaardigheid, eigenlijk zoals geformuleerd in de paraaf hierboven bij Creëren.
+
+Wat een gevaar is, is dat er nu partijen kansen zien om dit in een methode te gieten. Dat is zo enorm in tegenspraak met Maker Education zoals het bedoeld is. Dat wil niet zeggen dat er geen lessen kunnen worden gemaakt door anderen dan jezelf maar een hele methode van voor naar achteren doet geen recht aan de creativiteit aan zoals de het Platform het noemt: “Leerlingen leren buiten de gebaande paden denken en nieuwe verbanden zien, durven te experimenteren en te onderzoeken.” Binnenkort zal het Platform Maker Education ook startlessen e.d. beschikbaar stellen.
+
+Nog een hoop werk te doen dus. Ik heb er zin in!
+
+**Arjan van der Meij**
+
+Arjan is vooral docent natuurkunde. Ook heeft hij een paar jaar geleden zijn dysbricolikaart moeten inleveren en durft hij zich maker te noemen. Tegenwoordig maakt hij zich bijzonder druk.  Alle leerlingen moeten makers kunnen worden. Dat is zijn doel. Hij zou graag een inspiratieboek voor Maker Educators schrijven.
+
+----
+
+Layout: one-col
+
+----
+
+Elementheight: full-height
+
+----
+
+Voucherform: 0
+
+----
+
+Border: 

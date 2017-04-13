@@ -1,0 +1,70 @@
+Heroimage: tmc-waag-maker-education.jpg
+
+----
+
+Icon: 
+
+----
+
+Title: Publicatie onderzoeksrapporten
+
+----
+
+Videolink: 
+
+----
+
+Subtitle: 
+
+----
+
+Intro: 
+
+----
+
+Text: 
+
+Om de bottom-up maker education beweging in Nederland verder te helpen is het doen van onderzoek van belang. In opdracht van Platform Maker Education hebben partnerpartijen twee onderzoeken naar maker education in de Nederlandse context uitgevoerd. De onderzoeksrapporten zijn nu gepubliceerd en te downloaden, via onderstaande links en op makereducation.nl.
+
+Inhoudelijk heeft het onderzoek plaatsgevonden langs twee lijnen:
+
+1. **Literatuuronderzoek:** uitgevoerd door Peter Troxler (Hogeschool Rotterdam en Creating 010)
+Makersonderwijs – leren door te maken – lijkt “hot” te zijn. In de Verenigde Staten heeft maker education de aandacht en zegen van president Obama weten te verkrijgen. Ook in Nederland heeft de petitie “Leren door te maken” makersonderwijs in de politieke schijnwerpers gezet. Dit onderzoek gaat in op de vragen wat makersonderwijs is, hoe makersonderwijs toegepast wordt en waarom makersonderwijs interessant en belangrijk is.
+
+Over makersonderwijs is nog weinig uitgebreid empirisch onderzoek gedaan, veel publicaties zijn meer beschouwend van aard, vaak gebaseerd op case studies, of het zijn beschrijvingen en verzamelingen van voorbeelden van makersonderwijs.
+
+Het onderzoek plaatst het makersonderwijs in zijn historisch-pedagogische context – Fröbel, Dewey, Steiner, Montessori, Petersen (Jenaplan), Parkhurst (Daltononderwijs) – en leerconcepten uit de 20e eeuw: constructionisme, community of practice, zone van naaste ontwikkeling, ervarend leren. De relatie met de Reggio Emilia Approach wordt toegelicht.
+
+De ontwikkeling en uitwerking van makersonderwijs moet vooral door de makers in het onderwijs opgepakt worden. Dit onderzoek geeft hen een basis voor het wat, hoe, en waarom. Niet alleen “omdat het kan”.
+
+(link: http://waag.org/sites/waag/files/public/media/publicaties/pme-onderzoek-kennis-maker-education.pdf text: Download: 'Niet alleen "omdat het kan", onderzoek naar kennis over maker education in Nederland' )
+
+2. **Praktijkgericht onderzoek:** uitgevoerd door Iris Douma (HKU) i.s.m. TU Eindhoven
+Het volgende onderzoeksrapport is in het Engels geschreven en heeft de vorm van een whitepaper. Het is gebaseerd op kwalitatief onderzoek, waarin de praktijk en theorie van maker education aan elkaar worden verbonden.
+
+Maker education is a new educational movement that sees potential in the process of ‘making’ at school. Maker education hopes to achieve the development of ‘maker-skills’ such as developing creativity, imagination, engineering and problem solving trough making in school. The Dutch Platform Maker Education is a platform where maker educators, people interested in maker education and makers themselves meet. The community shares ideas, and curriculum examples trough the digital platform as well as events organised by themselves. Platform Maker Education has a strong belief that maker education can help school children to gain 21st century skills (future-oriented skills) and become more self-directed and confident citizens, prepared for our fast and rapid changing society.
+
+The goal of this report is:
+• to connect existing international research about Maker education to Dutch maker education in practice;
+• to gain insight in how the creative make and learn processes of Maker education in the Netherlands are set-up;
+• to find out how the interest of students in technology is stimulated and what the role of using new technologies is.
+
+(link: http://waag.org/sites/waag/files/public/media/publicaties/pme-theory-and-practice.pdf text: Download 'Maker Education - Theory and Practice in the Netherlands' [pdf])
+
+Eerder verscheen het verslag van de eerste werkconferentie Platform Maker Education.
+
+----
+
+Layout: one-col
+
+----
+
+Elementheight: full-height
+
+----
+
+Voucherform: 0
+
+----
+
+Border: 

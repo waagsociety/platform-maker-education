@@ -1,0 +1,55 @@
+Heroimage: 
+
+----
+
+Icon: 
+
+----
+
+Title: Werkplaats Kindergemeenschap Bilthoven op bezoek bij MakerSchool X11
+
+----
+
+Videolink: 
+
+----
+
+Subtitle: 
+
+----
+
+Intro: 25 mei 2016 gingen 12 collega’s van Werkplaats Kindergemeenschap Bilthoven aan de slag bij MakerSchool/X11. Lees hun ervaring in deze blog.
+
+----
+
+Text: 
+
+Op woensdag 25 mei hebben we een ontzettend leuke werkmiddag gehad op de MakerSchool/X11 onder leiding van Michiel Lucassen.
+
+Met 12 collega’s van Werkplaats Kindergemeenschap in Bilthoven zijn we een hele middag aan de slag gegaan op de MakerSchool in Utrecht. We zijn aan de slag gegaan met Lego Mindstorms, MakeyMakey, Scratch, LittleBits, Drones, 360 graden camera’s en 3D printen.
+
+De eerste 2 rondes bestonden uit het kennismaken met verschillende nieuwe technieken door er gewoon mee aan de slag te gaan. Ga het maar proberen en kijk maar wat eruit komt. Het leren door te maken. Daarna een verdiepende ronde om nog meer te weten te komen en uit te proberen. 
+(image: werkplaats-kindergemeenschap-bilthoven.png class: medium)
+Het was leuk om te zien dat iedereen in een korte tijd lampjes lieten branden, bouwsels geluiden lieten produceren, een robot lieten rijden, Tetris op de computer aan te sturen met bestek en een multifunctionele sleutelhanger ontwerpen in Tinkercad en deze uit te printen op de 3D printer. Dit ging gepaard met een hoop energie, enthousiasme en niet te vergeten met heel veel lol.
+
+Ter afsluiting was er door Michiel gezorgd voor een uitgebreide borrel waar iedereen zijn en haar ervaringen kon uitwisselen.
+
+Nu gaan we de eerste ideeën uitwerken en kijken wat er in de vaklessen ingezet kan worden. En wie weet organiseren we een vervolg werkmiddag om de ideeën verder uit te werken.
+
+Kiona van Herwijnen
+
+----
+
+Layout: one-col
+
+----
+
+Elementheight: full-height
+
+----
+
+Voucherform: 0
+
+----
+
+Border: 

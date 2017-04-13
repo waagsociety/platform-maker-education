@@ -1,0 +1,72 @@
+Heroimage: 
+
+----
+
+Icon: 
+
+----
+
+Title: Leerlingen op uitwisselingsprogramma Nederland-Polen op bezoek bij FabLab Groningen
+
+----
+
+Videolink: 
+
+----
+
+Subtitle: 
+
+----
+
+Intro: Op 21 maart 2016 gingen leerlingen van het Gomarus College aan de slag in het FabLab Groningen. Lees hun ervaringen in deze blog.
+
+----
+
+Text: 
+
+21 maart 2016 zijn wij, klas 3 HAVO van het Gomarus College in Groningen, samen met de Poolse uitwisselingsgasten naar het FabLab in Groningen geweest. 
+
+Om 12:45 uur vertrokken wij met de groep vanuit het Gomarus College lopend naar het FabLab. We kwamen aan om ongeveer 13:15 uur. Binnen in het FabLab werden wij ontvangen en werd de groep nog eens in drieën verdeeld. Iedere groep bezocht drie verschillende onderdelen. Onze groep kreeg als eerste uitleg bij de 3D-printer. Dat was zeer interessant. Daarna hebben we gekeken in een lab waar ze allemaal leuke accessoires maakten. Het was speciaal bedoeld voor mensen die spullen hadden ontworpen en die wilden uitprinten, maar zelf geen 3D-printer hadden. 
+(image: gomarus1.png class: medium)
+Ze hadden ook laser uitsnijders. Daar printten we een soort sleutelhanger uit. Die kregen we aan het einde mee. Het was een heel spektakel hoe het werd uitgesneden. Het laatste onderdeel was een algemene uitleg over FabLabs. Het ging over 3D-printers, over andere FabLabs over de wereld en hoe je een FabLab kunt herkennen. Wij vonden de lasersnijders het leukste onderdeel. Deze lasersnijder sneed gewoon door hout, dit hadden wij niet verwacht.
+
+Ook de 3D-printers waren erg mooi. De mens is al zo slim op dit moment. Je kunt echt alles maken met een 3D-printer. Zelfs een wapen. Dat is dus best wel apart. Je kunt gewoon een 3D-printer kopen en een wapen printen. Dat dat zo makkelijk kon, wisten we eigenlijk helemaal niet. Dat hebben we allemaal geleerd. Dat je in principe alles kan maken met 3D-printers is best wel bijzonder. 
+
+Uiteindelijk gingen wij naar huis en praatten we nog even na over het FabLab. De volgende dag hebben wij het Groninger museum bezocht. Toeval of niet, daar was op dat moment een tentoonstelling van een ontwerper die al zijn kunstvoorwerpen maakt met een 3D-printer. Van stoelen tot aan radiators. Als wij de uitleg bij het FabLab niet hadden gehad, hadden wij een minder goed idee gehad over hoe een 3D-printer werkt. 
+(image: gomarus2.png class: medium)
+Uiteindelijk hebben we veel geleerd en vonden we het wel interessant. We zouden er best nog een keer heen willen, omdat het zo leuk was. Ook onze Poolse gasten waren onder de indruk van de mogelijkheden die het FabLab biedt. Zij kwamen achter dat het FabLab best wel veel locaties in heel veel verschillende landen heeft en ook meerdere in Polen.
+
+Hieronder nog kort wat algemene informatie over wat een FabLab precies is en doet.
+
+FabLab staat voor Fabrication Laboratorium. Het is een openbare digitale werkplaats waar mensen worden uitgenodigd om zelf dingen te maken door middel van verschillende technieken en waar het openlijk delen van ontwerpen en ideeën wordt aangemoedigd. Of anders gezegd: een Fablab is een werkplaats die laagdrempelige toegang biedt tot een aantal computergestuurde prototyping machines, waarmee gebruikers hun ideeën kunnen omzetten naar tastbare producten.
+
+Een FabLab heeft in principe een lasersnijder, een CNC-frees, een 3D-printer, een foliesnijder en een electronicahoek. Een belangrijk kenmerk van FabLabs is dat zij hun kennis delen met andere Fablabs. Het zijn vaak kweekvijvers voor innovaties.
+(image: gomarus3.png class: medium)
+Het FabLab was in de Herestraat 101 Groningen. Bij het Fablab kan je in totaal 7 cursussen volgen. 
+- cursus lasersnijden. 
+- basiscursus 3D-printen. 
+- ei-challenge 
+- 3D cursus 
+- tandenborstel challenge
+- textiel ontwerpen 1
+- textiel ontwerpen 2
+
+Bedankt mensen van het FabLab voor jullie gastvrijheid en goede, interessante en leerzame uitleg!
+
+3Ha, Gomarus College Groningen
+
+----
+
+Layout: one-col
+
+----
+
+Elementheight: full-height
+
+----
+
+Voucherform: 0
+
+----
+
+Border: 

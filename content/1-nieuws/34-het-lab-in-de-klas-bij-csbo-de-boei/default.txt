@@ -1,0 +1,49 @@
+Heroimage: 
+
+----
+
+Icon: 
+
+----
+
+Title: Het LAB in de klas bij CSBO De Boei
+
+----
+
+Videolink: 
+
+----
+
+Subtitle: 
+
+----
+
+Intro: Op donderdag 16 juni 2016  kwam Het LAB op school om de kinderen van CSBO De Boei een workshop LEGO Mindstorm te geven. Lees hier de blog.
+
+----
+
+Text: 
+
+Op donderdag 16 juni 2016  kwamen Tom en Jet van Het LAB op school om de kinderen van CSBO De Boei een workshop LEGO Mindstorm te geven.
+
+Dat wil zeggen dat de kinderen zelf flink aan de slag konden met het programmeren van een robot. Ze moesten via de laptop de robot  besturen. 
+
+De eerste opdracht was: laat de robot een vierkant rijden. De kinderen gingen enthousiast aan de gang. En al snel lukte dit!!!!! Daarna hebben ze gewerkt met kleur en geluid. De kinderen waren erg inventief. Dat kan je zien op de foto’s hieronder. 
+
+Wij bedanken de makers education en Het LAB die ons de mogelijkheid gaven om op een hele actieve en creatieve manier  kennis te laten maken met techniek en onderwijs. De kinderen hebben er veel van opgestoken!
+
+----
+
+Layout: one-col
+
+----
+
+Elementheight: full-height
+
+----
+
+Voucherform: 0
+
+----
+
+Border: 

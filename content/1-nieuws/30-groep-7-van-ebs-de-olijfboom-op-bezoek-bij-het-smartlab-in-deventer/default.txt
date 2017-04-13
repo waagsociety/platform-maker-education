@@ -1,0 +1,52 @@
+Heroimage: 
+
+----
+
+Icon: 
+
+----
+
+Title: Groep 7 van EBS de Olijfboom op bezoek bij het Smartlab in Deventer
+
+----
+
+Videolink: 
+
+----
+
+Subtitle: 
+
+----
+
+Intro: Leerlingen van groep 7 van EBS de Olijfboom gingen aan de slag in het Smartlab. Lees hun ervaringen in deze blog.
+
+----
+
+Text: 
+
+Vandaag hebben we een Maak- en programmeerworkshop bij het Smartlab in Deventer gehad. Onze groep werd in tweeën gedeeld. 
+(image: img_2015.jpg class: medium)
+Een groep begon met de uitleg over hoe een 3D printer werkt. Daarna gingen de leerlingen zelf op de computer een sleutelhanger ontwerpen. Vervolgens werd deze door een laser in hout uitgesneden. Mooi om te zien hoe je een apparaat iets kan laten uitvoeren wat jij bedacht hebt! En wat een mooie creaties kwamen eruit. Je moest wel goed opletten hoe je de tekeningen maakte, moet je snijden of graveren? Anders gaat het mis!
+(image: img_2019.jpg class: medium)
+De andere groep gaat aan de slag met programmeren. Eerst even oefenen: hoe laat je een robot een boterham met boter en jam maken? Dat is best lastig. Je moet eerst de 'programmeertaal' snappen en vervolgens de stappen in de goede volgorde doorgeven, anders loopt de robot vast of gaat het mis. Daarna gingen de leerlingen zelf op de computer een spel programmeren in Scratch. Nadat het basisspel erin stond, konden ze zelf dingen veranderen of toevoegen. Dit hadden ze snel onder de knie en al snel vlogen de discoballen door het scherm! 
+(image: img_2027.jpg class: medium)
+Ook leuk om thuis of in de klas mee verder te gaan!
+De groepen kregen na de workshop pauze en zijn daarna omgewisseld. Ook werd de juf nog even ingescand, om door de 3D printer vereeuwigd te worden. 
+(image: img_2037.jpg class: medium)
+Kortom: het was een leuke en leerzame ochtend. We hebben weer leuke ideeën opgedaan voor op school.  Super!
+
+----
+
+Layout: one-col
+
+----
+
+Elementheight: full-height
+
+----
+
+Voucherform: 0
+
+----
+
+Border: 

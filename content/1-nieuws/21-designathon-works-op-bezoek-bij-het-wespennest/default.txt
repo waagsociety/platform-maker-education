@@ -1,0 +1,71 @@
+Heroimage: 
+
+----
+
+Icon: 
+
+----
+
+Title: Designathon works op bezoek bij Basisschool het Wespennest
+
+----
+
+Videolink: 
+
+----
+
+Subtitle: 
+
+----
+
+Intro: De kinderen van groep 5 tot en met 8 van Basisschool het Wespennest hebben een Designathon gedaan met het thema de Kringloopstad.
+
+----
+
+Text: 
+
+Day a Week School, Designathon in Amsterdam Noord.
+Dankzij de Maker Education Platform hebben we een geweldige dag gehad samen met alle kinderen van de Day A Week School in Amsterdam Noord. Juf Clemeyns samen met Emer Beamer hebben de kinderen begeleid. Het thema was ‘de Kringloopstad’ Alle kinderen hebben in groepen iets bedacht geïnspireerd op dit gedachtengoed en vervolgens een prototype van hun idee gemaakt. Dit deden ze met afval-material en de Designathon Maker Kit. Lees hieronder de blogposts van de kinderen.
+(image: 1-pamc18n67ld8cy82_tqaag.jpg class: medium)
+**Voetbal Robot, door Nils en Redouan**
+We hebben een auto van afval gemaakt en ik heb geleerd dat afval niet bestaat en dat afval gedumpt wordt in arme landen en ik heb geleerd om te gaan met elektriciteit ik heb ook geleerd hoe je een klein ventilatortje aan kan sluiten.
+(image: 1-zcamrs6f0li_kumwlznteq.jpg class: medium)
+**Gerecycled Keyboard, door Josephine en Amany**
+We hebben samen een keyboard gemaakt, van tape, karton, flessendoppen en bubbeltjesplastic (gebruikt). We hebben de onderkant van een kartonnedoos gebruikt voor het keyboard zelf. Dat stuk karton hebben we vervolgens in tape gewikkeld. Het was lastig, maar we hebben 1 toets zelfs laten werken! Daarvoor heb je nodig: een alarmpje waar 2 draadjes uitkomen, een gele en een zwarte, die maak je vast aan een hele kleine batterij. We hebben van dit hele project veel geleerd over de problemen die afval veroorzaakt, maar ook hoe je met elektriciteit om moet gaan. Wij vonden het superleuk!
+(image: 1-gtchw7-p6rhju7dpllg13g.jpg class: medium)
+**Palmolie Robot door Ravi, Douwe en Daan**
+We hebben een robot gebouwd die palm olie uit palmbomen zuigt. Het was mega leuk en interessant. Ik heb er van geleerd hoe moeilijk het is om met stroom om te gaan.
+Het was heel leuk en interessant om samen te werken en de machine te bouwen. En het was leuk om het idee te bedenken en op papier te zetten.
+Anderen hadden ook mooie ontwerpen. Wij zelf liepen tegen een paar problemen namelijk de motor van Daan deed het niet en de robot wou niet rijden. De twee blauwe propellers draaide de verkeerde kant op maar het is gelukt om het goed te laten draaien. Door twee draadjes om te wisselen.
+(image: designathon-wespennest-4.jpg class: medium)
+**#Leukedag, Zeger, Bram, Milan**
+Laatst kwam Emer langs van de Designathon. Het onderwerp was kringloopstad. We moesten een prototype maken van afval en van elektrische dingetjes. Het moest dienen voor de natuur. Eerst moesten we bedenken wat we gingen maken en dat was een robot. Daarna gingen we de robot schetsen. Toen mochten we onze spullen gaan uitzoeken. S’ middags kwamen er ouders en gingen we het prototype maken. De robot was best klein, kan praten, zwemmen, dingen pakken en slaan. Hij had lichtgevende ogen en reed op een ox-board. En toen was hij af. We gingen hem presenteren. Het was ontzettend leuk. #leuke dag!
+(image: 1-x4tqw6urtnckjvjyyqw_kq.jpg class: medium)
+**Gps-robotje om dingen te vinden, Nancy, Mia en Tinca.**
+De Designathon-doos zat vol met: batterijen, motortjes, zonnepanelen en propellers. Het is heel leuk dan bijvoorbeeld: een wagentje te laten rijden met wieltjes en een propeller. Ik vond het zelf een erge leuke opdracht en heb er veel van geleerd zoals: hoe je batterijen met een krokodillenbekje moet ver binden om een aan/uit knopje te laten werken. Verder vond ik dat er goede hulp was.
+Wij hebben een gps-robotje gemaakt voor als je iets kwijt bent geraakt en die waarschuwt als je per ongeluk afval heb laten vallen. Als je iets bent kwijt geraakt, moet je de naam van dat voorwerp in toetsen en dan gaat het robotje het voor je zoeken en brengt het dan naar je toe. En omdat we er ook iets milieuvriendelijks er in wilden verwerken, gaat hij zeuren als je afval op straat gooit. En dan denk je nu je kan hem het toch ook gaan laten halen/oppakken? Maar je moet het plastic wel scheiden met het andere afval want anders gaat hij geen plastic halen/oppakken! Verder rijdt hij op een propeller aan de onderkant.
+(image: 1-fapg4luqorjc3wqtblfcuq.jpg class: medium)
+**Popstoel van Bente en Emil**
+Wij gingen een Popstoel maken. Dat deden we om te laten zien dat je van plastic mooie dingen kan maken. Zoals een stoel en een poppen kast. Zulke dingen lijken helemaal niet op elkaar, Maar je kunt er wel mooie dingen mee maken. Dat gingen we dus doen. We hebben ook veel geleerd zoals: een lampje laten branden. We hebben geleerd hoe je met plastic mooie dingen kan maken. Het was heel leuk!!!!!!!!!!!!!!!
+(image: designathon-wespennest-3.jpg class: medium)
+**Afvalverwerking op zee, door Mink, Kiera en Dané**
+Het afval wordt gescheiden door robots. Het geheel drijft op zee om daar al het afval op te ruimen en ter plaatse te verwerken tot iets bruikbaars. Hij kan ook op het land rijden. Er zijn compartementen voor plastic, elektronica, papier, glas en composteerbaar stoffen. De mensen zorgen dat alles goed gaat. Door het verwerken wekt het z’n eigen energie op. Het heeft zelfs een bliksemafleider bovenop. Als er bliksem op inslaat dan slaat ie die energie ook op.
+
+Als je meer wilt weten over de Day a Week school, (link: http://www.dayaweekschool.nl/ text: kijk hier)
+Meer over Designathon Works, (link: http://www.designathonschool.com/ text: kijk hier)
+
+----
+
+Layout: one-col
+
+----
+
+Elementheight: full-height
+
+----
+
+Voucherform: 0
+
+----
+
+Border: 

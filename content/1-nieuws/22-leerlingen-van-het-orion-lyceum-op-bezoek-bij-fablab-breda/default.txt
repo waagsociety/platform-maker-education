@@ -1,0 +1,61 @@
+Heroimage: 
+
+----
+
+Icon: 
+
+----
+
+Title: Leerlingen van het Orion Lyceum op bezoek bij FabLab Breda
+
+----
+
+Videolink: 
+
+----
+
+Subtitle: 
+
+----
+
+Intro: Op 8 april 2016 gingen leerlingen van het Orion Lyceum op bezoek bij FabLab Breda. Lees hun ervaringen in deze blog.
+
+----
+
+Text: 
+
+Op 8 april 2016 gingen leerlingen van het Orion Lyceum op bezoek bij FabLab Breda. Lees hun ervaringen in deze blog.
+
+Gewoonste zaak van de wereld toch, even 3-d scannen? Jezelf, een lichaamsdeel en dit verder bewerken tot, uh ja wat eigenlijk? Dat deden we afgelopen vrijdag bij het FABLAB Breda. Gekke bekken trekken en serieus sculpturen maken. Kijk hieronder voor een paar van de beelden of ga naar: (link: https://www.flickr.com/photos/orioncollege/ text: Orion fotopagina)
+ 
+(image: orion-lyceum1.jpg class: medium)
+
+Dus eerst je arm in de lucht…. en scannen maar!
+
+(image: orion-lyceum2.jpg class: medium)
+ 
+Daarna bewerken!
+
+(image: orion-lyceum3.jpg class: medium)
+ 
+Wat kun je daar nou mee? En wat als je jezelf helemaal scant?
+
+(image: orion-lyceum4.jpg class: medium)
+ 
+Printen dus in 3-d. Dat doen de leerlingen de volgende keer.
+
+----
+
+Layout: one-col
+
+----
+
+Elementheight: full-height
+
+----
+
+Voucherform: 0
+
+----
+
+Border: 

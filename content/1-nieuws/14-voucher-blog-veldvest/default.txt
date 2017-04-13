@@ -1,0 +1,56 @@
+Heroimage: 
+
+----
+
+Icon: 
+
+----
+
+Title: (Digitale) Creatie & Ontwerpprocessen / FabLab013
+
+----
+
+Videolink: 
+
+----
+
+Subtitle: 
+
+----
+
+Intro: Op 16 maart 2016 bracht een groep collega’s van Veldvest een bezoek aan FabLab013 in Tilburg. Lees hun ervaringen in deze blog.
+
+----
+
+Text: 
+
+Van Lasermachine tot 3D printer en van portaalfrees tot folie-plotter......
+
+Op woensdag 16 maart 2016 maakte een groep collega’s van Veldvest kennis met deze apparatuur tijdens een bezoek aan FabLab013 in Tilburg, middels een voucher van het Platform Maker Education.
+
+Een FabLab is een open werkomgeving waar (onder begeleiding) gebruik kan worden gemaakt van apparatuur welke normaal lastig toegankelijk is voor eindgebruikers. Door de begeleiding ter plekke en de onderwijskundige input die de leerkrachten verzorgen, kunnen op deze manier krachtige onderwijsarrangementen ontstaan. Het doel van dit bezoek was om de haalbaarheid hiervan voor de Stichting in een eerste kennismaking te onderzoeken.
+
+‘Maakonderwijs’ is bezig aan een opmars in Nederland. Platform Maker Education is begonnen met het faciliteren van een platform waar impulsen gegeven worden aan alle vormen van maakonderwijs in Nederland. Hoofduitgangspunt hiervan is dat kinderen leren door te maken en dat zij door het doorlopen van ontwerp- en ontwikkelprocessen creatief en onderzoekend leren. Gebruik maken van moderne gereedschappen is daarbij vanzelfsprekend, maar niet direct een doel op zich. Ook traditionele manieren om producten te maken zijn prima. Deze vorm van onderwijs kan ongetwijfeld bijdragen aan betekenisvolle, krachtige leersituaties met zeer betrokken kinderen.
+
+Het bezoek aan het Fablab heeft veel nieuwe inzichten opgeleverd. De apparatuur, maar zeker de stappen die kinderen doorlopen bij een ontwikkel-/ontwerpproces sluiten nauw aan bij de geformuleerde (pedagogische) doelstellingen uit het ICT-beleidsplan en verdienen dus een nader onderzoek. Ook moeten hierbij passende onderwijsarrangementen gezocht/uitgewerkt worden om te zorgen dat een kennismaking met deze apparatuur niet blijft steken op een ‘leuke gadget’.
+
+In de komende tijd zal een uitnodiging uitgaan aan leerkrachten die hieraan een bijdrage kunnen leveren, vanuit eigen professionele interesse. Wij hopen op een enthousiaste groep leerkrachten die hier samen met ons de schouders onder wil gaan zetten!
+
+Namens de beleidsgroep ICT van Veldvest,
+Bart Brom
+
+----
+
+Layout: one-col
+
+----
+
+Elementheight: full-height
+
+----
+
+Voucherform: 0
+
+----
+
+Border: 

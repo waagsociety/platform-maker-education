@@ -96,7 +96,7 @@ var geojson = [{
     "adres":"Ruitenberglaan 26, 6926 CC Arnhem"
   },
     "geometry":{
-      "coordinates":[5.9512961, 51.98734469999999],
+      "coordinates":[5.9523475, 51.9870474],
       "type":"Point"
     }
 },
@@ -147,7 +147,7 @@ var geojson = [{
     "adres":"Veilingkade 8, 4815 HC Breda "
   },
     "geometry":{
-      "coordinates":[4.7669952, 51.5988796],
+      "coordinates":[4.7668975, 51.5988943],
       "type":"Point"
     }
 },
@@ -249,7 +249,7 @@ var geojson = [{
     "adres":"Klokgebouw 151/145, Strijp-S, 5617 AB Eindhoven"
   },
     "geometry":{
-      "coordinates":[5.458038, 51.4491658],
+      "coordinates":[5.4581289, 51.449094],
       "type":"Point"
     }
 },
@@ -317,7 +317,7 @@ var geojson = [{
     "adres":"Stroinksbleekweg 2, 7523 ZL Enschede"
   },
     "geometry":{
-      "coordinates":[6.894221, 52.23184850000001],
+      "coordinates":[6.8942416, 52.2318486],
       "type":"Point"
     }
 },
@@ -351,7 +351,7 @@ var geojson = [{
     "adres":"Stroinksbleekweg 4a, 7523 ZL Enschede\n"
   },
     "geometry":{
-      "coordinates":[6.894221, 52.23184850000001],
+      "coordinates":[6.8942416, 52.2318486],
       "type":"Point"
     }
 },
@@ -436,7 +436,7 @@ var geojson = [{
     "adres":"Blokhuisplein 40, 8911 LJ Leeuwarden"
   },
     "geometry":{
-      "coordinates":[5.800263699999999, 53.19975179999999],
+      "coordinates":[5.8002218, 53.1998103],
       "type":"Point"
     }
 },
@@ -623,7 +623,7 @@ var geojson = [{
     "adres":"Scheepsbouwweg 8 - K03, 3089 JW Rotterdam"
   },
     "geometry":{
-      "coordinates":[4.4186144, 51.8965208],
+      "coordinates":[4.4186249, 51.8978756],
       "type":"Point"
     }
 },
@@ -793,7 +793,7 @@ var geojson = [{
     "adres":"Leidsewallen 80, 2722 PC Zoetermeer"
   },
     "geometry":{
-      "coordinates":[4.497491, 52.0581401],
+      "coordinates":[4.4978193, 52.0573731],
       "type":"Point"
     }
 },
@@ -929,7 +929,7 @@ var geojson = [{
     "adres":"Goirkestraat 96, 5004 JG, Tilburg"
   },
     "geometry":{
-      "coordinates":[5.0794625, 51.5708518],
+      "coordinates":[5.079509, 51.5708238],
       "type":"Point"
     }
 },
@@ -959,11 +959,28 @@ var geojson = [{
     "marker-size":"medium",
     "marker-color":"#7dffb8",
     "marker-symbol":"school",
-    "website":"https://stenden.com/en/",
+    "website":"https://stenden.com",
     "adres":"Van Schaikweg 94, 7811 KL Emmen"
   },
     "geometry":{
-      "coordinates":[6.9120234, 52.7783293],
+      "coordinates":[6.9123706, 52.7782503],
+      "type":"Point"
+    }
+},
+{
+  "type":"Feature",
+  "properties":{
+    "id":"marker-ijo1qpiw0",
+    "title":"Stenden hogeschool - Pabo Emmen",
+    "description":"Workshops Maker Education voor alle professionals die met kinderen werken in de leeftijd van 3 tot 14 jaar",
+    "marker-size":"medium",
+    "marker-color":"#69d2f7",
+    "marker-symbol":"hairdresser",
+    "website":"https://stenden.com",
+    "adres":"Van Schaikweg 94, 7811 KL Emmen"
+  },
+    "geometry":{
+      "coordinates":[6.9123706, 52.7782503],
       "type":"Point"
     }
 },
@@ -972,7 +989,7 @@ var geojson = [{
   "properties":{
     "id":"marker-ijo1qpiw0",
     "title":"Suguclub",
-    "description":"SuGu EDU ontwikkelt educatieve programma's rondom de derde industriele revolutie. De derde industriele revolutie heeft specifieke, vernieuwende kenmerken, waaronder gerichtheid op een circulaire, digitale en biologische economie. In deze nieuwe werkelijkheid worden het kunnen programmeren van een robot en het kunnen printen van een reserveonderdeel steeds belangrijkere vaardigheden. SuGU EDU levert een gedifferentieerd aanbod door lesmodules en workshops te ontwikkelen voor verschillende doelgroepen en opleidingen: van basisonderwijs, middelbaar (beroeps-)onderwijs, hoger onderwijs tot bedrijfstrainingen.",
+    "description":"SuGu EDU ontwikkelt educatieve programmas rondom de derde industriele revolutie. De derde industriele revolutie heeft specifieke, vernieuwende kenmerken, waaronder gerichtheid op een circulaire, digitale en biologische economie. In deze nieuwe werkelijkheid worden het kunnen programmeren van een robot en het kunnen printen van een reserveonderdeel steeds belangrijkere vaardigheden. SuGU EDU levert een gedifferentieerd aanbod door lesmodules en workshops te ontwikkelen voor verschillende doelgroepen en opleidingen: van basisonderwijs, middelbaar (beroeps-)onderwijs, hoger onderwijs tot bedrijfstrainingen.",
     "marker-size":"medium",
     "marker-color":"#f86767",
     "marker-symbol":"rocket",
@@ -989,7 +1006,7 @@ var geojson = [{
   "properties":{
     "id":"marker-ijo1qpiw0",
     "title":"Bibliotheek Hoogezand",
-    "description":"Het eLAB is een plek in de bibliotheek waar mediawijsheid, leesbevordering en 21st Century Skills samenkomen. Naast de fysieke plek in de Bibliotheek gaan we een doorgaande leerlijn ontwikkelen voor de basisscholen waar het maken en programmeren centraal staan. Met het eLAB kunnen we kinderen een betekenisvolle en contextrijke omgeving aanbieden zowel in de Bibliotheek als op school.",
+    "description":"Het eLAB is een plek in de bibliotheek waar mediawijsheid, leesbevordering en 21st Century Skills samenkomen. Naast de fysieke plek in de Bibliotheek gaan we een doorgaande leerlijn ontwikkelen voor de basisscholen waar het maken en programmeren centraal staan. ��Met het eLAB kunnen we kinderen een betekenisvolle en contextrijke omgeving aanbieden zowel in de Bibliotheek als op school.",
     "marker-size":"medium",
     "marker-color":"#f86767",
     "marker-symbol":"rocket",
@@ -1057,7 +1074,7 @@ var geojson = [{
   "properties":{
     "id":"marker-ijo1qpiw0",
     "title":"WALHALLAb de Kruittoren",
-    "description":"WALHALLAb de Kruittoren in Zutphen, is een supercoole Makerspace! In de 700 jaar oude Kruittoren en de 1400m2 grote MaakPlaats, ontwikkel jij jouw talent voor design, kunst, techniek, innovatie en architectuur. Alle leeftijden, alle achtergronden. Veel leerlingen van WALHALLAb zijn bekend geworden door hun succesvolle projecten en bijzondere opdrachtgevers. Hoewel WALHALLAb de Kruittoren geen school is, werkt ze wel nauw samen met scholen, ROC's en Academies. Ook leer je bij ons ondernemend worden. Jaarlijks doen ruim 2000 scholieren mee aan onze buitenschoolse en gave projecten. Zien we jou straks ook in Zutphen?! Bel voor directe info: 06-13964067",
+    "description":"WALHALLAb de Kruittoren in Zutphen, is een supercoole Makerspace! In de 700 jaar oude Kruittoren en de 1400m2 grote MaakPlaats, ontwikkel jij jouw talent voor design, kunst, techniek, innovatie en architectuur. Alle leeftijden, alle achtergronden. Veel leerlingen van WALHALLAb zijn bekend geworden door hun succesvolle projecten en bijzondere opdrachtgevers. Hoewel WALHALLAb de Kruittoren g����n school is, werkt ze wel nauw samen met scholen, ROC's en Academies. Ook leer je bij ons ondernemend worden. Jaarlijks doen ruim 2000 scholieren mee aan onze buitenschoolse en gave projecten. Zien we jou straks ����k in Zutphen?! Bel voor directe info: 06-13964067",
     "marker-size":"medium",
     "marker-color":"#f86767",
     "marker-symbol":"rocket",
@@ -1065,7 +1082,7 @@ var geojson = [{
     "adres":"Kruittoren 1, 7201 NZ Zutphen"
   },
     "geometry":{
-      "coordinates":[6.1966358, 52.1455358],
+      "coordinates":[6.197209099999999, 52.1453788],
       "type":"Point"
     }
 },
@@ -1091,7 +1108,7 @@ var geojson = [{
   "properties":{
     "id":"marker-ijo1qpiw0",
     "title":"ZwolleLab",
-    "description":"Of je nu beginner bent of al gevorderd, als particulier aan de slag wilt of misschien vanuit een bedrijf of school; je kunt bij ons terecht! ZwolleLab is een samenwerking tussen Kleinkunstig, de Creatieve Co&ouml;peratie en Stadkamer Zwolle. Samen bieden we een uniek aanbod op het gebied van 3D printen. Je kunt bij ons terecht voor printopdrachten, werkplaatsuren, productpresentatie en leuke workshops. Wij hebben 3D-printers, 3D-scanners en '3D Printer Pennen' aanwezig op locatie. Graag leren wij je alles hierover!",
+    "description":"Of je nu beginner bent of al gevorderd, als particulier aan de slag wilt of misschien vanuit een bedrijf of school; je kunt bij ons terecht! ZwolleLab is een samenwerking tussen Kleinkunstig, de Creatieve Co��peratie en Stadkamer Zwolle. Samen bieden we een uniek aanbod op het gebied van 3D printen. Je kunt bij ons terecht voor printopdrachten, werkplaatsuren, productpresentatie en leuke workshops. Wij hebben 3D-printers, 3D-scanners en '3D Printer Pennen' aanwezig op locatie.��Graag leren wij je alles hierover!",
     "marker-size":"medium",
     "marker-color":"#f86767",
     "marker-symbol":"rocket",
@@ -1099,7 +1116,7 @@ var geojson = [{
     "adres":"Esdoornstraat 3, 8021 WB Zwolle"
   },
     "geometry":{
-      "coordinates":[6.093355499999999, 52.5206904],
+      "coordinates":[6.0936381, 52.520636],
       "type":"Point"
     }
 },
@@ -1116,7 +1133,245 @@ var geojson = [{
     "adres":"Esdoornstraat 3, 8021 WB Zwolle"
   },
     "geometry":{
-      "coordinates":[6.093355499999999, 52.5206904],
+      "coordinates":[6.0936381, 52.520636],
+      "type":"Point"
+    }
+},
+{
+  "type":"Feature",
+  "properties":{
+    "id":"marker-ijo1qpiw0",
+    "title":"Speellab door Kleinkunstig & Grote Broer",
+    "description":"Tijdens het Speellab maken kinderen kennis met verschillende 3D print technieken. Ze leren objecten te ontwerpen, produceren en toe te passen. Speellab slaat een brug tussen kunst en techniek.",
+    "marker-size":"medium",
+    "marker-color":"#69d2f7",
+    "marker-symbol":"hairdresser",
+    "website":"http://www.speellab.nl",
+    "adres":"Esdoornstraat 3, 8021 WB Zwolle"
+  },
+    "geometry":{
+      "coordinates":[6.0936381, 52.520636],
+      "type":"Point"
+    }
+},
+{
+  "type":"Feature",
+  "properties":{
+    "id":"marker-ijo1qpiw0",
+    "title":"Techniekbieb",
+    "description":"Techniekbieb biedt een uitleen van materialen en creatieve workshops op gebied van techniek en technologie. Kinderen kunnen tools van nu ontdekken, maar ook werken met gereedschappen die zich al lang bewezen hebben. Bouw en programmeer je eigen robot of maak je eigen wearable.",
+    "marker-size":"medium",
+    "marker-color":"#f86767",
+    "marker-symbol":"rocket",
+    "website":"http://techniekbieb.nl",
+    "adres":"Nachtegaallaan 48, 5691 VC Son"
+  },
+    "geometry":{
+      "coordinates":[5.4982044, 51.5158158],
+      "type":"Point"
+    }
+},
+{
+  "type":"Feature",
+  "properties":{
+    "id":"marker-ijo1qpiw0",
+    "title":"Hogeschool De Kempel",
+    "description":"Hogeschool De Kempel organiseert in samenwerking met het Teclab in Eindhoven een maak-tweedaagse voor leerkrachten basisonderwijs. Tijdens deze twee dagen worden de leerkrachten ondergedompeld in het maak-onderwijs en gaan ze daadwerkelijk zelf aan de slag met ontwerpend leren.",
+    "marker-size":"medium",
+    "marker-color":"#7dffb8",
+    "marker-symbol":"school",
+    "website":"http://www.kempel.nl/Paginas/home.aspx",
+    "adres":"Deurneseweg 11, 5709AH, Helmond"
+  },
+    "geometry":{
+      "coordinates":[5.7097789, 51.4708657],
+      "type":"Point"
+    }
+},
+{
+  "type":"Feature",
+  "properties":{
+    "id":"marker-ijo1qpiw0",
+    "title":"SALTO school De Driesprong",
+    "description":"In voorjaar 2016 opent De Driesprong haar Techniek & ICT Hub. Binnen deze Hub zullen lessen gegeven worden op het gebied van robotica, programmeren, green screen, stop motion, 3D printen, etc.",
+    "marker-size":"medium",
+    "marker-color":"#7dffb8",
+    "marker-symbol":"school",
+    "website":"http://www.bs-dedriesprong.nl/nl/home",
+    "adres":"Tafelbergplein 8, 5642 Eindhoven"
+  },
+    "geometry":{
+      "coordinates":[5.509759, 51.4412343],
+      "type":"Point"
+    }
+},
+{
+  "type":"Feature",
+  "properties":{
+    "id":"marker-ijo1qpiw0",
+    "title":"TETEM kunstruimte",
+    "description":null,
+    "marker-size":"medium",
+    "marker-color":"#69d2f7",
+    "marker-symbol":"hairdresser",
+    "website":"http://www.tetem.nl",
+    "adres":"Stroinksbleekweg 16, 7523 ZL Enschede"
+  },
+    "geometry":{
+      "coordinates":[6.8948912, 52.2339214],
+      "type":"Point"
+    }
+},
+{
+  "type":"Feature",
+  "properties":{
+    "id":"marker-ijo1qpiw0",
+    "title":"Laurens Korste",
+    "description":"Met eenvoudige middelen leuke dingen maken en achteraf ontdekken dat je veel geleerd hebt! Knippend, timmerend en programmerend bewegende (en sprekende) interactieve objecten maken! Workshops en leerlijn Scratch, Crumble controller, Picaxe, Arduino. Scholen / BSO / feestjes",
+    "marker-size":"medium",
+    "marker-color":"#69d2f7",
+    "marker-symbol":"hairdresser",
+    "website":"http://www.boktorrobotica.nl",
+    "adres":"Alinghoek 13B, 9533 PD Drouwen"
+  },
+    "geometry":{
+      "coordinates":[6.794701, 52.95563569999999],
+      "type":"Point"
+    }
+},
+{
+  "type":"Feature",
+  "properties":{
+    "id":"marker-ijo1qpiw0",
+    "title":"Maker Academy",
+    "description":"Maker Academy maakt 3D educatie mogelijk voor docenten en hun school, waarbij onderzoekende en ontwerpende vaardigheden worden versterkt. Leerlingen ontwikkelen de vaardigheden en het denkproces van 3D bestand tot 3D geprint object. ",
+    "marker-size":"medium",
+    "marker-color":"#69d2f7",
+    "marker-symbol":"hairdresser",
+    "website":"http://www.makeracademy.nl",
+    "adres":"Kloosterweg 1, 6412 CN Heerlen"
+  },
+    "geometry":{
+      "coordinates":[5.9726271, 50.8920508],
+      "type":"Point"
+    }
+},
+{
+  "type":"Feature",
+  "properties":{
+    "id":"marker-ijo1qpiw0",
+    "title":"Maker Festival Twente en Play & Learn dagen",
+    "description":"Het Maker Festival Twente is een festival over het nut en plezier van zelf dingen bedenken en maken. Tijdens de Play & Learn dagen maken leerlingen kennis met techniek, innovatie en het maken d.m.v. diverse workshops, gegeven door bedrijven, techneuten en andere makers.",
+    "marker-size":"medium",
+    "marker-color":"#69d2f7",
+    "marker-symbol":"hairdresser",
+    "website":"http://makerfestivaltwente.nl/nl/",
+    "adres":"Almelo"
+  },
+    "geometry":{
+      "coordinates":[6.668491899999999, 52.3670267],
+      "type":"Point"
+    }
+},
+{
+  "type":"Feature",
+  "properties":{
+    "id":"marker-ijo1qpiw0",
+    "title":"Maker Festival Twente en Play & Learn dagen",
+    "description":"Het Maker Festival Twente is een festival over het nut en plezier van zelf dingen bedenken en maken. Tijdens de Play & Learn dagen maken leerlingen kennis met techniek, innovatie en het maken d.m.v. diverse workshops, gegeven door bedrijven, techneuten en andere makers.",
+    "marker-size":"medium",
+    "marker-color":"#69d2f7",
+    "marker-symbol":"hairdresser",
+    "website":"http://makerfestivaltwente.nl/nl/",
+    "adres":"Hengelo"
+  },
+    "geometry":{
+      "coordinates":[6.7927725, 52.2574121],
+      "type":"Point"
+    }
+},
+{
+  "type":"Feature",
+  "properties":{
+    "id":"marker-ijo1qpiw0",
+    "title":"Maker Festival Twente en Play & Learn dagen",
+    "description":"Het Maker Festival Twente is een festival over het nut en plezier van zelf dingen bedenken en maken. Tijdens de Play & Learn dagen maken leerlingen kennis met techniek, innovatie en het maken d.m.v. diverse workshops, gegeven door bedrijven, techneuten en andere makers.",
+    "marker-size":"medium",
+    "marker-color":"#69d2f7",
+    "marker-symbol":"hairdresser",
+    "website":"http://makerfestivaltwente.nl/nl/",
+    "adres":"Enschede"
+  },
+    "geometry":{
+      "coordinates":[6.8936619, 52.2215372],
+      "type":"Point"
+    }
+},
+{
+  "type":"Feature",
+  "properties":{
+    "id":"marker-ijo1qpiw0",
+    "title":"Stichting Safarana",
+    "description":"Stichting Safarana heeft afgelopen jaren deelgenomen aan Maker Faire's met inventieve DIY projecten. Berto Aussems en Dymph Korse ontwerpen duurzame, kleinschalige en creatieve oplossingen voor alledaagse problemen. Wij publiceren op onze website en o.a. Instructables.",
+    "marker-size":"medium",
+    "marker-color":"#69d2f7",
+    "marker-symbol":"hairdresser",
+    "website":"http://www.safarana.com/Safarana/Home.html",
+    "adres":"Carl Smulderssingel 42, 6217 GD Maastricht"
+  },
+    "geometry":{
+      "coordinates":[5.674852, 50.86235199999999],
+      "type":"Point"
+    }
+},
+{
+  "type":"Feature",
+  "properties":{
+    "id":"marker-ijo1qpiw0",
+    "title":"De Populier",
+    "description":"De leerlingen op de Populier zijn al jaren aan het maken, binnen en buiten het curriculum. De FABklas, de Meesterproef in NLT, maken bij natuurkunde, geschiedenis godsdienst zelfs. Onze eigen Makerspace biedt alle moderne mogelijkheden die er zijn.",
+    "marker-size":"medium",
+    "marker-color":"#7dffb8",
+    "marker-symbol":"school",
+    "website":"http://www.depopulier.nl",
+    "adres":"Populierstraat 109, 2565 MK Den Haag"
+  },
+    "geometry":{
+      "coordinates":[4.2704278, 52.08070960000001],
+      "type":"Point"
+    }
+},
+{
+  "type":"Feature",
+  "properties":{
+    "id":"marker-ijo1qpiw0",
+    "title":"Permanent Future Lab Strijp-S Eindhoven - The world of technology at your fingertips",
+    "description":"Permanent Future Lab (#PFLab) is een openbare voorziening. Werkelijk iedereen ��� jong en oud ��� kan bij ons ��op Strijp-S in Eindhoven kennis maken met nieuwe hoogwaardige technologische ontwikkelingen. Kostenloos. Onze vrijwilligers laten je 'kijken met je handen'.",
+    "marker-size":"medium",
+    "marker-color":"#f86767",
+    "marker-symbol":"rocket",
+    "website":"https://pflab-strijps.org",
+    "adres":"Torenallee 24, 5617 BD Eindhoven"
+  },
+    "geometry":{
+      "coordinates":[5.4577991, 51.4466002],
+      "type":"Point"
+    }
+},
+{
+  "type":"Feature",
+  "properties":{
+    "id":"marker-ijo1qpiw0",
+    "title":"Studio Babel",
+    "description":"Creatief programmeren, design thinking, 3D printen, workshops, Rijksstudio remix, design met kinderen, video & animatie, robots bouwen, MaKey MaKey game hacks, onderzoek & ontwerpen. Leren door te maken.",
+    "marker-size":"medium",
+    "marker-color":"#69d2f7",
+    "marker-symbol":"hairdresser",
+    "website":"http://studiobabel.nl",
+    "adres":"Derde Kostverlorenkade 35, 1054 TS Amsterdam"
+  },
+    "geometry":{
+      "coordinates":[4.8562504, 52.35913979999999],
       "type":"Point"
     }
 }];

@@ -1,7 +1,6 @@
 <?php if(!defined('KIRBY')) exit ?>
-
 title: Agenda
-pages: true
+pages: default
 files: true
 fields:
   heroimage:

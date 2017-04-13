@@ -1,0 +1,63 @@
+Heroimage: 
+
+----
+
+Icon: 
+
+----
+
+Title: 51 scholen weer aan het maken!
+
+----
+
+Videolink: 
+
+----
+
+Subtitle: De bodem van de voucherpot is bereikt
+
+----
+
+Intro: Honderden leraren en leerlingen hebben via het vouchersysteem kennis gemaakt met maakonderwijs. Daarmee is de bodem van de pot bereikt.
+
+----
+
+Text: 
+
+Honderden leraren en leerlingen hebben via het vouchersysteem van het Platform Maker Education kennis gemaakt met maakonderwijs. Via deze website konden scholen voor 500 euro aan maakonderwijs inkopen. Deze vouchers worden in overgrote mate verzilverd door een workshop te volgen bij een FabLab of makerspace in de buurt. 
+
+Het vouchersysteem werd op 11 februari opengesteld en vandaag, 30 maart, hebben 51 scholen gebruik gemaakt van dit unieke aanbod. Daarmee is de bodem van de pot bereikt. Vanuit het ministerie van OCW werd een bedrag van 25.000 euro voor vouchers beschikbaar gesteld.
+
+Scholen uit het hele land, Primair Onderwijs, Voortgezet Onderwijs en MBO, hebben dankbaar van de vouchers gebruik gemaakt en kunnen dit schooljaar een maakactiviteit organiseren. Van Buitenpost tot Amsterdam en van Steenwijk tot Rotterdam. In meer dan de helft van de gevallen betreft het een activiteit voor leerlingen, maar ook lerarenteams gaan met groot enthousiasme onderzoeken welke plek maken weer in hun onderwijs kan krijgen. 
+
+Vaak vinden de evenementen plaats in FabLabs in de buurt waar moderne apparatuur als 3D printers, lasersnijders en elektronica te vinden zijn, maar ook komen de experts naar de scholen toe. In beide gevallen voldoet dat aan de doelstelling van het Platform om het onderwijs en maakexperts met elkaar in contact te laten komen, of om bestaande samenwerkingen te versterken.
+
+Jeroen de Boer, één van de drie kwartiermakers van het Platform en verantwoordelijk voor het vouchersysteem: “Het is een daverend succes waar we hard voor hebben gewerkt en heel trots op zijn! We krijgen nog dagelijks aanvragen binnen die we graag zouden honoreren maar helaas, het geld is op. Het is in ieder geval duidelijk dat er bij scholen behoefte is om met maken aan de slag te gaan en dat zij de weg naar de makers weten te vinden.” 
+
+Op dit moment wordt door de kwartiermakers van het Platform hard gewerkt aan plannen om de voucherpot weer te kunnen vullen voor aankomend schooljaar. Daarmee kan deze unieke samenwerking tussen scholen, makers, FabLabs en makerspaces nog sterker worden. De doelstelling van het Platform om elk kind in Nederland de kans te geven maker te worden komt hiermee steeds dichterbij.
+
+Bekijk de (link: https://makereducation.nl/nieuws/roc-van-amsterdam-project-crossover-experience text: vlog) van het project Crossover Experience van het ROC van Amsterdam. Zeven leerlingen bezochten hiervoor het (link: http://fablab.waag.org/ text: Fablab Amsterdam), middels een voucher van Platform Maker Education.
+
+**statistieken**
+- 51 vouchers, waarvan 49 workshops en 2 presentaties
+- 40% voor leerkrachten en docenten en 60% voor leerlingen
+- Locaties: Nieuwkoop, Rotterdam, Amsterdam, Breda, Groningen, Zoetermeer, Tilburg, Rosmalen, Deventer, Eindhoven, Buitenpost, Middelburg, Ede, Amersfoort, Steenwijk, Utrecht, Den Haag, Leeuwarden
+- 9 van de 12 Provincies: Noord-Holland, Zuid-Holland, Noord-Brabant, Groningen, Overijssel, Friesland, Zeeland, Utrecht, Gelderland,
+- 55% PO, 40% VO, 5% MBO
+- 85% FabLabs/makerspaces, 15% maakexperts
+
+----
+
+Layout: one-col
+
+----
+
+Elementheight: full-height
+
+----
+
+Voucherform: 0
+
+----
+
+Border: 

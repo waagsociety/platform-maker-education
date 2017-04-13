@@ -1,0 +1,64 @@
+Heroimage: 
+
+----
+
+Icon: 
+
+----
+
+Title: Kindcentrum Johan Friso op bezoek bij bibliotheek Steenwijk
+
+----
+
+Videolink: 
+
+----
+
+Subtitle: 
+
+----
+
+Intro: Dinsdag 31 mei 2016 ging Kindcentrum Johan Friso op bezoek bij bibliotheek Steenwijk. Lees hier de blog van de leerlingen.
+
+----
+
+Text: 
+
+Dinsdag 31 mei 2016 ging Kindcentrum Johan Friso op bezoek bij bibliotheek Steenwijk. Lees hier de blog van een van de leerlingen.
+
+Het is vroeg in de ochtend na de pauze.
+We stappen op de fiets naar de bibliotheek
+We gaan naar binnen en we kregen eerst een uitleg over 3D.
+(image: kc-johan-friso1.png class: medium)
+Toen mocht iedereen achter een laptop een eigen sleutelhanger met naam maken.
+(image: kc-johan-friso2.png class: medium)
+Maar er was een error waardoor het niet lukte.
+Toen gingen we geen sleutelhanger met naam maken maar een robotsleutelhanger.
+Bij de robotsleutelhanger kon je de armen en de benen bewegen hierdoor kreeg je hele grappige robotsleutelhangers.
+ (image: kc-johan-friso3.png class: medium)
+De eerste robot was van Pelle.
+De 3D printer printte de robot met hele kleine laagjes.
+Je moest eerst lijm op de bouwplaat doen en de bouwplaat moest waterpas zijn.
+De tijd was op alleen die van Pelle was klaar.
+De rest kreeg hem later.
+(image: kc-johan-friso4.png class: medium)
+Het was een leuke en leerzame ochtend.
+Silvan, Pelle, Ilse, Stefan, Revi, Tieme, Kjeld, Fay, Tara en Jorn
+Kindcentrum Johan Friso
+Steenwijk
+
+----
+
+Layout: one-col
+
+----
+
+Elementheight: full-height
+
+----
+
+Voucherform: 0
+
+----
+
+Border: 

@@ -1,0 +1,58 @@
+Heroimage: 
+
+----
+
+Icon: 
+
+----
+
+Title: 21 augustus 2016 Rotterdamse MakersOlympiade
+
+----
+
+Videolink: 
+
+----
+
+Subtitle: 
+
+----
+
+Intro: Kinderen bouwen een robot, voertuig of ander object dat kan gaan strijden op een aantal uitgezette challenges in en om Het Nieuwe Instituut.
+
+----
+
+Text: 
+
+Wie ontwikkelt er een robot die alles kan? Wie legt het snelst het afwisselende parcours af of maakt de meest creatieve objecten en karakters? Kinderen bouwen tijdens het evenement een eigen robot, voertuig of ander object dat de Olympische strijd aan kan gaan op een aantal uitgezette challenges in en om Het Nieuwe Instituut.
+
+Tijdens het evenement maken de kinderen gebruik van de inhoud van een toolbox die door Het Nieuwe Instituut wordt ontwikkeld. Ze maken kennis met nieuwe technieken en materialen. Door het verzinnen van creatieve oplossingen wordt een simpel idee uitgewerkt tot een werkend prototype.
+
+Kinderen vanaf 8 jaar kunnen meebouwen aan een object of karakter tijdens de Rotterdamse MakersOlympiade. Voor volwassenen is er een speciaal programma met inspirerende lezingen van een bekende maker en een ontwerper.
+
+Voorafgaand aan het evenement zijn er op zondag 7 en zaterdag 13 augustus workshops waarin er alvast geoefend kan worden met verschillende technieken. Aan de activiteiten kan ook afzonderlijk deelgenomen worden. Aanmelden via de website is gewenst.
+
+<http://educatie.hetnieuweinstituut.nl></http:>
+
+Tijd: 14.00-17.00 uur
+
+Adres:
+Het Nieuwe Instituut
+Museumpark 25
+3015 CB Rotterdam
+
+----
+
+Layout: one-col
+
+----
+
+Elementheight: full-height
+
+----
+
+Voucherform: 0
+
+----
+
+Border: borderTop

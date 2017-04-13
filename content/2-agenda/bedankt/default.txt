@@ -6,7 +6,7 @@ Icon:
 
 ----
 
-Title: bedankt
+Title: Bedankt
 
 ----
 
@@ -14,15 +14,15 @@ Videolink:
 
 ----
 
-Subtitle: bedankt
+Subtitle: Bedankt
 
 ----
 
-Intro: bedankt
+Intro: Bedankt
 
 ----
 
-Text: bedankt
+Text: Bedankt voor het aanmelden van jouw Maker Education event. Wij voegen jouw event zo snel mogelijk toe aan de agenda.
 
 ----
 

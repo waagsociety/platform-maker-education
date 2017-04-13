@@ -1,0 +1,49 @@
+Heroimage: 
+
+----
+
+Icon: 
+
+----
+
+Title: ROC van Amsterdam Project Crossover Experience
+
+----
+
+Videolink: https://vimeo.com/159795206
+
+----
+
+Subtitle: Aan de slag in FabLab Amsterdam
+
+----
+
+Intro: Studenten van het ROC van Amsterdam gingen samen met ontwerpster Aniela Hoitink en Judith Hoekstra aan de slag in FabLab Amsterdam.
+
+----
+
+Text: 
+
+Zeven studenten uit drie verschillende mbo-opleidingen van het (link: http://www.rocva.nl/pages/index.html text: ROC van Amsterdam) hebben in project Crossover Experience naast hun opleiding samengewerkt onder begeleiding van ontwerpster Aniela Hoitink en Judith Hoekstra. De studenten bezochten hiervoor het (link: http://fablab.waag.org text: Fablab Amsterdam), middels een voucher van het Platform Maker Education.
+
+Twee prototypes zijn het resultaat geworden rondom het thema 'veiligheid': een wetsuit en een werkoverall. In hun prototypes komen technieken als slimme inkten, draagbare solar panels en kunstzinnigheid op creatieve wijze samen, en deze waren te bewonderen tijdens TEday en Skills Heroes.
+
+(link: https://vimeo.com/159795206 text: Bekijk de vlog van dit project).
+Video ter beschikking gesteld door ROC van Amsterdam. 
+(image: img_3506.jpg class: medium)
+
+----
+
+Layout: one-col
+
+----
+
+Elementheight: full-height
+
+----
+
+Voucherform: 0
+
+----
+
+Border: 

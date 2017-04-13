@@ -1,0 +1,58 @@
+Heroimage: 
+
+----
+
+Icon: 
+
+----
+
+Title: 7 april 3D Printen Introductie
+
+----
+
+Videolink: 
+
+----
+
+Subtitle: 
+
+----
+
+Intro: Tijdens de Introductie 3D Printen krijg je inzicht in het proces vanaf het 3D ontwerpen tot en met het bedienen van de 3D printer.
+
+----
+
+Text: 
+
+Tijdens de Introductie 3D Printen krijg je inzicht in het proces vanaf het 3D ontwerpen tot en met het bedienen van de 3D printer.
+
+- Je leert zelf printen met een Ultimaker 3D Printer.
+- Je ontdekt waar je al bestaande 3D ontwerpen kunt vinden.
+- Je leert 3D tekenen in het programma 123D Design. Hierin kun je ook al bestaande ontwerpen aanpassen.
+
+Ook als je nog nooit een 3D tekening op een computer gemaakt hebt, kun je leren 3D ontwerpen en 3D printen.
+
+Kleine groep van 7 cursisten; iedere cursist heeft een 3D printer tot zijn beschikking.
+
+De eerst volgende cursus is donderdagavond 7 april van 19.00-21.30 uur. Meer cursusdata staan op de website.
+
+Meer informatie over deze cursus bij ZB45 Makerspace en het aanmeldformulier vind je op de website (link: https://www.zb45.nl/introductie3Dprint text: www.zb45.nl/introductie3Dprint)
+
+Email: make@zb45.nl
+Adres: Zeeburgerpad 45, Amsterdam
+
+----
+
+Layout: one-col
+
+----
+
+Elementheight: full-height
+
+----
+
+Voucherform: 0
+
+----
+
+Border: 

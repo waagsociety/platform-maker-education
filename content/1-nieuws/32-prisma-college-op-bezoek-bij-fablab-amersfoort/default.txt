@@ -1,0 +1,46 @@
+Heroimage: 
+
+----
+
+Icon: 
+
+----
+
+Title: Prisma College op bezoek bij Fablab Amersfoort
+
+----
+
+Videolink: 
+
+----
+
+Subtitle: 
+
+----
+
+Intro: De techniek klas van het Prisma College bekeek allerlei vormen van techniek in het Fablab Amersfoort. Lees hun ervaringen in deze blog.
+
+----
+
+Text: 
+
+Met de techniek klas van het Prisma College bekijken wij allerlei vormen van techniek. We waren dan ook erg blij met de uitnodiging om in het Fablab te komen kijken naar wat er allemaal mogelijk is. Lasser uitsnijden, textiel bedrukken, 3D printen, in dat laatste waren wij ook erg in geïnteresseerd. 
+
+Na een uitgebreide uitleg hoe de 3D printer werkt zijn we aan de gang gegaan met onze eigen ontwerpen. Dat was niet heel gemakkelijk want als je de onderdelen in het ontwerp programma niet precies aan elkaar tekende, dan print hij het als twee losse onderdelen. Na goed te hebben nagedacht en getekend hadden alle leerlingen, of een sleutelhanger met hun eigen naam, of een animatie uit een tekenfilm kunnen printen.
+Super leuk om de leerlingen zo creatief bezig te zien.
+
+----
+
+Layout: one-col
+
+----
+
+Elementheight: full-height
+
+----
+
+Voucherform: 0
+
+----
+
+Border: 

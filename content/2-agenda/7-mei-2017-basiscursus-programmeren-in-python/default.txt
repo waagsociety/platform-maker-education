@@ -1,0 +1,58 @@
+Heroimage: 
+
+----
+
+Icon: 
+
+----
+
+Title: 4 mei 2017 Basiscursus programmeren in Python
+
+----
+
+Videolink: 
+
+----
+
+Subtitle: 
+
+----
+
+Intro: Tijdens de Basiscursus Programmeren in Python  leer je onder andere de structuur van een programma en het schrijven van je eigen code.
+
+----
+
+Text: 
+
+Programmeren is leuk, een creatieve bezigheid en soms ook gewoon praktisch. In deze workshop serie leer je de basis van programmeren in de taal Python.
+
+Op steeds meer scholen wordt Python gebruikt in de Informatica- en Technieklessen. Een Pythonscript kan bijvoorbeeld gebruikt worden om data te lezen en te ordenen, om berekeningen te maken of om bijvoorbeeld een robotje aan te sturen.
+
+In deze cursus van 5 lessen leer je als docent onder andere wat de structuur van een programma is, hoe je bestanden kan lezen en schrijven en hoe je eigen code of code van anderen kan hergebruiken.
+
+Uitleg wordt afgewisseld met praktische programmeer oefeningen. Na vijf weken ben je in staat om kleine applicaties te schrijven.
+
+Start: donderdag 4 mei
+Data cursus: donderdag 4 mei, 11 mei, 18 mei, 1 juni en 8 juni
+
+De cursus die start op donderdag 4 mei is alleen voor vrouwen.
+
+Wil je met een aantal docenten samen op cursus, neem dan contact met op met ZB45 Makerspace om een afspraak te maken: (email: make@zb45.nl text: make@zb45.nl)
+
+Meer informatie over deze cursus en het aanmeldformulier vind je op de website (link: zb45.nl/python text: zb45.nl/python)
+
+----
+
+Layout: one-col
+
+----
+
+Elementheight: full-height
+
+----
+
+Voucherform: 0
+
+----
+
+Border: 

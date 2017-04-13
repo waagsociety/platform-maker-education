@@ -1,0 +1,50 @@
+Heroimage: 03-nw-700x508.jpg
+
+----
+
+Icon: 03-nw-700x508.jpg
+
+----
+
+Title: Hoe maken we van kinderen makers?
+
+----
+
+Videolink: 
+
+----
+
+Subtitle: 
+
+----
+
+Intro: Beeldblog van Astrid Poot: bedenker van Klooikoffers, hoofd jeugd/familie projecten en creative director bij Fonk.
+
+----
+
+Text: 
+
+Beeldblog van Astrid Poot: bedenker van Plooikoffers, hoofd jeugd/familie projecten en creative director bij Fonk, blogger, spreker, maker maar vooral eeuwig lerend :)
+
+(image: 01-700x473.jpg class: medium)
+(image: 02-700x426.jpg class: medium)
+(image: 03-nw-700x508.jpg class: medium)
+(image: 04-700x283.jpg class: medium)
+(image: 05-700x442.jpg class: medium)
+(image: 06-700x543.jpg class: medium)
+
+----
+
+Layout: one-col
+
+----
+
+Elementheight: full-height
+
+----
+
+Voucherform: 0
+
+----
+
+Border: 

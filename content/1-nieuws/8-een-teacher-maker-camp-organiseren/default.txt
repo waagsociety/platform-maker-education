@@ -1,0 +1,57 @@
+Heroimage: 
+
+----
+
+Icon: 
+
+----
+
+Title: Een Teacher Maker Camp organiseren?
+
+----
+
+Videolink: 
+
+----
+
+Subtitle: 10 recepten om het zelf te gaan doen!
+
+----
+
+Intro: 10 recepten om het zelf te gaan doen! Afgelopen jaar organiseerde Waag Society voor het eerst twee Teacher Maker Camps.
+
+----
+
+Text: 
+
+(link: https://www.waag.org/nl/project/teacher-maker-camp text: Teacher Maker Camp) is een vierdaagse snelkookpan voor de professionalisering van leraren in maker education. Tijdens deze vier dagen introduceren we hen in de wereld van maakonderwijs en helpen ze hun 21ste eeuw vaardigheden te ontwikkelen. Ongeacht hun achtergrond of opleidingsniveau (of ze nu ervaren of onervaren zijn), wat deze leraren gemeen hebben is dat ze open staan om het avontuur met ons aan te gaan, zin hebben om te leren en een verandering (klein of groot) in hun onderwijspraktijk willen aanbrengen.
+ 
+Zij maken gebruik van rest- en ambachtelijke materialen, 3D-printers, digitale fabricage, elektronica en programmeer tools uit ons FabLab om hun ideeën tot leven te brengen en om hun de uitvinder in zichzelf opnieuw te ontdekken. Maar, bovenal, ervaren ze hoe het is om uit hun comfort zone te stappen; om te experimenteren en dingen te doen die ze nooit eerder hebben gedaan en weer even leerling te worden. Terug op school, kunnen ze de maker mindset met hun leerlingen delen en hen in staat stellen om te leren door te doen.
+ 
+De beste recepten en geheime ingrediënten van het Teacher Maker Camp hebben we verzameld en beschreven in een publicatie, het Teacher Maker Camp kookboek. Deze is nu beschikbaar en (link: http://issuu.com/waag/docs/teacher-maker-camp-cookbook-waag-so text: hier) te downloaden.
+ 
+Met het schrijven en verspreiden van dit kookboek, willen we onze kennis over en ervaring met de organisatie en begeleiding van een Teacher Maker Camp overdragen. Wij streven ernaar om andere FabLabs, makerspaces, maker education experts en pionier scholen te inspireren op hun beurt hun liefde voor maker education te verspreiden door de ontwikkeling van hun eigen, lokale Teacher Maker Camp.
+
+We hopen dat het lezen van dit kookboek de eetlust prikkelt en je de ingrediënten geeft om zelf aan de slag te gaan. Met het ultieme doel in het achterhoofd: iedere leraar en ieder kind de kans geven om weer uitvinder te worden.
+
+Wij nodigen je uit om je ideeën en ervaringen te delen via #teachermakercamp en om benaderen op het moment dat je hulp nodig hebt. En, omdat we in het maken de wereld ontmoeten, wensen we je Happy Making!
+
+En (link: http://waag.org/sites/waag/files/public/media/publicaties/teacher-maker-camp-cookbook-.pdf  text: hier) vind je de link naar de publicatie online.
+
+Geschreven door Karien Vermeulen, Waag Society.
+
+----
+
+Layout: one-col
+
+----
+
+Elementheight: full-height
+
+----
+
+Voucherform: 0
+
+----
+
+Border: 

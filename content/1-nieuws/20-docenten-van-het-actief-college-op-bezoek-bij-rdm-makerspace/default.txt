@@ -1,0 +1,61 @@
+Heroimage: 
+
+----
+
+Icon: 
+
+----
+
+Title: Docenten van het Actief College op bezoek bij RDM Makerspace
+
+----
+
+Videolink: 
+
+----
+
+Subtitle: 
+
+----
+
+Intro: Op 17 mei 2016 ging een groep docenten van het Actief College op bezoek bij RDM Makerspace. Lees hun ervaringen in deze blog.
+
+----
+
+Text: 
+
+Op 17 mei 2016 ging een groep docenten van het Actief College op bezoek bij RDM Makerspace. Lees hun ervaringen in deze blog:
+
+Dinsdagmiddag 17 mei 2016, na de wekelijkse leerlingbespreking, is een groep docenten van het Actief College in Oud-Beijerland vertrokken richting een heel interessante plek in Rotterdam, namelijk RDM Makerspace op Heijplaat. Ze hebben daar samen met een drie docenten van het Hoeksch Lyceum -tevens gevestigd in Oud-Beijerland - een workshop Maakonderwijs/3D-printen gevolgd.
+
+(image: img_1980_b.jpg class:medium)
+
+RDM Makerspace is gevestigd in een van de loodsen, waar vroeger door de Rotterdamse Droogdok Maatschappij o.a. enorme schepen werden gebouwd. Daar werd toen gebruik gemaakt van de nieuwste technieken. Ooit was de SS Rotterdam, het schip dat daar gemaakt is, het neusje van de zalm. Nu wordt in de maakplaats in het Innovation Dock weer gebruik gemaakt van de nieuwste technieken. De gebruikers van de maakplaats hebben de beschikking over bijvoorbeeld 3D-printers, lasersnijders en digitaal aangestuurde 3D-freesapparatuur.
+
+(image: img_1985_b.jpg class:medium)
+
+De docenten werden welkom geheten door Eva van der Velde (RDM Makerspace) en Marco van Noord (HRO en Stadslab) met een kopje koffie/thee en een koekje erbij. Nadat er iets over de geschiedenis en de huidige functie van de loods werd verteld, werd er een introductie in maakonderwijs gegeven. Marco vertelde over zijn eigen onderwijservaring en legde uit wat de meerwaarde van leren door maken kan zijn voor onderwijs op het VO. Eva heeft aansluitend het principe van ‘rapid prototyping’ uiteengezet. 
+
+(image: img_1988_b.jpg class:medium)
+
+Vervolgens werd de ‘maakopdracht’ uitgelegd. Deze was een ‘ding voor de toekomst’ ontwerpen. Er werd in groepen nagedacht over hoe de wereld er over 30 jaar uit zal zien en tegen welke problemen de mensheid dan aanloopt. De volgende stap was het uitkiezen van een probleem om oplossingen voor te bedenken. Nadat de groepen elkaar hadden bijgepraat over hun keuze gingen de groepen aan de slag met het uitwerken van de beste oplossing. De ene groep gebruikte de 3D-printer en andere de lasersnijder. Tussendoor werd de aan het begin van de workshop bestelde maaltijd bezorgd en genuttigd. Na een paar uur werden de prototypes en de oplossingen aan elkaar gepresenteerd.
+
+Het was een gezellige en leerzame workshop!
+
+(image: img_1992_b.jpg class:medium)
+
+----
+
+Layout: one-col
+
+----
+
+Elementheight: full-height
+
+----
+
+Voucherform: 0
+
+----
+
+Border: 
