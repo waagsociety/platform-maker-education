@@ -2,6 +2,7 @@ node_modules
 bower_components
 assets/fonts
 site/config
+site/accounts
 *.sublime-project
 *.sublime-workspace
 
