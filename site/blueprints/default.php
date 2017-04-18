@@ -53,6 +53,12 @@ fields:
       full-height: Full height
       half-height: Half height
 
+  maakweekstamp:
+    label: Show the Maakweek stamp on the agenda item
+    type: checkbox
+    text: Show Maakweek stamp 
+
+
   voucherform:
     label: Show the voucher form on the page
     type: checkbox
