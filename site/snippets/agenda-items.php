@@ -1,6 +1,6 @@
 <?php
 
-$items = $pages->find('agenda')->children()->visible()->flip()->paginate(20);
+$items = $pages->find('agenda')->children()->visible()->paginate(20);
 
 ?>
 
