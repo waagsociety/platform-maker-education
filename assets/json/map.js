@@ -96,7 +96,7 @@ var geojson = [{
     "adres":"Ruitenberglaan 26, 6926 CC Arnhem"
   },
     "geometry":{
-      "coordinates":[5.9523475, 51.9870474],
+      "coordinates":[5.951162, 51.9872579],
       "type":"Point"
     }
 },
@@ -181,7 +181,7 @@ var geojson = [{
     "adres":"Noordzeestraat 3d, 7411 MA Deventer"
   },
     "geometry":{
-      "coordinates":[6.1691289, 52.2468429],
+      "coordinates":[6.169104, 52.24683570000001],
       "type":"Point"
     }
 },
@@ -249,7 +249,7 @@ var geojson = [{
     "adres":"Klokgebouw 151/145, Strijp-S, 5617 AB Eindhoven"
   },
     "geometry":{
-      "coordinates":[5.4581289, 51.449094],
+      "coordinates":[5.458095500000001, 51.4491204],
       "type":"Point"
     }
 },
@@ -317,7 +317,7 @@ var geojson = [{
     "adres":"Stroinksbleekweg 2, 7523 ZL Enschede"
   },
     "geometry":{
-      "coordinates":[6.8942416, 52.2318486],
+      "coordinates":[6.8942405, 52.2318452],
       "type":"Point"
     }
 },
@@ -351,7 +351,7 @@ var geojson = [{
     "adres":"Stroinksbleekweg 4a, 7523 ZL Enschede\n"
   },
     "geometry":{
-      "coordinates":[6.8942416, 52.2318486],
+      "coordinates":[6.8942405, 52.2318452],
       "type":"Point"
     }
 },
@@ -385,7 +385,7 @@ var geojson = [{
     "adres":"Achterweg 1, 9725 BM Groningen"
   },
     "geometry":{
-      "coordinates":[6.567031099999999, 53.2096228],
+      "coordinates":[6.567509800000001, 53.2099257],
       "type":"Point"
     }
 },
@@ -402,7 +402,7 @@ var geojson = [{
     "adres":"Zuiderkruisweg 4, 8903 JM Leeuwarden"
   },
     "geometry":{
-      "coordinates":[5.8453586, 53.1934829],
+      "coordinates":[5.8453586, 53.1934828],
       "type":"Point"
     }
 },
@@ -555,7 +555,7 @@ var geojson = [{
     "adres":"Almijstraat 10, 5061 PA Oisterwijk"
   },
     "geometry":{
-      "coordinates":[5.1891365, 51.5811809],
+      "coordinates":[5.1890483, 51.58116030000001],
       "type":"Point"
     }
 },
@@ -589,7 +589,7 @@ var geojson = [{
     "adres":"Wijnhaven 101, 3011 WN Rotterdam, lokaal WN.0.0023."
   },
     "geometry":{
-      "coordinates":[4.4847239, 51.9173163],
+      "coordinates":[4.484738999999999, 51.917083],
       "type":"Point"
     }
 },
@@ -878,7 +878,7 @@ var geojson = [{
     "adres":"Haparandaweg 67-B5, 1013 BD Amsterdam"
   },
     "geometry":{
-      "coordinates":[4.8764915, 52.3945997],
+      "coordinates":[4.8771808, 52.3951882],
       "type":"Point"
     }
 },
@@ -989,7 +989,7 @@ var geojson = [{
   "properties":{
     "id":"marker-ijo1qpiw0",
     "title":"Suguclub",
-    "description":"SuGu EDU ontwikkelt educatieve programmas rondom de derde industriele revolutie. De derde industriele revolutie heeft specifieke, vernieuwende kenmerken, waaronder gerichtheid op een circulaire, digitale en biologische economie. In deze nieuwe werkelijkheid worden het kunnen programmeren van een robot en het kunnen printen van een reserveonderdeel steeds belangrijkere vaardigheden. SuGU EDU levert een gedifferentieerd aanbod door lesmodules en workshops te ontwikkelen voor verschillende doelgroepen en opleidingen: van basisonderwijs, middelbaar (beroeps-)onderwijs, hoger onderwijs tot bedrijfstrainingen.",
+    "description":"SuGu EDU ontwikkelt educatieve programmas rondom de derde industrieele revolutie. De derde industrieele revolutie heeft specifieke, vernieuwende kenmerken, waaronder gerichtheid op een circulaire, digitale en biologische economie. In deze nieuwe werkelijkheid worden het kunnen programmeren van een robot en het kunnen printen van een reserveonderdeel steeds belangrijkere vaardigheden. SuGU EDU levert een gedifferentieerd aanbod door lesmodules en workshops te ontwikkelen voor verschillende doelgroepen en opleidingen: van basisonderwijs, middelbaar (beroeps-)onderwijs, hoger onderwijs tot bedrijfstrainingen.",
     "marker-size":"medium",
     "marker-color":"#f86767",
     "marker-symbol":"rocket",
@@ -1006,7 +1006,7 @@ var geojson = [{
   "properties":{
     "id":"marker-ijo1qpiw0",
     "title":"Bibliotheek Hoogezand",
-    "description":"Het eLAB is een plek in de bibliotheek waar mediawijsheid, leesbevordering en 21st Century Skills samenkomen. Naast de fysieke plek in de Bibliotheek gaan we een doorgaande leerlijn ontwikkelen voor de basisscholen waar het maken en programmeren centraal staan. ��Met het eLAB kunnen we kinderen een betekenisvolle en contextrijke omgeving aanbieden zowel in de Bibliotheek als op school.",
+    "description":"Het eLAB is een plek in de bibliotheek waar mediawijsheid, leesbevordering en 21st Century Skills samenkomen. Naast de fysieke plek in de Bibliotheek gaan we een doorgaande leerlijn ontwikkelen voor de basisscholen waar het maken en programmeren centraal staan. Met het eLAB kunnen we kinderen een betekenisvolle en contextrijke omgeving aanbieden zowel in de Bibliotheek als op school.",
     "marker-size":"medium",
     "marker-color":"#f86767",
     "marker-symbol":"rocket",
@@ -1074,7 +1074,7 @@ var geojson = [{
   "properties":{
     "id":"marker-ijo1qpiw0",
     "title":"WALHALLAb de Kruittoren",
-    "description":"WALHALLAb de Kruittoren in Zutphen, is een supercoole Makerspace! In de 700 jaar oude Kruittoren en de 1400m2 grote MaakPlaats, ontwikkel jij jouw talent voor design, kunst, techniek, innovatie en architectuur. Alle leeftijden, alle achtergronden. Veel leerlingen van WALHALLAb zijn bekend geworden door hun succesvolle projecten en bijzondere opdrachtgevers. Hoewel WALHALLAb de Kruittoren g����n school is, werkt ze wel nauw samen met scholen, ROC's en Academies. Ook leer je bij ons ondernemend worden. Jaarlijks doen ruim 2000 scholieren mee aan onze buitenschoolse en gave projecten. Zien we jou straks ����k in Zutphen?! Bel voor directe info: 06-13964067",
+    "description":"WALHALLAb de Kruittoren in Zutphen, is een supercoole Makerspace! In de 700 jaar oude Kruittoren en de 1400m2 grote MaakPlaats, ontwikkel jij jouw talent voor design, kunst, techniek, innovatie en architectuur. Alle leeftijden, alle achtergronden. Veel leerlingen van WALHALLAb zijn bekend geworden door hun succesvolle projecten en bijzondere opdrachtgevers. Hoewel WALHALLAb de Kruittoren geen school is, werkt ze wel nauw samen met scholen, ROC's en Academies. Ook leer je bij ons ondernemend worden. Jaarlijks doen ruim 2000 scholieren mee aan onze buitenschoolse en gave projecten. Zien we jou straks ook in Zutphen?! Bel voor directe info: 06-13964067",
     "marker-size":"medium",
     "marker-color":"#f86767",
     "marker-symbol":"rocket",
@@ -1108,7 +1108,7 @@ var geojson = [{
   "properties":{
     "id":"marker-ijo1qpiw0",
     "title":"ZwolleLab",
-    "description":"Of je nu beginner bent of al gevorderd, als particulier aan de slag wilt of misschien vanuit een bedrijf of school; je kunt bij ons terecht! ZwolleLab is een samenwerking tussen Kleinkunstig, de Creatieve Co��peratie en Stadkamer Zwolle. Samen bieden we een uniek aanbod op het gebied van 3D printen. Je kunt bij ons terecht voor printopdrachten, werkplaatsuren, productpresentatie en leuke workshops. Wij hebben 3D-printers, 3D-scanners en '3D Printer Pennen' aanwezig op locatie.��Graag leren wij je alles hierover!",
+    "description":"Of je nu beginner bent of al gevorderd, als particulier aan de slag wilt of misschien vanuit een bedrijf of school; je kunt bij ons terecht! ZwolleLab is een samenwerking tussen Kleinkunstig, de Creatieve Cooperatie en Stadkamer Zwolle. Samen bieden we een uniek aanbod op het gebied van 3D printen. Je kunt bij ons terecht voor printopdrachten, werkplaatsuren, productpresentatie en leuke workshops. Wij hebben 3D-printers, 3D-scanners en '3D Printer Pennen' aanwezig op locatie.Graag leren wij je alles hierover!",
     "marker-size":"medium",
     "marker-color":"#f86767",
     "marker-symbol":"rocket",
@@ -1218,7 +1218,7 @@ var geojson = [{
     "adres":"Stroinksbleekweg 16, 7523 ZL Enschede"
   },
     "geometry":{
-      "coordinates":[6.8948912, 52.2339214],
+      "coordinates":[6.8948825, 52.23389599999999],
       "type":"Point"
     }
 },
@@ -1252,7 +1252,7 @@ var geojson = [{
     "adres":"Kloosterweg 1, 6412 CN Heerlen"
   },
     "geometry":{
-      "coordinates":[5.9726271, 50.8920508],
+      "coordinates":[5.9709059, 50.8925286],
       "type":"Point"
     }
 },
@@ -1346,7 +1346,7 @@ var geojson = [{
   "properties":{
     "id":"marker-ijo1qpiw0",
     "title":"Permanent Future Lab Strijp-S Eindhoven - The world of technology at your fingertips",
-    "description":"Permanent Future Lab (#PFLab) is een openbare voorziening. Werkelijk iedereen ��� jong en oud ��� kan bij ons ��op Strijp-S in Eindhoven kennis maken met nieuwe hoogwaardige technologische ontwikkelingen. Kostenloos. Onze vrijwilligers laten je 'kijken met je handen'.",
+    "description":"Permanent Future Lab (#PFLab) is een openbare voorziening. Werkelijk iedereen jong en oud kan bij ons op Strijp-S in Eindhoven kennis maken met nieuwe hoogwaardige technologische ontwikkelingen. Kostenloos. Onze vrijwilligers laten je 'kijken met je handen'.",
     "marker-size":"medium",
     "marker-color":"#f86767",
     "marker-symbol":"rocket",
@@ -1354,7 +1354,7 @@ var geojson = [{
     "adres":"Torenallee 24, 5617 BD Eindhoven"
   },
     "geometry":{
-      "coordinates":[5.4577991, 51.4466002],
+      "coordinates":[5.458580599999999, 51.4465156],
       "type":"Point"
     }
 },
@@ -1371,7 +1371,93 @@ var geojson = [{
     "adres":"Derde Kostverlorenkade 35, 1054 TS Amsterdam"
   },
     "geometry":{
-      "coordinates":[4.8562504, 52.35913979999999],
+      "coordinates":[4.8557795, 52.35855309999999],
       "type":"Point"
     }
-}];
+},
+{
+  "type":"Feature",
+  "properties":{
+    "id":"marker-ijo1qpiw0",
+    "title":"Demian Geerlings",
+    "description":"workshopbegeleider, animatiefilmer (animatie met objecten, jezelf of klei), illustrator (digitaal tekenen, strip, cartoon, tekenen met licht, ontwerpen in 3D Blender (ook voor evt. 3Dprint)), muzikant (beats maken, een lied componeren, muziekinstrument maken), uitzoeker/uitvinder",
+    "marker-size":"medium",
+    "marker-color":"#69d2f7",
+    "marker-symbol":"hairdresser",
+    "website":"http://www.demiangeerlings.nl",
+    "adres":"Sint Pieterspark 12, 5014 PG Tilburg"
+  },
+    "geometry":{
+      "coordinates":[5.08841, 51.5701393],
+      "type":"Point"
+    }
+},
+{
+  "type":"Feature",
+  "properties":{
+    "id":"marker-ijo1qpiw0",
+    "title":"Grotius College",
+    "description":"Wij zijn bezig met het opzetten van CreatorsLab. Een plek waar leerlingen makers kunnen worden.",
+    "marker-size":"medium",
+    "marker-color":"#7dffb8",
+    "marker-symbol":"school",
+    "website":"http://www.grotiuscollege.nl",
+    "adres":"Juniusstraat 8, 2625 XZ Delft"
+  },
+    "geometry":{
+      "coordinates":[4.346403899999999, 51.99941],
+      "type":"Point"
+    }
+},
+{
+  "type":"Feature",
+  "properties":{
+    "id":"marker-ijo1qpiw0",
+    "title":"Het Nieuwe Instituut - Open Atelier",
+    "description":"Onderzoekt de relatie tussen technologie en het lichaam. Jonge makers bedenken hier slimme oplossingen voor (minder) alledaagse problemen. In het atelier wordt er gelezen, getekend, gemeten, gespeeld, bedacht en gemaakt. Als innovatieve uitvinder valt hier van alles te onderzoeken.",
+    "marker-size":"medium",
+    "marker-color":"#f86767",
+    "marker-symbol":"rocket",
+    "website":"educatie.hetnieuweinstituut.nl",
+    "adres":"Museumpark 25, 3015 CB Rotterdam"
+  },
+    "geometry":{
+      "coordinates":[4.4709752, 51.9144868],
+      "type":"Point"
+    }
+},
+{
+  "type":"Feature",
+  "properties":{
+    "id":"marker-ijo1qpiw0",
+    "title":"Berto Aussems",
+    "description":"Afgelopen 5 jaar heb ik als individuele maker via Instructables en Make  18 'stap voor stap maak projecten' gepubliceerd. Op YouTube trokken mijn instructie video's meer dan 1.5 miljoen kijkers.",
+    "marker-size":"medium",
+    "marker-color":"#69d2f7",
+    "marker-symbol":"hairdresser",
+    "website":"www.safarana.com",
+    "adres":"Carl Smulderssingel 42  6217GD Maastricht"
+  },
+    "geometry":{
+      "coordinates":[5.674852, 50.86235199999999],
+      "type":"Point"
+    }
+},
+{
+  "type":"Feature",
+  "properties":{
+    "id":"marker-ijo1qpiw0",
+    "title":"FabLab Bieb Hilversum",
+    "description":"Bij FabLab Bieb Hilversum kan iedereen terecht die interesse heeft in maken of wil leren maken. We hebben voor scholen een groot aanbod van educatieve programma's vanaf groep 4 t/m 6 VWO. Ook voor individuele personen organiseren we verschillende maak activiteiten.",
+    "marker-size":"medium",
+    "marker-color":"#f86767",
+    "marker-symbol":"rocket",
+    "website":"http://www.bibliotheekhilversum.nl/fablab.html",
+    "adres":"'s Gravelandseweg 55 1217 EH Hilversum"
+  },
+    "geometry":{
+      "coordinates":[5.167133, 52.227552],
+      "type":"Point"
+    }
+}
+];
