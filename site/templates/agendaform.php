@@ -1,4 +1,7 @@
+
 <?php snippet('header') ?>
+
+  <?php snippet('agenda-map') ?>
 
   <main class="main defaultPage change-color">
     <section class="news_section">

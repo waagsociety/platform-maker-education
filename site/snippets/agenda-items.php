@@ -8,10 +8,11 @@ $items = $pages->find('agenda')->children()->visible()->paginate(20);
   <section class="nieuws-item left stamp-item">
 	<?php if($section->maakweekstamp() == "1"): ?>
 	<h2 class="maakweek-stamp">ABC-MAAKWEEK</h2>
-	<?php endif ?> 
-    <h1 class="beta"><?php echo html($section->title()) ?></h1>
+	<?php endif ?>       	
+    <h1 class="beta"><?php echo html(explode("~",$section->title())[0]) ?></h1>
+    <p style="font-weight:bold;font-style:italic"><?php echo html(explode("~",$section->title())[1]) ?></p>
     <p class=""><?php echo html($section->intro()) ?></p>
-    <a href="<?php echo $section->url() ?>" class="btn btn-3">Lees artikel</a>
+    <a href="<?php echo $section->url() ?>" class="btn btn-3">Meer informatie</a>
   </section>
 <?php endforeach ?>
 

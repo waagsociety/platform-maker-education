@@ -35,6 +35,9 @@ fields:
   text:
     label: Text
     type:  textarea
+  geocoordinates:
+    label: Geo coordinates
+    type: text
   layout:
     label: layout
     type: radio
