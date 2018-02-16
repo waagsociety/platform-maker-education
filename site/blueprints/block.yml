@@ -1,0 +1,23 @@
+title: Block
+files: true
+pages: false
+fields:
+  info:
+    label: Info
+    type: info
+    text: Define the contants of block visible on the homepage, the block links to another internal resource
+  title: title
+  caption:
+    label: Caption
+    type: text
+    help: the visible text on the homepage, can be left empty
+  icon: icon
+  iconfit: iconfit
+  link:
+    label: Link to
+    type: select
+    options: pages
+    help: set the content items this block links to
+  layout: layout
+  elementheight: elementheight
+  border: border

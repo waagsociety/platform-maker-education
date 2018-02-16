@@ -1,0 +1,29 @@
+Icon: _dsc9324-pebble-op-tafel-en-hand.jpg
+
+----
+
+Link: agenda
+
+----
+
+Title: agenda
+
+----
+
+Layout: four-col
+
+----
+
+Elementheight: half-height
+
+----
+
+Iconfit: 0
+
+----
+
+Caption: 
+
+----
+
+Border: 

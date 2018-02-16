@@ -1,19 +1,43 @@
 <?php snippet('header') ?>
 
   <main class="main">
-  	<?php foreach($pages->visible() as $section): ?>
-    <a href="<?php echo $section->url() ?>" class="scene_element scene_element--fadein item  <?php echo html($section->layout()) ?>  <?php foreach($section->border()->split() as $b): ?><?php echo html($b) ?> <?php endforeach ?> <?php echo html($section->elementheight()) ?> left">
-      <section>
-        <div class="icon" style="background-image: url(<?php echo url(); ?>/content/<?php echo $section->diruri() ?>/<?php echo html($section->icon()) ?>);"></div>
-        <div class="thumb_description">
-          <h1 class="beta"><?php echo html($section->title()) ?></h1>
-          <p><?php echo html($section->intro()) ?></p>
-        </div>
+
+    <!--
+    <a href="#" class="four-col half-height left">
+      <section style="background:#aaa;width:100%;height:100%;">
+        doe iets van find page met index 1
       </section>
     </a>
-   <?php endforeach ?>
-   <?php snippet('kaart') ?>
+    <a href="#" class="four-col half-height left">
+      <section style="background:#bbb;width:100%;height:100%;">
+        2
+      </section>
+    </a>
+    <a href="#" class="four-col half-height left">
+      <section style="background:#ccc;width:100%;height:100%;">
+        plaatje van kaart
+      </section>
+    </a>
+    <a href="#" class="four-col half-height left">
+      <section style="background:#ddd;width:100%;height:100%;">
+        4
+      </section>
+    </a>
+    -->
 
-   <?php snippet('projects') ?>
+    <!-- section blocks to "main menu" to pages -->
+    <?php foreach($page->children()->visible() as $section): ?>
+      <?php snippet('section', array('section' => $section)) ?>
+    <?php endforeach ?>
+    <?php snippet('projects') ?>
+
+    <!-- embed juicer -->
+    <section class="two-col left" style="background:#a1a;height:100%;">
+      <script src="//assets.juicer.io/embed.js" type="text/javascript"></script>
+      <link href="//assets.juicer.io/embed.css" media="all" rel="stylesheet" type="text/css" />
+      <ul class="juicer-feed" data-feed-id="watmaakjij" data-pages="1"></ul>
+    </section>
+
+
   </main>
 <?php snippet('footer') ?>

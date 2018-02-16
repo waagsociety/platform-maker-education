@@ -9,7 +9,7 @@ var myRequest = new Request('assets/json/projects.json',myInit);
 
 fetch(myRequest,myInit)
 .then(function(response) {
-  return response.json()
+  return response.json();
 })
 .then(function(json) {
   json.map(function( projects, index ){
@@ -54,5 +54,5 @@ fetch(myRequest,myInit)
 })
 
 .catch(function(ex) {
-  console.log('parsing failed', ex)
-})
+  console.log('parsing failed', ex);
+});

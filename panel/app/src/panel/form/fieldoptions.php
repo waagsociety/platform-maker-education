@@ -23,10 +23,14 @@ class FieldOptions {
 
     if(is_array($this->field->options)) {
       $this->options = $this->field->options;
-    } else if($this->isUrl($this->field->options)) {
-      $this->options = $this->optionsFromApi($this->field->options);
     } else if($this->field->options == 'query') {
       $this->options = $this->optionsFromQuery($this->field->query);
+    } else if($this->field->options == 'field') {
+      $this->options = $this->optionsFromField($this->field->field);
+    } else if($this->field->options == 'url') {
+      $this->options = $this->optionsFromApi($this->field->url);
+    } else if($this->isUrl($this->field->options)) {
+      $this->options = $this->optionsFromApi($this->field->options);
     } else {
       $this->options = $this->optionsFromPageMethod($this->field->page, $this->field->options);
     }
@@ -55,16 +59,48 @@ class FieldOptions {
   }
 
   public function optionsFromApi($url) {
-    $response = remote::get($url);
+    $response = remote::get(url($url));
     $options  = @json_decode($response->content(), true);
     return is_array($options) ? $options : array();
+  }
+
+  public function optionsFromField($field) {
+
+    // default field parameters
+    $defaults = array(
+      'page'     => $this->field->page ? ($this->field->page->isSite() ? '/' : $this->field->page->id()) : '',
+      'name'      => 'tags',
+      'separator' => ',',
+    );
+
+    // sanitize the query
+    if(!is_array($field)) {
+      $field = array();
+    }
+
+    // merge the default parameters with the actual query
+    $field = array_merge($defaults, $field);
+
+    // dynamic page option
+    // ../
+    // ../../ etc.
+    $page    = $this->page($field['page']);
+    $items   = $page->{$field['name']}()->split($field['separator']);
+    $options = array();
+
+    foreach($items as $item) {
+      $options[$item] = $item;
+    }
+
+    return $options;
+
   }
 
   public function optionsFromQuery($query) {
 
     // default query parameters
     $defaults = array(
-      'page'     => $this->field->page ? $this->field->page->id() : '',
+      'page'     => $this->field->page ? ($this->field->page->isSite() ? '/' : $this->field->page->id()) : '',
       'fetch'    => 'children',
       'value'    => '{{uid}}',
       'text'     => '{{title}}',
@@ -79,8 +115,8 @@ class FieldOptions {
 
     // merge the default parameters with the actual query
     $query = array_merge($defaults, $query);
-    
-    // dynamic page option 
+
+    // dynamic page option
     // ../
     // ../../ etc.
     $page    = $this->page($query['page']);
@@ -102,7 +138,7 @@ class FieldOptions {
       $text  = $this->tpl($query['text'], $item);
 
       $options[$value] = $text;
-    }    
+    }
 
     return $options;
 
@@ -112,23 +148,26 @@ class FieldOptions {
 
     if(str::startsWith($uri, '../')) {
       if($currentPage = $this->field->page) {
-        $path = $uri; 
+        $path = $uri;
         while(str::startsWith($path, '../')) {
           if($parent = $currentPage->parent()) {
             $currentPage = $parent;
           } else {
-            break;
+            $currentPage = site();
           }
           $path = str::substr($path, 3);
         }
-        $page = $currentPage;          
+        if(!empty($path)) {
+          $currentPage = $currentPage->find($path);
+        }
+        $page = $currentPage;
       } else {
         $page = null;
       }
     } else if($uri == '/') {
       $page = site();
     } else {
-      $page = page($uri);        
+      $page = page($uri);
     }
 
     return $page;
@@ -159,9 +198,9 @@ class FieldOptions {
   }
 
   public function isUrl($url) {
-    return 
-      v::url($url) or 
-      str::contains($url, '://localhost') or 
+    return
+      v::url($url) or
+      str::contains($url, '://localhost') or
       str::contains($url, '://127.0.0.1');
   }
 
@@ -175,6 +214,12 @@ class FieldOptions {
         break;
       case 'invisibleChildren':
         $items = $page->children()->invisible();
+        break;
+      case 'visibleGrandchildren':
+        $items = $page->grandChildren()->visible();
+        break;
+      case 'invisibleGrandchildren':
+        $items = $page->grandChildren()->invisible();
         break;
       case 'siblings':
         $items = $page->siblings()->not($page);
@@ -204,7 +249,7 @@ class FieldOptions {
       case 'archives':
         $items = $page->{$method}();
         break;
-      default: 
+      default:
         $items = new Collection();
     }
 

@@ -1,0 +1,63 @@
+Heroimage: 
+
+----
+
+Icon: 
+
+----
+
+Title: Workshop 3D Printen ~ 11 januari - Amsterdam
+
+----
+
+Videolink: 
+
+----
+
+Subtitle: 
+
+----
+
+Intro: Workshop 3D Printen bij ZB45 Makerspace in Amsterdam
+
+----
+
+Text: 
+
+Door te printen leer je waar je bij het modelleren voor 3D printen op moet letten.
+
+Tijdens deze Workshop 3D Printen bij ZB45 Makersapce zie je hoe het gebruik van 3D Printen een aanvulling kan zijn bij verschillende lessen op school: bij wiskunde, informatica, of beeldende vorming, maar ook om modellen te maken bij werkstukken en presentaties voor andere vakken.
+
+Kinderen vanaf 10 jaar zijn goed in staat een 3-dimensionale tekening te leren maken op een computer, om deze dan zelfstandig met een 3D printer te printen. Tijdens de Introductie 3D Printen bij ZB45 Makerspace krijg je als docent inzicht in het proces vanaf het 3D ontwerpen tot en met het bedienen van de 3D printer.
+
+Kleine groep van 7 cursisten; iedere cursist heeft een computer en 3D printer van ZB45 Makerspace ter beschikking.
+
+De eerst volgende cursus is donderdagavond 11 januari van 19.00-21.30 uur.
+
+Wil je met een aantal docenten samen op cursus, neem dan contact met op met ZB45 Makerspace om een afspraak te maken.
+
+Meer informatie over deze cursus en het aanmeldformulier vindt je via https://zb45.nl/introductie3Dprint
+
+----
+
+Geocoordinates: 52.366990, 4.937156
+
+----
+
+Layout: one-col
+
+----
+
+Elementheight: full-height
+
+----
+
+Maakweekstamp: 0
+
+----
+
+Voucherform: 0
+
+----
+
+Border: 

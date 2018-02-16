@@ -3,7 +3,7 @@ var slideDelay = 10000,
 
 function initSlider(selector){
   setTimeout( nextSlide.bind ( null, selector ), slideDelay);
-};
+}
 
 function nextSlide( selector ){
   if( stopSlide ) return;

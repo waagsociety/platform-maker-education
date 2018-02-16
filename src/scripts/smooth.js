@@ -24,6 +24,5 @@ $(function(){
             $container.html($newContent);
           }
         }
-      }
-
+      };
 });

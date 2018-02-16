@@ -15,4 +15,4 @@ function loadWayPoint(){
 		},
 		offset: 200
 	});
-};
+}

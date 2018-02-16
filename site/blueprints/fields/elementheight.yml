@@ -1,0 +1,6 @@
+label: Element height
+type: radio
+options:
+  full-height: Full height
+  half-height: Half height
+help: set the height of this block relative to viewport height

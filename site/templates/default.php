@@ -1,7 +1,6 @@
 <?php snippet('header') ?>
-
   <main class="main defaultPage change-color stamp-item">
-    <div class="text">	  	
+    <div class="text">
       <?php if($page->maakweekstamp() == "1" && $page->parent()->uid() == "agenda"): ?>
 	  <h2 class="maakweek-stamp">ABC-MAAKWEEK</h2>
 	  <?php endif ?>

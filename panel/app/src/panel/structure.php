@@ -25,21 +25,42 @@ class Structure {
   public function __construct($model, $id) {
 
     $this->model     = $model;
-    $this->id        = 'structure_' . sha1($id);
+    $this->id        = 'kirby_panel_structure_' . sha1($id);
     $this->blueprint = $this->model->blueprint();
 
   }
 
-  public function forField($field) {
+  public function forField($field, $source = null) {
 
     if(method_exists($this->model, $field)) {
       throw new Exception('The field name: ' . $field . ' cannot be used as it is reserved');
     }
 
+
     $this->field  = $field;
     $this->config = $this->model->getBlueprintFields()->get($this->field);
-    $this->source = (array)yaml::decode($this->model->{$this->field}());
-    $this->store  = new Store($this, $this->source());
+
+    if($source) {
+      if(is_string($source)) $source = yaml::decode($source);
+      $this->source = (array)$source;
+    } else {
+      if(is_a($this->model, 'Page')) {
+        $source = $this->model->content()->get($this->field);
+        $decode = true;
+      } else if(is_a($this->model, 'File')) {
+        $source = $this->model->meta()->get($this->field);
+        $decode = true;
+      } else if(is_a($this->model, 'User')) {
+        $source = $this->model->{$this->field}();
+        $decode = false;
+      } else {
+        throw new Exception('Invalid model for structure field: ' . $this->field);
+      }
+
+      $this->source = $decode ? (array)yaml::decode($source) : (array)$source; 
+    }
+
+    $this->store  = new Store($this, $this->source);
 
     return $this;
 
@@ -72,8 +93,11 @@ class Structure {
   public function fields() {
 
     $fields = $this->config->fields();
-    $fields = new Fields($fields, $this->model);
+    $fields = new Fields($fields, $this->model, 'structure');
     $fields = $fields->toArray();
+
+    // unify keys
+    $fields = array_change_key_case($fields, CASE_LOWER);
 
     // make sure that no unwanted options or fields 
     // are being included here
@@ -82,7 +106,9 @@ class Structure {
       // remove all structure fields within structures
       if($field['type'] == 'structure') {
         unset($fields[$name]);
-
+      // convert title fields to normal text fields
+      } else if($field['type'] == 'title') {
+        $fields[$name]['type'] = 'text';
       // remove invalid buttons from textareas
       } else if($field['type'] == 'textarea') {
         $buttons = a::get($fields[$name], 'buttons');
@@ -107,6 +133,7 @@ class Structure {
 
     $collection = new Collection($this->store()->data());
     $collection = $collection->map(function($item) {
+      $item = array_change_key_case($item, CASE_LOWER);
       return new Obj($item);
     });
 
@@ -115,7 +142,12 @@ class Structure {
   }
 
   public function toObject($array) {
-    return is_array($array) ? new Obj($array) : false;
+    if(is_array($array)) {
+      $array = array_change_key_case($array, CASE_LOWER);
+      return new Obj($array);
+    } else {
+      return false;
+    }
   }
 
   public function find($id) {

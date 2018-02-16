@@ -1,0 +1,11 @@
+title: Kaartform
+pages: true
+files: true
+fields:
+  heroimage: heroimage
+  icon: icon
+  title: title
+  videolink: videolink
+  subtitle: subtitle
+  intro: intro
+  text: text

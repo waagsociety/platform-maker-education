@@ -1,0 +1,7 @@
+label: Show border
+type: checkboxes
+options:
+  borderTop: Top
+  borderRight: Right
+  borderBottom: Bottom
+  borderLeft: Left

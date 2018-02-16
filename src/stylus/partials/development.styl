@@ -27,7 +27,6 @@
 	.item
 		color projectColor
 		background #fff
-		text-align center
 		background-repeat no-repeat
 		background-size 60%
 		background-position center bottom
@@ -51,10 +50,6 @@
 			transition .2s ease-in-out
 			z-index 2
 		.icon
-			// width 100%
-			// height 35%
-			// margin-bottom 30px
-		.icon
 			width 40%
 			height 40%
 			left 30%
@@ -68,21 +63,26 @@
 			transform-origin bottom center
 			opacity .8
 		section
-			position absolute
-			left 0
-			top 0
 			height 100%
 			width 100%
-			padding 40px
-			background-size cover
-			// &:after
-			// 	content ""
-			// 	position absolute
-			// 	top 0
-			// 	left 0
-			// 	width 100%
-			// 	height 100%
-			// 	background rgba(darken(#ff7b7b,5), .75)
+			overflow hidden
+			div
+				padding 20%
+				height 100%
+				width 100%
+				background-size cover
+				display flex
+				align-items center
+				background-position center
+				background-repeat no-repeat
+				background-size 100% auto
+				transition .2s ease-in-out
+				&:hover
+					transform scale(1.05)
+		section
+			div.cover
+				background-size cover
+
 
 .text
 	width 100%
@@ -137,50 +137,6 @@
 		width 60%
 		max-width 800px
 
-
-.machine-menu
-	position fixed
-	width 100%
-	height 100vh
-	right 0
-	top 0
-	background-color #fc7d7d
-	z-index 3
-	transition transform .2s ease-in-out
-	transform-origin top right
-	.machine-grid
-		display flex
-		flex-wrap wrap
-		align-content flex-start
-		li
-			display inline-block
-
-.machine-menu.closed
-	transform scale(0)
-.machine-menu.open
-	transform scale(1)
-.machine-grid
-	height 100%
-	.machineThumb
-		text-align center
-		padding 20px
-		display inline-block
-		.machineLink
-			position absolute
-			left 0
-			top 0
-			right 0
-			bottom 0
-		figure
-			margin 0 0 30px 0
-		img
-			max-width 60%
-
-.sitemap
-	width 100%
-	background-color #F0F0F0;
-	padding 50px
-
 footer
 	padding 30px 50px
 	float left
@@ -200,12 +156,6 @@ footer
 		opacity .6
 	.st1
 		fill white
-svg
-	rect
-		fill:white
-		stroke #ffffff
-		stroke-width 0
-		stroke-miterlimit 10
 
 #down_btn
 	cursor pointer
@@ -222,92 +172,6 @@ svg
 		path
 			fill #fff
 
-.projects
-	width 100%
-	min-height 100vh
-	display flex
-	flex-wrap wrap
-	align-content flex-end
-	.st0
-		fill #fff
-	nav
-		width 40%
-		position absolute
-		height 10vh
-		bottom 0
-		left 0
-		background callToColor
-		div
-			color white
-			font-size 3em
-			width 50%
-			height 100%
-			cursor pointer
-			transition opacity .2s ease-in-out
-			&:hover
-				background-color darken(callToColor, 20%)
-			&:first-child
-				border-right 1px solid white
-			&:last-child
-				border-left 1px solid white
-			span
-				position absolute
-				left 50%
-				top 50%
-				transform translate(-50%, -50%)
-	.projectItem
-		position absolute
-		width 100%
-		height 100%
-		background-size cover
-		background-position center center
-		background-repeat no-repeat
-		list-style none
-		font-size .875em
-		flex-grow 1
-		h1
-			font-size 1.7em
-		.btn-2
-			margin-right 10px
-		div
-			width 35%
-			height 100%
-			position absolute
-			left 0
-			bottom 0
-			color white
-			background rgba(#7358ff, .85)
-			padding 5% 50px
-			.btn
-				margin-bottom 20px
-
-.grid-view
-	.projectItem
-		position relative
-		float left
-		width 33.33%
-		height 50vh
-		opacity 1
-		visibility visible
-		div
-			width 100%
-			height 100%
-			opacity 0
-			padding 40px
-			transition opacity .2s ease-in-out
-			font-size .875em
-			.btn
-				margin-bottom 20px
-			&:hover
-				opacity 1
-#girdbutton
-	width 20px
-	height 20px
-	cursor pointer
-	position absolute;
-	right 20px
-	top 20px
-	z-index 3
 .contact
 	width 100%
 	float left
@@ -339,77 +203,6 @@ svg
 	textarea
 		border 4px solid white
 
-.card-page
-	height 80vh
-	float left
-	#makermap
-		width 100%
-		height 100%
-
-.meer-lessen
-	z-index 99
-.sectionHeader
-	padding 80px
-	text-align center
-	float left
-	width 33.33%
-	div
-		position absolute
-		left 50%
-		width calc(100% - 100px)
-		top 50%
-		transform translate(-50%,-50%)
-		display inline-block
-		border-top 1px solid #ccc
-		border-bottom 1px solid #ccc
-		padding 20px 0 30px
-		font-size .875em
-		h1
-			margin .2em 0
-		p
-			margin-bottom .5em
-		.btn
-			margin .2em 0
-			font-size 1em
-.sectionHeader.full-width
-	width 100%
-.sectionHeader.half-width
-.full-width-label
-	width 100%
-	float left
-.contact
-	.input_anders
-		width 50%
-		margin-bottom 0
-	.radio-block
-		width 50%
-		height 70px
-		label
-			padding-left 20px
-			position relative
-			top 0
-		input[type="radio"]
-			width auto
-			top 15px
-	::-webkit-input-placeholder
-		color white
-
-	:-moz-placeholder
-		color white
-
-	::-moz-placeholder
-		color: white
-
-	:-ms-input-placeholder
-		color white
-
-	::-ms-input-placeholder
-		color white
-
-	:placeholder-shown
-		color white
-
-
 .borderLeft
 	border-left 2px solid #ccc
 .borderTop
@@ -422,42 +215,6 @@ svg
 .leaflet-popup-content
 	font-size 1.3em
 	line-height 2em
-
-
-.inspiration_slider
-	height 80vh
-	ul
-		position absolute
-		height 100%
-		width 100%
-		li
-			position absolute
-			height 100%
-			width 100%
-			background-size cover
-			background-position center center
-			list-style none
-			&:before
-				content ""
-				position absolute
-				background rgba(0,0,0, .3)
-				top 0
-				left 0
-				bottom 0
-				right 0
-
-			.slider_caption
-				background rgba(255,255,255, .96)
-				padding 30px 30px 40px
-				max-width 75%
-				color #333
-				position absolute
-				left 0
-				bottom 0
-				transition .2s ease-out
-				h1
-					margin-bottom .2em
-
 
 .news_section
 	width 100%

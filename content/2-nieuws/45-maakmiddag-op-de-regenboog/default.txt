@@ -1,0 +1,49 @@
+Heroimage: img_20170324_112245017_hdr.jpg
+
+----
+
+Icon: 
+
+----
+
+Title: Maakmiddag op De Regenboog
+
+----
+
+Videolink: 
+
+----
+
+Subtitle: 
+
+----
+
+Intro: Montessorischool De Regenboog in Amsterdam kan niet stoppen met maken!
+
+----
+
+Text: 
+
+Montessorischool De Regenboog in Amsterdam kan niet stoppen met maken! Ze organiseerden ze een Maakmiddag op school. Bekijk het filmpje: 
+
+<p><iframe width="800" height="450" src="https://www.youtube.com/embed/XNJK5ZDwvhY" frameborder="0" allowfullscreen></iframe></p>
+
+Ook gaven Joke de Hoogh en Suzanne van Lier een door Platform Maker Eucation geïnspireerde workshop voor collega's tijdens de ASKO studiedag in de Meervaart. Ook daar is een video registratie van: 
+
+<p><iframe width="800" height="450" src="https://www.youtube.com/embed/REbsBszbYjM" frameborder="0" allowfullscreen></iframe></p>
+
+----
+
+Layout: one-col
+
+----
+
+Elementheight: full-height
+
+----
+
+Voucherform: 0
+
+----
+
+Border: 

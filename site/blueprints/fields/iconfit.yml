@@ -1,0 +1,5 @@
+label: Fit image
+type: checkbox
+text: Fit
+default: 0
+help: Make the icon fit within its bounds (opposed to cover)

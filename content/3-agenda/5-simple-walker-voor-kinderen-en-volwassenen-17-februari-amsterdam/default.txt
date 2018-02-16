@@ -1,0 +1,61 @@
+Heroimage: 
+
+----
+
+Icon: 
+
+----
+
+Title: Simple Walker voor kinderen én volwassenen ~ 17 februari - Amsterdam
+
+----
+
+Videolink: 
+
+----
+
+Subtitle: 
+
+----
+
+Intro: Aan de slag met de Simple Walker, een robotje (met les-programma) dat je zelf kan bouwen en programmeren, voor jongeren van 12-18 jaar.
+
+----
+
+Text: 
+
+De Simple Walker is een robotje (met les-programma) dat je zelf kan bouwen en programmeren, bedoeld voor jongeren van 12-18 jaar.
+
+Op zaterdag 17 februari ben je van harte welkom om de Simple Walker te programmeren!
+
+Tijdens deze (gratis) workshopmiddag nodigen we je uit om te experimenteren met de Simple Walker.
+
+De middag is bedoeld voor iedereen vanaf 12 jaar: dus voor kinderen of jongeren vanaf 12 jaar, voor volwassenen, maar ook voor docenten in het middelbaar onderwijs.
+
+Tussen 13.00 en 16.00 uur kun je langskomen, je werkt dan zelfstandig of samen, ongeveer een half uur tot een uur met een Simple Walker.
+
+Meer informatie over deze workshop vind via https://zb45.nl/Simple_Walker
+
+----
+
+Geocoordinates: 52.366990, 4.937156
+
+----
+
+Layout: one-col
+
+----
+
+Elementheight: full-height
+
+----
+
+Maakweekstamp: 0
+
+----
+
+Voucherform: 0
+
+----
+
+Border: 

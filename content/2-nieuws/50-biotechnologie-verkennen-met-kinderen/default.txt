@@ -1,0 +1,67 @@
+Heroimage: petshop-petridish.jpg
+
+----
+
+Icon: 
+
+----
+
+Title: Biotechnologie verkennen met kinderen
+
+----
+
+Videolink: 
+
+----
+
+Subtitle: 
+
+----
+
+Intro: De tweede FabSchool-serie van 2017 hebben we gewijd aan de wondere wereld van de biotechnologie. Wat hebben we allemaal gedaan?
+
+----
+
+Text: 
+
+<p>De tweede FabSchool-serie van 2017 hebben we gewijd aan de wondere wereld van de biotechnologie. Iets waar Waag Society zich in het Open Wetlab al vijf jaar mee bezig houdt, maar wat voor FabSchool nog onontgonnen gebied was. Hoe begin je daar nou aan, een programma van 12 weken opvullen met biotechnologie activiteiten voor kinderen?</p>
+<p>Het uitgangspunt was dat de kinderen elke week zelf gingen experimenteren en maken. Al makende hebben we zo een hoop geleerd over biotechnologie. We hebben verschillende thema’s, zoals gist, onderzocht aan de hand van verschillende maakprojecten. We hebben toepassingen en werking van gist in voedsel verkend door zelf met gist te drankjes te brouwen, maar ook creatieve toepassingen voor gist gezocht met de <em>yeastograms</em>.</p>
+<p>We hebben natuurlijk niet alle activiteiten zelf verzonnen, maar voortgebouwd op verschillende formats van binnen en buiten Waag Society. Hieronder een overzicht van de activiteiten die we hebben gedaan en links waar je er meer informatie vindt om er zelf mee aan de slag te gaan.</p>
+<p><img src="https://makereducation.nl/content/1-nieuws/50-biotechnologie-verkennen-met-kinderen/fabschool-2017-biotech.jpg" alt="fabschool-2017-biotech"></p>
+<p><strong>Bacteriën vangen </strong><br />In de eerste week van de serie hebben zijn we met een wattenstaafje en petrischaaltje op jacht gegaan naar microben, dit heeft <a href="http://waag.org/nl/blog/biotech-uit-de-fabschool">mooie resultaten opgeleverd</a>. We hebben bacteriën en schimmels gevangen in en om de Waag, afgekeken van de <a href="http://waag.org/nl/event/red-light-pet-shop-city-tour-catch-your-pets-wild">Catch Your Pet in the Wild</a> workshop van onze eigen <a href="http://waag.org/nl/project/pet-shop">Pet Shop</a>.</p>
+<p>Het recept voor het maken van de voedingsbodem voor de petrischaaltjes vind je op de <a href="http://biohackacademy.github.io/bha4/cultivation-media/nutrient-agar/">Biohack Academy website</a>.</p>
+<p><strong>Zuurmeter</strong><br />We hebben met <a href="http://waag.org/sites/waag/files/public/zuurmeter.pdf">rode kool een zuurmeter</a> (pdf) gemaakt, dit is een van de <a href="http://waag.org/nl/project/smart-kids-lab">Smart Kids Lab</a> proefjes. Je hebt er weinig voor nodig (rode kool, blender en koffiefilter) en het resultaat is te gek. Het rodekoolsap verandert van kleur als je er zure of basische vloeistoffen bijdoet. De kinderen waren hier erg enthousiast over, en vonden het leuk om te onderzoeken wat zuurder is: een appel of cola?</p>
+<p><strong>Yeastograms</strong><br />De yeastograms die we hebben gedaan waren best lastig. Het idee was erg leuk, namelijk om van gistcellen een kunstwerk te maken op een petrischaaltje. Echter, het bleek uiteindelijk vooral veel werk voor de begeleiders, en niet voor de kinderen.</p>
+<p>De kinderen hebben zelf een sticker ontworpen die is uitgesneden met de vinylsnijder. Hier moest dan gist op gaan groeien en onder een sterke uv-lamp werd het gist dat niet door de sticker bedekt werd gedood.</p>
+<p>Het voorbereiden van de petrischaaltjes, de uv-lichtinstallatie en het gieten met epoxy is allemaal niet erg geschikt om met een groep kinderen te doen. Ook mislukken veel van de yeastograms op het laatst door een witte uitslag in de epoxylaag, vermoedelijk door condensatie. De yeastograms zou ik niet nog een keer doen met kinderen. Mocht je er toch zelf aan willen wagen, vind je de uitgebreide uitleg <a href="http://pavillon35.polycinease.com/wp-content/uploads/2013/10/pavillon_35_recipe_1_yeast_print_s.pdf">hier</a> (pdf).</p>
+<p><strong>Lavalamp</strong><br />We hebben van olie, water, voedingskleurstof en een bruistablet zelf een lavalamp gemaakt. Hiervoor zijn online veel voorbeelden te vinden, wij gebruikten <a href="http://www.instructables.com/id/How-To-Make-a-DIY-Lava-Lamp/">deze instructable.</a> We hebben deze gedaan tijdens een middag waarop we eigenlijk te weinig activiteiten hadden om de tijd te vullen, dus we moesten deze opdracht oprekken. Dit werkte erg goed, omdat je dan echt de tijd kan nemen om de kinderen te laten ontdekken wat er gebeurt: de olie drijft op het water, maar op het moment dat je de bruistablet erin gooit, maken de bubbels het water lichter dan de olie en drijft het water met de bubbels door de olie omhoog. Groot succes, sommige enthousiaste kinderen hebben de lavalamp dezelfde week nog zelf thuis nagemaakt!</p>
+<p><strong>Webcam microscoop</strong><br />Nog eentje uit het <a href="http://waag.org/nl/project/biohack-academy-biofactory">Biohack Academy</a> curriculum: de webcam microscoop. Met een webcam van tien euro kun je een microscoop maken die tot wel 300 keer vergroot. Je moet daarvoor onderdelen voor het houdertjes lasersnijden, dat hebben we van tevoren zelf gedaan in ons Fablab. Daarna hebben de kinderen in een middag de microscoop gebouwd. Instructies staan <a href="https://github.com/BioHackAcademy/BHA_Webcam_Microscope/blob/master/Webcam-Microscope-Assembly.pdf">hier</a> (pdf).</p>
+<p>Als de microscoop af is, kun je er van alles onder leggen. Wij hebben zelf gemaakte wangslijmpreparaatjes bekeken. Het scherpstellen is soms een beetje lastig, dus daar kunnen de kinderen wel wat hulp bij gebruiken.</p>
+<p><strong>Bioplastic</strong><br />We hebben bioplastic gecombineerd met mallen maken. In eerste instantie wilden we bioplastic gaan maken op basis van kombucha, een fermenterende bacterie- en gistkolonie. Maar nadat ons eerste experiment niet was geëindigd in een stuk bioplastic, maar in een bak met schimmel, zijn we op zoek gegaan naar iets makkelijkers: bioplastic op basis van gelatine en glycerine. Kijk <a href="https://fabtextiles.org/the-secrets-of-bioplastic/">hier</a> voor een basisrecept. Op aanraden van de stagiair van het <a href="http://waag.org/nl/project/textilelab-amsterdam">Textile Lab</a> wat zeep aan het recept toegevoegd, zodat het lekker gaat bubbelen en je een schuimachtig plastic krijgt. Het kleuren van het plastic kan met voedingskleurstof en helemaal fantastisch wordt het als je wat glitters in de mix gooit.</p>
+<p>De mallen zijn door de kinderen zelf ontworpen met <a href="http://www.cookiecaster.com/">Cookiecaster</a>, een supersimpele website waar je makkelijk een steekvorm kan ontwerpen en direct een bestand voor de 3D-printer kan downloaden. Kijk in <a href="http://www.cookiecaster.com/users/9338">deze collectie</a> wat de FabSchool kinderen allemaal hebben ontworpen.</p>
+<p><strong>Eten en drinken</strong><br />Tijdens de presentatie voor de ouders op 5 juli hebben uitsluitend zelfgemaakte hapjes en drankjes geserveerd, die we hebben gemaakt tijdens de 11 middagen daarvoor. Geheel in het teken van biotechnologie zijn we aan de slag gegaan met gisten, schimmels en bacteriën om yoghurt, worst, kaas en verschillende drankjes te maken. Hiervan kunnen we een heel receptenboek schrijven, dat laat ik voor nu even achterwege. Maar misschien komt er nog ooit een FabSchool kookboek...</p>
+<p><strong>Conclusie</strong><br />We hebben van deze serie zelf ontzettend geleerd en vooral heel erg veel lol gehad. En de kinderen ook. Ik hoop dat we hier bij de Waag verder mee gaan en hoop ook anderen te inspireren dit toe te passen, thuis, in een FabLab of in de klas. Biotechnologie is leuk, niet alleen om er veel te leren valt, maar vooral omdat het precies vies genoeg is: het stinkt een beetje, het plakt, en het soms klotst het over het randje van de pan. Heerlijk!</p>
+
+----
+
+Geocoordinates: 
+
+----
+
+Layout: one-col
+
+----
+
+Elementheight: full-height
+
+----
+
+Maakweekstamp: 0
+
+----
+
+Voucherform: 0
+
+----
+
+Border: 

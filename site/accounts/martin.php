@@ -7,10 +7,8 @@ password: >
 language: en
 role: admin
 history:
-  - >
-    agenda/en-11-september-maker-faire-eindhoven
-  - >
-    nieuws/publicatie-onderzoeksrapporten-maker-education-in-nederland
-  - >
-    nieuws/het-knutselkunstkabinet-neemt-sbo-sprankel-mee-naar-spark-lab-s-hertogenbosch
-  - nieuws/bezoek-aan-smartlab
+  - agenda/maart-2017-meetup-simple-walker
+  - agenda/nog-iets
+  - nieuws/test-met-plaatjes
+  - nieuws/film
+  - agenda/en-11-september-maker-faire-eindhoven

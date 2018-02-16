@@ -1,0 +1,5 @@
+label: Hero image
+type:  selector
+mode:  single
+types:
+    - image

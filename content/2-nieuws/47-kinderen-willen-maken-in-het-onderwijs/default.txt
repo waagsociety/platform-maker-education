@@ -1,0 +1,83 @@
+Heroimage: abc.png
+
+----
+
+Icon: 
+
+----
+
+Title: Maakweek: 23 t/m 28 mei
+
+----
+
+Videolink: 
+
+----
+
+Subtitle: Kinderen willen maken in het onderwijs!
+
+----
+
+Intro: 
+
+Kinderen willen maken in het onderwijs!
+Heel Nederland maakt! Doe mee of organiseer zelf een activiteit.
+
+----
+
+Text: 
+
+Heel Nederland maakt! Doe mee of organiseer zelf een activiteit
+We leven in een wereld die bol staat van technologie en steeds sneller digitaliseert. Het is daarom van belang dat kinderen naast programmeren, ook andere vaardigheden meekrijgen die horen bij de 21ste eeuw: van oplossingsgericht denken tot ondernemen en samenwerken. Maakonderwijs kan daarbij helpen. Door iets te maken leer je problemen oplossen, de wereld beter begrijpen én deze beïnvloeden. Belangrijke skills dus. Daarom organiseert (link: https://makereducation.nl text: Platform Maker Education) in samenwerking met (link: http://mediawijzer.net) een campagne voor meer maakonderwijs in Nederland. En jij kunt meedoen! 
+
+<p><img src="/content/1-nieuws/47-kinderen-willen-maken-in-het-onderwijs/3d.png" /></p>
+
+**ABC van het Maken film + website** 
+We lanceren op 16 mei een campagne film waarin jongeren zélf het gehele alfabet fabriceren met allerlei bijzondere maaktechnieken. Iedereen die na het zien van de film direct aan de slag wilt kan terecht op abcmaken.nl (nog niet online), deze website wordt een visueel woordenboek dat je wegwijs maakt in de wondere wereld van het maken. Word je al nieuwsgierig? 
+
+**Sluit je aan bij de campagne en word partner** 
+Hoe meer scholen, onderwijsinstellingen, bibliotheken, musea en maakplaatsen meedoen aan de campagne, hoe beter. Ook andere organisaties die maakactiviteiten willen organiseren zijn natuurlijk meer dan welkom. Alle partners worden met naam en website vermeldt op abcmaken.nl.
+
+**Deel de ABC van het maken campagne film**
+Je kunt meedoen door de film vanaf 16 mei actief te delen via nieuwsbrieven, social media en je website(s). Wij leveren de film, een pakketje vol met leuk promotiemateriaal en handige instructies. Super easy! 
+
+<p><img src="/content/1-nieuws/47-kinderen-willen-maken-in-het-onderwijs/p.png" /></p>
+
+**Organiseer een maakactiviteit tussen 23-28 mei**
+Wil je ook een maakactiviteit organiseren? Laat je inspireren door bestaande projecten. Maak bijvoorbeeld een (link:https://openthings.wiki/nl/project/view/46 text:Automata), (link:https://openthings.wiki/en/project/view/45 text:Bristlebot), of (link:https://openthings.wiki/nl/project/view/51 text:papieren circuit). Alle events worden opgenomen in de agenda op de website. Meld jouw activiteit aan door op onderstaande link te klikken.
+
+(link: https://docs.google.com/forms/d/e/1FAIpQLSce9MfDhITdQJd024hWQPpGIeIUqSwIba61YQ2ZvU5errJ5Kg/viewform?c=0&w=1 text:Ik doe mee met ABC van het Maken)
+
+<p><img src="/content/1-nieuws/47-kinderen-willen-maken-in-het-onderwijs/watmaakjij.png" /></p>
+
+**Een oproep aan makend Nederland**
+Deel vanaf 16 mei jouw meest fantastische lego creatie, zelfgemaakte robot, mislukte soep, geniale muziekstuk, geprogrammeerde app, zelfgefabriceerde meubels en alles daar tussen in, onder de hashtag #watmaakjij. Ken jij andere makers? Nodig hen uit hetzelfde te doen. Zo laten we samen zien dat iedereen een talent voor maken heeft. 
+
+Wees creatief met gifjes, foto's en filmpjes! Alle maakprojecten met de hashtag #watmaakjij worden automatisch verzameld op abcmaken.nl.  Veel plezier!
+
+*ABC van het Maken is een initiatief van Platform Maker Education
+(FabKlas / Frysklab / Waag Society) in samenwerking met Mediawijzer.net *
+
+----
+
+Layout: one-col
+
+----
+
+Elementheight: full-height
+
+----
+
+Maakweekstamp: 1
+
+----
+
+Voucherform: 0
+
+----
+
+Border: 
+
+----
+
+Geocoordinates: 

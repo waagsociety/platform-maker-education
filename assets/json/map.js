@@ -138,16 +138,16 @@ var geojson = [{
   "type":"Feature",
   "properties":{
     "id":"marker-ijo1qpiw0",
-    "title":"FabLab Breda",
+    "title":"Makersbase",
     "description":null,
     "marker-size":"medium",
     "marker-color":"#f86767",
     "marker-symbol":"rocket",
-    "website":"http://fablabbreda.nl/workshop",
-    "adres":"Veilingkade 8, 4815 HC Breda "
+    "website":"http://www.makersbase.nl",
+    "adres":"Molenstraat 6, 4811 GS Breda "
   },
     "geometry":{
-      "coordinates":[4.7668975, 51.5988943],
+      "coordinates":[4.778907,51.587704],
       "type":"Point"
     }
 },
@@ -1459,5 +1459,61 @@ var geojson = [{
       "coordinates":[5.167133, 52.227552],
       "type":"Point"
     }
-}
-];
+},
+{
+  "type":"Feature",
+  "properties":{
+    "id":"marker-ijo1qpiw0",
+    "title":"JackLab",
+    "description":"Het JackLab is het fabricage laboratorium van de Bibliotheek Assen. Bij het JackLab kun je diverse workshops volgen of met je hele klas op bezoek komen. We hebben 3D printers, een lasersnijder, een snijplotter, little bits, lego we.do, codebugs en nog veel meer!",
+    "marker-size":"medium",
+    "marker-color":"#f86767",
+    "marker-symbol":"rocket",
+    "website":"https://www.bibliotheekassen.nl/welkomjack",
+    "adres":"Weiersstraat 1C, 9401 ET, Assen"
+  },
+    "geometry":{
+      "coordinates":[6.558589, 52.994835],
+      "type":"Point"
+    }
+},
+{  
+   "type":"Feature",
+   "properties":{  
+      "id":"marker-ijo1qpiw0",
+      "title":"Tech Playgrounds",
+      "description":"In Tech Playgrounds kan jeugd van 7-27 jaar samen met tech vrijwilligers en jeugdwerkers naschools non-formeel kan bouwen, programmeren en maken. Deelname kost een euro per keer. Doelgroep zijn intrinsiek gemotiveerde techies, we zijn al 12 dagdelen in evenzoveel wijken open.",
+      "marker-size":"medium",
+      "marker-color":"#f86767",
+      "marker-symbol":"rocket",
+      "website":"http://www.techplaygrounds.nl",
+      "adres":"Verschillende locaties, omgeving Eindhoven en Waalre"
+   },
+   "geometry":{  
+      "coordinates":[  
+         5.480492,
+         51.437335
+      ],
+      "type":"Point"
+   }
+},
+{  
+   "type":"Feature",
+   "properties":{  
+      "id":"marker-ijo1qpiw0",
+      "title":"Doodle3D",
+      "description":"Bij Doodle3D maken we software waarmee je zelf 3D ontwerper kunt zijn! Je tekent iets in 2D, transformeert het naar 3D en print het vervolgens op je 3D-printer! Simpel, leuk en leerzaam! Probeer het gratis uit op onze website.",
+      "marker-size":"medium",
+      "marker-color":"#f86767",
+      "marker-symbol":"rocket",
+      "website":"http://www.doodle3d.com",
+      "adres":"Europalaan 2, 3526 KS Utrecht, Netherlands"
+   },
+   "geometry":{  
+      "coordinates":[  
+         5.106771,  
+         52.075663
+      ],
+      "type":"Point"
+   }
+}];

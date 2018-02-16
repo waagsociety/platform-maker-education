@@ -1,0 +1,9 @@
+title: Agenda
+pages: default
+files: true
+fields:
+  heroimage: heroimage
+  title: title
+  subtitle: subtitle
+  intro: intro
+  

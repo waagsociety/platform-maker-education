@@ -39,7 +39,7 @@ class File extends FileAbstract {
 
         // replace all missing fields with values from the default content
         foreach($defaultMeta->data as $key => $field) {      
-          if(empty($meta->data[$key]->value)) {
+          if(!isset($meta->data[$key]) || $meta->data[$key]->value == '') {
             $meta->data[$key] = $field;            
           }
         }
@@ -75,7 +75,7 @@ class File extends FileAbstract {
     }
 
     // find and cache the content for this language
-    return new Content($this->page, $this->page->root() . DS . $meta);
+    return new Content($this->page, $this->page->root() . DS . $meta, $lang);
 
   }
 
@@ -89,6 +89,10 @@ class File extends FileAbstract {
 
     $filename = $this->createNewFilename($name, $safeName);
     $root     = $this->dir() . DS . $filename;
+
+    if(empty($name)) {
+      throw new Exception('The filename is missing');
+    }
 
     if($root == $this->root()) return $filename;
 

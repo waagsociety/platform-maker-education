@@ -1,0 +1,15 @@
+title: Voucher
+pages: true
+files: true
+fields:
+  heroimage: heroimage
+  icon: icon
+  iconfit: iconfit
+  title: title
+  videolink: videolink
+  subtitle: subtitle
+  intro: intro
+  text: text
+  layout: layout
+  elementheight: elementheight
+  border: border

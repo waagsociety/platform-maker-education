@@ -1,0 +1,16 @@
+title: Page
+pages: true
+files: true
+fields:
+  heroimage: heroimage
+  title: title
+  videolink: videolink
+  subtitle: subtitle
+  intro: intro
+  text: text
+  geocoordinates: geocoordinates
+  layout: layout
+  elementheight: elementheight
+  maakweekstamp: maakweekstamp
+  voucherform: voucherform
+  border: border

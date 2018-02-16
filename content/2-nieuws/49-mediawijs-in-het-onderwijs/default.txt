@@ -1,0 +1,55 @@
+Heroimage: c1175d505c287b160cd9f132cc3f912e8.jpg
+
+----
+
+Icon: 
+
+----
+
+Title: 'Mediawijs in het onderwijs' over maakonderwijs in Nederland
+
+----
+
+Videolink: 
+
+----
+
+Subtitle: 
+
+----
+
+Intro: De recent verschenen vijfde editie van het digitale magazine 'Mediawijs in het onderwijs' is geheel gewijd aan maakonderwijs in Nederland.
+
+----
+
+Text: 
+
+De recent verschenen vijfde editie van het digitale magazine 'Mediawijs in het onderwijs' is geheel gewijd aan maakonderwijs in Nederland. In de uitgave is ondermeer de recente video (link:http://www.abcmaken.nl text:'ABC van het Maken') opgenomen en de campagne (link:https://abcmaken.nl/watmaakjij text:#watmaakjij). Het bevat ook een serie interviews, met onder andere Arjan van der Meij (docent natuurkunde en maker), Jantien Borsboom (programmamaker van (link:http://www.bibliotheekmb.nl/digilab.html text:Digilab)) en Karien Vermeulen ((link:http://waag.org/nl/lab/creative-learning-lab text:Creative Learning Lab, Waag Society)).
+
+<p><img src="https://makereducation.nl/content/1-nieuws/49-mediawijs-in-het-onderwijs/mediawijsheid-karien-vermeulen.jpg" /></p>
+
+De mooi verzorgde interactieve publicatie is (link:http://magazine.cubiss.nl/nl_NL/3537/56095/cover.html text:gratis online te lezen) en een aanrader voor iedereen die wil weten wat maakonderwijs inhoudt (of dat aan anderen wil uitleggen). 'Mediawijs in het onderwijs' is een uitgave van Cubiss. (link:http://www.cubiss.nl/ text:Cubiss) adviseert en ondersteunt organisaties die zich gesteld zien voor vraagstukken op het gebied van lezen, leren en informeren.
+
+----
+
+Geocoordinates: 
+
+----
+
+Layout: one-col
+
+----
+
+Elementheight: full-height
+
+----
+
+Maakweekstamp: 0
+
+----
+
+Voucherform: 0
+
+----
+
+Border: 

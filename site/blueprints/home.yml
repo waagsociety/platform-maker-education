@@ -1,0 +1,8 @@
+title: Home
+pages:
+  template: block
+fields:
+  heroimage: heroimage
+  title: title
+  subtitle: subtitle
+  videolink: videolink
