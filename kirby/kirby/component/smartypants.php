@@ -17,11 +17,11 @@ use Field;
 class Smartypants extends \Kirby\Component {
 
   /**
-   * Returns the default options for 
+   * Returns the default options for
    * the smartypants parser
-   * 
+   *
    * @return array
-   */  
+   */
   public function defaults() {
     return [
       'smartypants'                            => false,
@@ -48,17 +48,17 @@ class Smartypants extends \Kirby\Component {
       'smartypants.space.thousand'             => '&#160;',
       'smartypants.space.unit'                 => '&#160;',
       'smartypants.guillemet.leftpointing'     => '&#171;',
-      'smartypants.guillemet.rightpointing'    => '&#187;', 
+      'smartypants.guillemet.rightpointing'    => '&#187;',
       'smartypants.geresh'                     => '&#1523;',
       'smartypants.gershayim'                  => '&#1524;',
-      'smartypants.skip'                       => 'pre|code|kbd|script|style|math',          
+      'smartypants.skip'                       => 'pre|code|kbd|script|style|math',
     ];
   }
 
   /**
-   * Initializes the parser and transforms 
-   * the given text. 
-   * 
+   * Initializes the parser and transforms
+   * the given text.
+   *
    * @param string $text
    * @param boolean $force
    * @param Field $text
@@ -72,12 +72,12 @@ class Smartypants extends \Kirby\Component {
 
       // start the parser
       $parser = new SmartyPantsTypographer($this->kirby->options['smartypants.attr']);
-      
+
       // configuration
       $parser->smart_doublequote_open     = $this->kirby->options['smartypants.doublequote.open'];
       $parser->smart_doublequote_close    = $this->kirby->options['smartypants.doublequote.close'];
       $parser->smart_singlequote_open     = $this->kirby->options['smartypants.singlequote.open'];
-      $parser->smart_singlequote_close    = $this->kirby->options['smartypants.singlequote.close'];      
+      $parser->smart_singlequote_close    = $this->kirby->options['smartypants.singlequote.close'];
       $parser->backtick_doublequote_open  = $this->kirby->options['smartypants.backtick.doublequote.open'];
       $parser->backtick_doublequote_close = $this->kirby->options['smartypants.backtick.doublequote.close'];
       $parser->backtick_singlequote_open  = $this->kirby->options['smartypants.backtick.singlequote.open'];
@@ -93,15 +93,15 @@ class Smartypants extends \Kirby\Component {
       $parser->space_marks                = $this->kirby->options['smartypants.space.marks'];
       $parser->space_frenchquote          = $this->kirby->options['smartypants.space.frenchquote'];
       $parser->space_thousand             = $this->kirby->options['smartypants.space.thousand'];
-      $parser->space_unit                 = $this->kirby->options['smartypants.space.unit'];      
+      $parser->space_unit                 = $this->kirby->options['smartypants.space.unit'];
       $parser->doublequote_low            = $this->kirby->options['smartypants.doublequote.low'];
       $parser->guillemet_leftpointing     = $this->kirby->options['smartypants.guillemet.leftpointing'];
       $parser->guillemet_rightpointing    = $this->kirby->options['smartypants.guillemet.rightpointing'];
       $parser->geresh                     = $this->kirby->options['smartypants.geresh'];
       $parser->gershayim                  = $this->kirby->options['smartypants.gershayim'];
       $parser->space                      = $this->kirby->options['smartypants.space'];
-      
-      return $parser->transform($text);      
+
+      return $parser->transform($text);
     } else {
       return $text;
     }

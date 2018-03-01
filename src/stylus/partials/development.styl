@@ -34,55 +34,46 @@
 		z-index 2
 		&:hover
 			background-size 70%
-			.icon
-				transform scale(1.2)
-				opacity 1
 		a
 			color red
 		p
-			opacity .9
-			font-size .875em
+			font-size 1em
 			transition .2s ease-in-out
-			z-index 2
+			padding 0
+		p em
+			color black
 		h1
 			font-size 1.5em
 			margin-bottom .1em
 			transition .2s ease-in-out
 			z-index 2
-		.icon
-			width 40%
-			height 40%
-			left 30%
-			bottom 0
-			position absolute
-			z-index 2
-			background-size contain
-			background-position center bottom
-			background-repeat no-repeat
-			transition transform .25s ease-in-out, opacity .25s ease-in-out
-			transform-origin bottom center
-			opacity .8
 		section
 			height 100%
 			width 100%
 			overflow hidden
-			div
-				padding 20%
+			div.box-content
 				height 100%
 				width 100%
-				background-size cover
 				display flex
 				align-items center
 				background-position center
 				background-repeat no-repeat
 				background-size 100% auto
 				transition .2s ease-in-out
+				background-size contain
 				&:hover
 					transform scale(1.05)
-		section
 			div.cover
 				background-size cover
-
+			div.section-bar
+				div.icon
+					background-repeat no-repeat
+					background-position center
+					background-size contain
+					position absolute
+					height 150%
+					bottom: 0px;
+					width: 100%;
 
 .text
 	width 100%

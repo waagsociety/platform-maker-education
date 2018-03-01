@@ -1,6 +1,6 @@
 label: Image
-type:  selector
-mode:  single
-help: the visible image on the homepage, can be left empty
+type: selector
+mode: single
+help: icon do we still use it
 types:
     - image

@@ -1,16 +1,12 @@
-Icon: _dsc9324-pebble-op-tafel-en-hand.jpg
-
-----
-
 Link: agenda
 
 ----
 
-Title: agenda
+Title: Maakonderwijs
 
 ----
 
-Layout: four-col
+Layout: two-col
 
 ----
 
@@ -18,12 +14,20 @@ Elementheight: half-height
 
 ----
 
-Iconfit: 0
+Imagefit: 0
 
 ----
 
-Caption: 
+Caption: zet *maakonderwijs* op de kaart
 
 ----
 
 Border: 
+
+----
+
+Logo: planet-urf.svg
+
+----
+
+Bgimage: tongue-boy.jpg

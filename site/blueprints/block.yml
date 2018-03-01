@@ -11,8 +11,9 @@ fields:
     label: Caption
     type: text
     help: the visible text on the homepage, can be left empty
-  icon: icon
-  iconfit: iconfit
+  bgimage: image
+  imagefit: imagefit
+  logo: logo
   link:
     label: Link to
     type: select

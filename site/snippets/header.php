@@ -37,32 +37,19 @@
 
 </head>
 <body class="m-scene">
+  <a href="<?php echo url(); ?>">
+    <img src="<?php echo url("assets/images/maker-education-logo.svg"); ?>" style="width:20%" />
+  </a>
   <div id="main">
   <?php snippet('menu') ?>
   <?php if($page->heroimage()->isNotEmpty()): ?>
     <script type="text/javascript">
       document.addEventListener("DOMContentLoaded", function(event) {
-        loop();
+        //loop();
       });
     </script>
 
-  <header id="projectHeader" class="header cf <?php if($page->isHomePage()): ?>half-width left scene_element scene_element--fadein<?php else: ?> scene_element scene_element--fadein scene_element--shrink <?php endif ?>" style="background-image: url(<?php echo url(); ?>/content/<?php echo $page->diruri() ?>/<?php echo html($page->heroimage()) ?>);">
-    <section class="headerSign">
-      <h1><?php echo $page->title()->html() ?></h1>
-      <h2><?php echo $page->subtitle()->html() ?></h2>
-    </section>
 
-    <?php if($page->videolink()->isNotEmpty()): ?>
-      <div class="covervid-wrapper">
-        <video class="covervid-video" poster="<?php echo url(); ?>/content/<?php echo $page->diruri() ?>/<?php echo html($page->heroimage()) ?>"  autoplay loop muted preload>
-            <source src="<?php echo $page->videolink()->text() ?>">
-        </video>
-      </div>
-    <?php endif ?>
-
-    <div id="plane"></div>
-    
-  </header>
 
 
 <?php endif ?>

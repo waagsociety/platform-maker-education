@@ -1,4 +1,5 @@
 <?php snippet('header') ?>
+  <?php snippet('hero') ?>
   <main class="main defaultPage change-color stamp-item">
     <div class="text">
       <?php if($page->maakweekstamp() == "1" && $page->parent()->uid() == "agenda"): ?>

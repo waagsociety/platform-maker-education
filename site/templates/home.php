@@ -1,7 +1,6 @@
 <?php snippet('header') ?>
 
   <main class="main">
-
     <!--
     <a href="#" class="four-col half-height left">
       <section style="background:#aaa;width:100%;height:100%;">
@@ -31,12 +30,14 @@
     <?php endforeach ?>
     <?php snippet('projects') ?>
 
+    <?php snippet('chimp') ?>
+
     <!-- embed juicer -->
-    <section class="two-col left" style="background:#a1a;height:100%;">
+    <!-- <section class="two-col left" style="background:#a1a;height:100%;">
       <script src="//assets.juicer.io/embed.js" type="text/javascript"></script>
       <link href="//assets.juicer.io/embed.css" media="all" rel="stylesheet" type="text/css" />
       <ul class="juicer-feed" data-feed-id="watmaakjij" data-pages="1"></ul>
-    </section>
+    </section> -->
 
 
   </main>

@@ -2,7 +2,6 @@ title: Home
 pages:
   template: block
 fields:
-  heroimage: heroimage
   title: title
+  menu: menu
   subtitle: subtitle
-  videolink: videolink

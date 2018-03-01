@@ -36,7 +36,7 @@ De handen uit de mouwen: daar draait het om tijdens het Teacher Maker Camp. In d
 </p>
 
 <p>
-<img src="https://makereducation.nl/content/1-nieuws/52-leren-door-te-maken/foto-tmc-1-2.jpg"/>
+(image: foto-tmc-1-2.jpg class: medium)
 </p>
 
 <p>

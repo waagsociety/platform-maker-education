@@ -3,9 +3,8 @@
 
 .slide-menu
   position fixed
-  left 30px
-  top 30px
-  min-height 80vh
+  right 30px
+  top 10px
   width 40vw
   background projectColor
   color #fff
@@ -13,11 +12,11 @@
   padding 80px
   z-index 8
   font-size 1.6em
-  transform-origin top left
+  transform-origin top right
   text-align left
   font-family 'brandon-grotesque', sans-serif
   font-weight 700
-  transition transform .2s ease-in-out, opacity .25s ease-in-out
+  transition transform .2s ease-in-out, opacity .01s ease-in-out
   box-shadow 0 4px 8px rgba(0,0,0,.2)
   li
     a
@@ -47,8 +46,8 @@
   transform translateY(0%)
 
 .hamburger-menu
-  top 50px
-  left 50px
+  top 20px
+  right 20px
   z-index 9
   box-sizing border-box
   width 40px
@@ -67,18 +66,14 @@
       position absolute
       height 2px
       width 25px
-      background white
+      background #F8A531
       opacity 1
       left 0
       transform rotate(0deg)
       transition transform .25s ease-in-out, top .25s ease-in-out, left .25s ease-in-out, width .25s ease-in-out, opacity .25s ease-in-out
 
-.hamburger-menu.black
-  .habmburer__inner
-    span
-      background black
 
-.hamburger-menu.black.open
+.hamburger-menu.open
   .habmburer__inner
     span
       background white
