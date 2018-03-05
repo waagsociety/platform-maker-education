@@ -26,54 +26,61 @@
 .main
 	.item
 		color projectColor
-		background #fff
-		background-repeat no-repeat
-		background-size 60%
-		background-position center bottom
-		transition .2s ease-in-out
-		z-index 2
-		&:hover
-			background-size 70%
-		a
-			color red
-		p
-			font-size 1em
-			transition .2s ease-in-out
-			padding 0
-		p em
-			color black
-		h1
-			font-size 1.5em
-			margin-bottom .1em
-			transition .2s ease-in-out
-			z-index 2
 		section
+			position relative
+			padding homePadding
 			height 100%
 			width 100%
 			overflow hidden
-			div.box-content
-				height 100%
-				width 100%
+			div.box
 				display flex
-				align-items center
-				background-position center
-				background-repeat no-repeat
-				background-size 100% auto
-				transition .2s ease-in-out
-				background-size contain
-				&:hover
-					transform scale(1.05)
-			div.cover
-				background-size cover
-			div.section-bar
-				div.icon
-					background-repeat no-repeat
+				flex-direction column
+				div.box-content
+					flex-grow 1
+					height 10%
+					width 100%
+					display flex
+					align-items center
 					background-position center
+					background-repeat no-repeat
+					background-size 100% auto
+					transition .2s ease-in-out
 					background-size contain
-					position absolute
-					height 150%
-					bottom: 0px;
-					width: 100%;
+					&:hover
+						transform scale(1.05)
+				div.cover
+					background-size cover
+				div.section-bar
+					display flex
+					div.text-container
+						width 80%
+						padding 1em
+						p
+							font-size 1.5em
+							transition .2s ease-in-out
+							font-weight 500
+							em
+								color black
+					div.text-container.full-width
+						width 100%
+					div.text-container.empty
+						width 0%
+					div.logo-container
+						flex-grow 1
+						position relative
+						div
+							position absolute
+							width 100%
+							height 100%
+							bottom 0px
+							right 15px
+							background-size contain
+							background-position center
+							background-repeat no-repeat
+						div.funky
+							height 200%
+					div.logo-container.full-width
+						width 100%
 
 .text
 	width 100%
@@ -102,7 +109,7 @@
 	p
 		color #333
 		strong
-			font-family 'brandon-grotesque', sans-serif
+			font-family 'maax', sans-serif
 			font-weight 700
 
 	p:nth-of-type(1)

@@ -11,9 +11,11 @@ fields:
     label: Caption
     type: text
     help: the visible text on the homepage, can be left empty
+    default: ""
   bgimage: image
   imagefit: imagefit
   logo: logo
+  logostyle: logostyle
   link:
     label: Link to
     type: select

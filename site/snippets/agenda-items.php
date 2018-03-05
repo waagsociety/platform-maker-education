@@ -1,20 +1,18 @@
 <?php
-$items = $pages->find('agenda')->children()->visible()->paginate(100);
-
-if(!function_exists("split_title")) {
-  function split_title($t) {
-    $result = ["",""];
-    $parts  = explode("~",$t);
-    if(isset($parts[0])) {
-      $result[0] = $parts[0];
+  $items = $pages->find('agenda')->children()->visible()->paginate(100);
+  if(!function_exists("split_title")) {
+    function split_title($t) {
+      $result = ["",""];
+      $parts  = explode("~",$t);
+      if(isset($parts[0])) {
+        $result[0] = $parts[0];
+      }
+      if(isset($parts[1])) {
+        $result[1] = $parts[1];
+      }
+      return $result;
     }
-    if(isset($parts[1])) {
-      $result[1] = $parts[1];
-    }
-    return $result;
   }
-}
-
 ?>
 
 

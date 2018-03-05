@@ -37,19 +37,14 @@
 
 </head>
 <body class="m-scene">
-  <a href="<?php echo url(); ?>">
-    <img src="<?php echo url("assets/images/maker-education-logo.svg"); ?>" style="width:20%" />
-  </a>
-  <div id="main">
+  <header>
+    <a href="<?php echo url(); ?>">
+      <img class="main-logo" src="<?php echo url("assets/images/maker-education-logo.svg"); ?>" style="width:20%" />
+    </a>
+  </header>
+
   <?php snippet('menu') ?>
   <?php if($page->heroimage()->isNotEmpty()): ?>
-    <script type="text/javascript">
-      document.addEventListener("DOMContentLoaded", function(event) {
-        //loop();
-      });
-    </script>
+  <?php endif ?>
 
-
-
-
-<?php endif ?>
+  

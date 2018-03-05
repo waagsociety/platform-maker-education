@@ -21,12 +21,44 @@
     font-style: normal;
 }
 
+@font-face {
+    font-family: 'maax';
+    src: url('../fonts/MaaxRegular.otf');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'maax';
+    src: url('../fonts/MaaxRegularItalic.otf');
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'maax';
+    src: url('../fonts/MaaxMedium.otf');
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'maax';
+    src: url('../fonts/MaaxBold.otf');
+    font-weight: 700;
+}
+
+/*
+MaaxBold.otf
+MaaxMedium.otf
+MaaxRegular.otf
+MaaxRegularItalic.otf
+*/
+
 html
   font-size 100%
 
 body
-  font-family 'brandon-grotesque', sans-serif;
-  font-weight 200
+  font-family 'maax', sans-serif;
+  font-weight 400
   font-size projectFontSize
   color darkGrey
 
@@ -36,7 +68,7 @@ h3, .gamma,
 h4, .delta,
 h5, .epsilon,
 h6, .zeta
-  font-family 'brandon-grotesque', sans-serif
+  font-family 'maax', sans-serif
   font-weight 700
   text-transform uppercase
   margin 0
@@ -104,4 +136,4 @@ strong
 
 .text
   em
-    font-style italic
+    color projectColor

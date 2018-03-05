@@ -3,11 +3,9 @@
 
   <?php snippet('agenda-map') ?>
 
-  <main class="main defaultPage change-color">
-    <section class="news_section">
-    	<?php snippet('agenda-items') ?>
-    </section>
-  </main>
+  <section class="news_section">
+  	<?php snippet('agenda-items') ?>
+  </section>
 
   <section class="contact black-content">
 	<div class="inner">

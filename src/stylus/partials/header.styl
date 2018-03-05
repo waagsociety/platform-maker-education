@@ -1,3 +1,7 @@
+header
+	width 100%
+	padding homePadding
+
 .header
 	height 99.99vh
 	width 100%
@@ -27,11 +31,6 @@
 			text-transform none
 			font-size 1.3em
 
-.half-width
-	width 50%
-	.headerSign
-		h1
-			font-size 4em
 .header:before
 	content ""
 	top 0
@@ -41,55 +40,3 @@
 	z-index 2
 	position absolute
 	background rgba(11,10,56,.75)
-
-#bristelbot
-	width 14vw
-	position absolute
-	top 5vw
-	right 100px
-	animation move 10s ease-in-out, shake .1s ease-in-out 100
-	animation-fill-mode forwards
-	z-index 4
-	svg
-		fill:none
-		stroke #0000FF
-		stroke-width 4
-		stroke-miterlimit 10
-		width 100%
-		path,
-		ellipse,
-		line
-			stroke white
-
-#plane
-	width 18vw
-	z-index 9
-	height 9vw
-	background url(../images/plane.svg)
-	background-size contain
-	background-repeat no-repeat
-	position absolute
-	bottom 100px
-	left 100px
-	z-index 4
-	svg
-		fill:none
-		stroke #0000FF
-		stroke-width 4
-		stroke-miterlimit 10
-		polyline
-			stroke white
-
-@keyframes pulse
-	0%
-		background-color rgba(#8bacf2,.9)
-	50%
-		background-color rgba(#fc7d7d,.9)
-	100%
-		background-color rgba(#50e3c2,.9)
-
-@keyframes move
-	0%
-		right 0
-	100%
-		right 70%
