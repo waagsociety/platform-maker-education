@@ -1,0 +1,37 @@
+Info: 
+
+----
+
+Title: Voucher
+
+----
+
+Caption: 
+
+----
+
+Bgimage: voucher.svg
+
+----
+
+Imagefit: 1
+
+----
+
+Logo: 
+
+----
+
+Link: 
+
+----
+
+Layout: four-col
+
+----
+
+Elementheight: half-height
+
+----
+
+Border: 

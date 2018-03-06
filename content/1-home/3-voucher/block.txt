@@ -1,0 +1,45 @@
+Bgimage: calendar.svg
+
+----
+
+Layout: four-col
+
+----
+
+Elementheight: half-height
+
+----
+
+Voucherform: 1
+
+----
+
+Imagefit: 1
+
+----
+
+Info: 
+
+----
+
+Caption: Bekijk de maandelijkse *maakagenda*
+
+----
+
+Link: 
+
+----
+
+Title: Agenda
+
+----
+
+Border: 
+
+----
+
+Logo: maker-education-logo.svg
+
+----
+
+Logostyle: normal

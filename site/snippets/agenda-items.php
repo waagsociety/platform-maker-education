@@ -1,5 +1,5 @@
 <?php
-  $items = $pages->find('agenda')->children()->visible()->paginate(100);
+  $items = $pages->find('agenda')->children()->visible();
   if(!function_exists("split_title")) {
     function split_title($t) {
       $result = ["",""];
@@ -16,8 +16,8 @@
 ?>
 
 
-<?php foreach($items as $section): ?>
-  <section class="nieuws-item left stamp-item">
+
+  <section class="nieuws-item left one-col">
 	<span class="border" style="display:block;background:#eee;">
 	<?php if($section->maakweekstamp() == "1"): ?>
 	<h2 class="maakweek-stamp">ABC-MAAKWEEK</h2>
@@ -32,18 +32,3 @@
     <a href="<?php echo $section->url() ?>" class="btn btn-3">Meer informatie</a>
 	</span>
   </section>
-<?php endforeach ?>
-
-<?php if($items->pagination()->hasPages()): ?>
-<nav class="pagination">
-
-  <?php if($items->pagination()->hasNextPage()): ?>
-  <a class="btn btn-3 left" href="<?php echo $items->pagination()->nextPageURL() ?>">Oudere artikelen</a>
-  <?php endif ?>
-
-  <?php if($items->pagination()->hasPrevPage()): ?>
-  <a class="btn btn-3 right" href="<?php echo $items->pagination()->prevPageURL() ?>">Nieuwere artikelen</a>
-  <?php endif ?>
-
-</nav>
-<?php endif ?>

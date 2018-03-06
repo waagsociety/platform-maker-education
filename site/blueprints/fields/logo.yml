@@ -1,0 +1,6 @@
+label: Logo
+type: selector
+mode: single
+help: the logo
+types:
+    - image

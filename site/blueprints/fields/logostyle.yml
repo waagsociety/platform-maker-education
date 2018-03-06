@@ -1,0 +1,7 @@
+label: Logo style
+type: radio
+options:
+  normal: Normal
+  funky: Funky
+default: normal
+help: set whether the logo its containment should be funky

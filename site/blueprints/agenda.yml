@@ -1,9 +1,10 @@
 title: Agenda
-pages: default
+pages:
+  template: agenda-item
 files: true
 fields:
   heroimage: heroimage
   title: title
+  menu: menu
   subtitle: subtitle
   intro: intro
-  

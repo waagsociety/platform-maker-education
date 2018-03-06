@@ -1,0 +1,5 @@
+label: Add to menu
+type: checkbox
+text: add to menu
+default: 0
+help: Add this page in the main menu / hamburger

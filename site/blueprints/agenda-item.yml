@@ -1,0 +1,16 @@
+title: Agenda
+pages: false
+files: true
+fields:
+  heroimage: heroimage
+  title: title
+  subtitle: subtitle
+  date:
+    label: Date
+    type: date
+  intro: intro
+  text: text
+  url:
+    label: URL
+    type: url
+    help: set the external url this item links to, leave empty for link to internal page

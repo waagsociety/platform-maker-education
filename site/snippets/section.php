@@ -2,7 +2,6 @@
   if(!function_exists("section_classes")) {
     function section_classes($s) {
       $names = [
-        "item",
         "left",
         $s->layout(), /* layout field specifying the width in cols */
         $s->elementheight() /* element height field either full or half height */
@@ -33,9 +32,9 @@
 ?>
 
 
-<a href="<?php echo $section->link() ?>" class="<?php echo join(section_classes($section)," ") ?>">
-  <section>
-    <div class="box" style="border:5px solid #F8A531;padding:0px;overflow:hidden;width:100%;height:100%;">
+<a href="<?php echo $section->link() ?>">
+  <section class="<?php echo join(section_classes($section)," ") ?>">
+    <div class="box">
       <!-- empty div with bgimage -->
       <div class="box-content <?php echo ($section->imagefit()->int() == 1 ? "fit" : "cover")?>" style="background-image: url(<?php echo background_url($section) ?>);">
       </div>

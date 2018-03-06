@@ -39,3 +39,7 @@ Voucherform: 0
 ----
 
 Border: 
+
+----
+
+Menu: 1

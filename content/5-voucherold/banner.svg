@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="402" width="802" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text stroke="#000" transform="matrix(2.35921 0 0 3.14166 -445.141 -166.012)" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_1" y="100" x="327.5" stroke-width="0" fill="#000000">KOM NAAR</text>
+  <text stroke="#000" transform="matrix(2.28546 0 0 2.48922 -429.987 -248.56)" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_2" y="189" x="334.5" stroke-width="0" fill="#000000">FABLEARN</text>
+  <text stroke="#000" transform="matrix(2.24341 0 0 2.32993 -439.089 -278.64)" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="12" id="svg_4" y="240.256925" x="348.150992" stroke-width="0" fill="#000000">op vrijdag 28 september</text>
+  <rect stroke="#000" id="svg_5" height="233.99999" width="235.000005" y="79" x="68.5" stroke-width="1.5" fill="#bc2727"/>
+ </g>
+</svg>

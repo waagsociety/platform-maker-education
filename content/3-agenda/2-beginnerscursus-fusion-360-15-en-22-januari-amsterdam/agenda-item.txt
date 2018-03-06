@@ -63,3 +63,7 @@ Voucherform: 0
 ----
 
 Border: 
+
+----
+
+Date: 2018-03-22
