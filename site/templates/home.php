@@ -1,25 +1,39 @@
 <?php snippet('header') ?>
 
   <main class="main home">
+
+    <section class="left two-col half-height tagline">
+      <div class="box" style="border:none;font-size:3em;display:flex;align-items:center;justify-content:center;">
+        <p style="text-align:center;"><em>Maakonderwijs</em> is onwijs gaaf. Op deze website kun je lezen waarom.</p>
+      </div>
+    </section>
+
     <!-- section blocks to "main menu" to pages -->
     <?php foreach($page->children()->visible() as $section): ?>
       <?php snippet('section', array('section' => $section)) ?>
     <?php endforeach ?>
-    <?php snippet('projects') ?>
 
+    <!-- blogs and mailchimp -->
     <div class="one-col middle-bar" style="">
     <?php snippet('blogs') ?>
     <?php snippet('chimp') ?>
     </div>
 
+    <!-- map -->
     <?php snippet('agenda-map') ?>
-
-    <div style="width:100%;padding:0px 20px;">
-      <span class="tab" style="background:#f8a531;height:20px;color:white;">Social media</span>
+    <div style="width:100%;padding:0px 20px;margin-top:20px;">
+      <span class="tab" style="background:#f8a531;color:white;font-size:1em;;line-height:1.25em;padding:.25em;">Social media</span>
     </div>
+
+    <!-- juicer -->
     <script src="//assets.juicer.io/embed.js" type="text/javascript"></script>
     <link href="//assets.juicer.io/embed.css" media="all" rel="stylesheet" type="text/css" />
     <ul class="juicer-feed" style="width:100%;" data-feed-id="watmaakjij" data-pages="1" data-per="5" data-columns="5"></ul>
+
+    <?php snippet('sjaak') ?>
+
+
   </main>
 
+<?php snippet('logobar') ?>
 <?php snippet('footer') ?>

@@ -39,7 +39,7 @@ echo "</script>";
 ?>
 
 <section class="one-col">
-  <span class="tab" style="background:#f8a531;height:20px;color:white;">Zet jezelf op de kaart</span>
+  <span class="tab" style="background:#f8a531;color:white;font-size:1em;;line-height:1.25em;padding:.25em;">Zet jezelf op de kaart</span>
   <div class="box" id="makermap" style="width:100%;height:400px;"></div>
 </section>
 

@@ -1,85 +1,11 @@
-@media only screen and (max-width: 375px) and (-webkit-min-device-pixel-ratio : 2)
-  .three-col
-    width 100%
-  .two-col
-    width 100%
+/* max two col */
+@media only screen and (min-width : 800px) and (max-width : 1200px)
+  .three-col,
+  .two-col,
   .four-col
-    width 100%
-  .header
-    height 75vh
-    .headerSign
-      padding 15px
-      font-size .6em
-  .text
-    padding 15px
-    font-size .875em
-  .slide-menu
-    padding 65px 15px
-    font-size 1.5em
-  .sitemap
-    padding 15px
-  .machine_btn
-    width 40px
-    height 40px
-  .machine_btn svg
-    width 30px
-    height 26px
-    margin 7px 5px
-  .home_btn
-    width 40px
-    height 40px
-    left 40px
-    svg
-      width 15px
-      height 15px
-      margin 12px
+    width 50%
 
-@media only screen and (max-width: 320px)
-  .three-col,
-  .two-col,
-  .four-col,
-  .card-page
-    width 100%
-
-  .grid-view
-    .projectItem
-      width 100%
-
-@media only screen and (max-width: 520px)
-
-  .grid-view
-    .sectionHeader,
-    .projectItem
-      width 100% !important
-
-
-
-@media only screen and (max-width : 736px)
-  .three-col,
-  .two-col,
-  .four-col,
-  .card-page
-    width 100%
-
-  .grid-view
-  .projectItem
-    width 100%
-
-  .news_section
-  .nieuws-item
-    width 100%
-
-@media only screen and (max-width : 736px) and (-webkit-min-device-pixel-ratio : 2)
-  .three-col,
-  .two-col,
-  .four-col,
-  .card-page,
-  .sectionHeader,
-    width 100%
-  .grid-view
-    .projectItem
-      width 100%
-
+/* from here only one col */
 @media only screen and (max-width : 800px)
   .home_btn
     top 9px
@@ -91,6 +17,8 @@
     display none
   .sectionHeader
     padding 20px
+  .ask-sjaak
+    display inline-block
   body
     font-size .875em
   .inspiration_slider li .slider_caption
@@ -123,47 +51,6 @@
     input,
     label
       font-size .875em
-
-  .sectionHeader,
-  .grid-view .projectItem
-    width 50%
-  .news_section
-    .nieuws-item
-      width 100%
-      margin 0
   .main.home
     div.middle-bar
       flex-direction column
-
-@media only screen and (min-width : 750px) and (max-width : 800px)
-  .header
-    height 60vh
-    background-position top center
-
-@media only screen and (min-width: 800px) and (max-width : 1024px)
-  .news_section
-    .nieuws-item
-      width 40%
-  .sectionHeader
-    padding 15px 80px
-
-@media only screen and (min-width : 800px) and (max-width : 1200px)
-  .three-col,
-  .two-col,
-  .four-col,
-  .card-page
-    width 50%
-
-  .grid-view
-    .sectionHeader
-      width 50%
-    .projectItem
-      width 50%
-  .news_section
-    .nieuws-item
-      h1
-        font-size 2em
-
-@media only screen and (min-width : 1200px) and (max-width : 1400px)
-  .sectionHeader
-    padding 40px 30px

@@ -46,5 +46,3 @@
   <?php snippet('menu') ?>
   <?php if($page->heroimage()->isNotEmpty()): ?>
   <?php endif ?>
-
-  

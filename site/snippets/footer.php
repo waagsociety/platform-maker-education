@@ -1,8 +1,7 @@
   	<footer>
-      <p class="left">Contact e-mail: contact@makereducation.nl</p>
-      <p class="right">
-        Made with &hearts; by <a href="http://www.waag.org">Waag Society</a> - Check out the code on <a href="https://github.com/waagsociety/platform-maker-education">github</a>
-      </p>
+      <div class="right">
+        Made with &hearts; by <a href="http://www.waag.org">Waag Society</a>
+      </div>
   	</footer>
     <?php echo js('assets/js/output.min.js') ?>
     <!-- Piwik -->
