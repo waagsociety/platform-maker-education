@@ -6,6 +6,12 @@
     width 50%
 
 /* from here only one col */
+@media only screen and (max-width : 1000px)
+  section.tagline
+    div.box
+      font-size 2em
+
+/* from here only one col */
 @media only screen and (max-width : 800px)
   .home_btn
     top 9px
@@ -54,3 +60,17 @@
   .main.home
     div.middle-bar
       flex-direction column
+  .main.agenda
+    section
+      .box
+        flex-direction column
+        .info-right
+          margin-left 0px
+          flex-direction column-reverse
+          .image
+            height 100px
+            width 100%
+
+@media only screen and (max-width : 400px)
+  section.sjaak
+    flex-direction column-reverse

@@ -1,5 +1,4 @@
 <section class="nieuws-item left one-col">
-
   <div class="box" style="display:flex;padding:15px;">
     <div class="info-left" style="">
       <div style="border:5px solid red;white-space: nowrap;padding:15px;">
@@ -9,13 +8,13 @@
         Eindhoven de Gekste
       </div>
     </div>
-    <div class="info-right" style="flex-grow:1;margin-left:15px;display:flex;">
-      <div style="border:5px solid red;flex-grow:1;">
+    <div class="info-right" style="flex-grow:1;display:flex;border:5px solid red;">
+      <div style="flex-grow:1;">
+        <h2><?php echo $section->title() ?></h2>
         bdasl dabda ladslbadslbdsa adslbadsbladslb<br><br>nbla
         <br><br>nbla
       </div>
-      <div class="image" style="background:red;width:33%;">
-
+      <div class="image" style="background-position:center;background-repeat:no-repeat;background-size:contain;background-image:url(<?php echo $section->heroimage()->blaa(); ?>);">
       </div>
     </div>
   </div>

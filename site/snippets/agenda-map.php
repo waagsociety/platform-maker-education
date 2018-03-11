@@ -38,8 +38,7 @@ echo "var geojson=".json_encode($json); //map expects geojson to be named like t
 echo "</script>";
 ?>
 
-<section class="one-col">
-  <span class="tab" style="background:#f8a531;color:white;font-size:1em;;line-height:1.25em;padding:.25em;">Zet jezelf op de kaart</span>
+<section class="one-col map" style="">
   <div class="box" id="makermap" style="width:100%;height:400px;"></div>
 </section>
 
