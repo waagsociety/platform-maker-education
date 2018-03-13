@@ -3,14 +3,23 @@ pages: false
 files: true
 fields:
   heroimage: heroimage
+  imagefit: imagefit
   title: title
-  subtitle: subtitle
   date:
     label: Date
     type: date
+    required: true
+  customdate:
+    label: Custom date
+    type: text
+    help: your own format string, overrules the date field
+  location:
+    label: Location
+    type:  text
+    help: like Eindhoven, Amsterdam
   intro: intro
   text: text
-  url:
+  link:
     label: URL
     type: url
     help: set the external url this item links to, leave empty for link to internal page

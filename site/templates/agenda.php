@@ -1,10 +1,23 @@
 <?php
-  $items = $pages->find('agenda')->children()->visible()->sortBy('date', 'asc');;
+  $items = $pages->find('agenda')->children()->visible()->sortBy('date', 'desc');;
 ?>
 
 <?php snippet('header') ?>
 
   <main class="main agenda">
+
+    <!-- intro -->
+    <section class="left one-col">
+      <div class="" style="display:flex;padding:15px;">
+        <div class="" style="align-items:center;width:20%;min-width:20%;padding:15px;">
+          <img class="" src="<?php echo url("assets/images/calendar.svg"); ?>" style="width:100%" />
+        </div>
+        <div class="" style="flex-grow:1;width:100%;display:flex;flex-direction:column;margin-left:15px;padding:15px;">
+          <h1 style="font-weight:700;"><?php echo $page->title(); ?></h1>
+          <?php echo $page->intro(); ?>
+        </div>
+      </div>
+    </section>
 
     <!--- news items -->
     <?php foreach($items as $section): ?>

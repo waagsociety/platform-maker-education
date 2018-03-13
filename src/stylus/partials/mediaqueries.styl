@@ -13,16 +13,6 @@
 
 /* from here only one col */
 @media only screen and (max-width : 800px)
-  .home_btn
-    top 9px
-    left 50px
-  .header
-    .headerSign h1
-      font-size 4em
-  .inspiration_slider
-    display none
-  .sectionHeader
-    padding 20px
   .ask-sjaak
     display inline-block
   body
@@ -35,14 +25,6 @@
     width 100%
   .two-col
     width 100%
-  .header
-    height 75vh
-    .headerSign
-      padding 15px
-      font-size .6em
-  .text
-    padding 70px 20px
-    font-size .875em
   .slide-menu
     width 100%
     left 0
@@ -64,12 +46,35 @@
     section
       .box
         flex-direction column
+        .info-left
+          width 100%
+          justify-content space-between
+          display flex
+          .location
+            margin-bottom 15px
+            width auto
+          .date
+            width auto
         .info-right
           margin-left 0px
+
+/* from here only one col */
+@media only screen and (max-width : 600px)
+  .main.agenda
+    section
+      .box
+        .info-right
           flex-direction column-reverse
           .image
             height 100px
             width 100%
+  .main.news
+    section
+      .box
+        flex-direction column-reverse
+        .image
+          height 150px
+          width 100%
 
 @media only screen and (max-width : 400px)
   section.sjaak

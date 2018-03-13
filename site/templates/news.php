@@ -1,8 +1,12 @@
-<?php snippet('header') ?>
-  <main class="main defaultPage color-change">
-    <section class="news_section color-change">
-    	<?php snippet('nieuws-items') ?>
-    </section>
+<?php
+  $items = $pages->find('nieuws')->children()->visible()->sortBy('date', 'asc');;
+?>
 
+<?php snippet('header') ?>
+  <main class="main news">
+    <!--- news items -->
+    <?php foreach($items as $section): ?>
+      <?php snippet('news-item', array('section' => $section)) ?>
+    <?php endforeach ?>
   </main>
 <?php snippet('footer') ?>

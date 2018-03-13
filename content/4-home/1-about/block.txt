@@ -1,0 +1,37 @@
+Info: 
+
+----
+
+Title: About
+
+----
+
+Caption: Zet *maakonderwijs* op de kaart
+
+----
+
+Bgimage: 
+
+----
+
+Imagefit: 0
+
+----
+
+Logo: 
+
+----
+
+Logostyle: normal
+
+----
+
+Link: wat-is-maker-education
+
+----
+
+Layout: two-col
+
+----
+
+Elementheight: half-height

@@ -2,11 +2,13 @@
 
   <main class="main home">
 
+    <!--
     <section class="left two-col half-height tagline">
       <div class="box" style="border:none;display:flex;align-items:center;justify-content:center;">
-        <p style="text-align:center;"><em>Maakonderwijs</em> is onwijs gaaf. Op deze website kun je lezen waarom.</p>
+        <p style="text-align:center;"><em>Makereducation.nl</em> wil technologie van de 21e eeuw een plaats geven in de onderwijsketen en zet maakfestivals en fablabs door het hele land op de kaart.
       </div>
     </section>
+  -->
 
     <!-- section blocks to "main menu" to pages -->
     <?php foreach($page->children()->visible() as $section): ?>
@@ -21,7 +23,7 @@
 
     <!-- map -->
     <?php snippet('sjaak') ?>
-    <?php snippet('agenda-map') ?>
+    <?php snippet('map') ?>
 
     <!-- juicer -->
     <div style="width:100%;padding:0px 20px;margin-top:20px;">

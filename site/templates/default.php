@@ -1,14 +1,18 @@
 <?php snippet('header') ?>
-  <?php snippet('hero') ?>
-  <main class="main defaultPage change-color stamp-item">
-    <div class="text">
-      <?php if($page->maakweekstamp() == "1" && $page->parent()->uid() == "agenda"): ?>
-	  <h2 class="maakweek-stamp">ABC-MAAKWEEK</h2>
-	  <?php endif ?>
-	  <h1 class="">
-		<?php echo $page->title()->html() ?>
-	  </h1>
+  <main class="main news-item">
+    <?php snippet('hero', array("fit" => $page->imagefit()->int())) ?>
+    <section class="content" style="">
+      <h1 style="font-weight:500;"><?php echo $page->title()->html() ?></h1>
+      <div class="info" style="display:flex;margin-bottom:1.5em;">
+        <?php if(!$page->author()->empty()): ?>
+        <div class="author" style="display:table;opacity:0.6;">Door <?php echo $page->author()?></div>
+        <?php endif ?>
+        <?php if(!$page->created()->empty()): ?>
+        <div class="date" style="display:table;border:none;opacity:0.6;"><?php echo $page->created('d-m-Y') ?></div>
+        <?php endif ?>
+      </div>
+      <?php echo $page->intro()->kirbytext() ?>
       <?php echo $page->text()->kirbytext() ?>
-    </div>
+    </section>
   </main>
 <?php snippet('footer') ?>

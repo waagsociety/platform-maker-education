@@ -1,0 +1,45 @@
+Info: 
+
+----
+
+Title: Maker Faire
+
+----
+
+Caption: 28 september 2018
+
+----
+
+Bgimage: hello-robot.jpg
+
+----
+
+Iconfit: 0
+
+----
+
+Link: 
+
+----
+
+Layout: two-col
+
+----
+
+Elementheight: half-height
+
+----
+
+Border: 
+
+----
+
+Imagefit: 0
+
+----
+
+Logo: flnl2018-logo2-8000.png
+
+----
+
+Logostyle: normal

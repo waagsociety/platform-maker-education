@@ -1,6 +1,7 @@
 label: Intro
 type:  textarea
+required: true
 validate:
   min: 4
-  max: 140
-help: short description of the page, used in item overviews
+  max: 200
+help: intro for agenda item and page, used in item overviews and as first paragraph

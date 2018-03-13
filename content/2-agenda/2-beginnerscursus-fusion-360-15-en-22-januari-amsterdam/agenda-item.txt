@@ -1,0 +1,87 @@
+Heroimage: banner.svg
+
+----
+
+Icon: 
+
+----
+
+Title: Beginnerscursus Fusion 360
+
+----
+
+Videolink: 
+
+----
+
+Subtitle: 
+
+----
+
+Intro: Met Fusion 360 kun je 3D modelleren aan voorwerpen of onderdelen die je zelf wil maken met digitale maakmachines.
+
+----
+
+Text: 
+
+Deze cursus bestaat uit 2 lessen:
+- In les 1 verkennen we het programma: welke menu's vind je waar? En maken we een eenvoudige tekening, waarbij je al leert hoe je een overzichtelijke tekening opbouwt, waarin je kan werken met parameters.
+- In les 2 werken we verder aan de opbouw van een tekening, met gebruik van parameters en de 'history'. We maken deze lessen ontwerpen die te exporteren zijn als stl- of dxf-bestand, waarna je dit bestand kan lasersnijden en CNC-frezen of 3D printen.
+
+Kosten voor 2 lessen: 95,00€
+Cursusdata: maandag 15 januari van 19.00-21.30 uur (en maandag 22 januari 2e les)
+Dit CAD-tekenprogramma van Autodesk is gratis.
+
+Basis vaardigheden met een computer zijn vereist voor het volgen van deze cursus. De cursus wordt gegeven in het Nederlands.
+
+Wil je met een aantal docenten samen op cursus, neem dan contact met op met ZB45 Makerspace om een afspraak te maken.
+
+Meer informatie over deze cursus en het aanmeldformulier vindt je via https://zb45.nl/beginnnerscursus_fusion360
+
+----
+
+Geocoordinates: 52.366990, 4.937156
+
+----
+
+Layout: one-col
+
+----
+
+Elementheight: full-height
+
+----
+
+Maakweekstamp: 0
+
+----
+
+Voucherform: 0
+
+----
+
+Border: 
+
+----
+
+Date: 2018-03-22
+
+----
+
+Url: 
+
+----
+
+Location: Blaricum
+
+----
+
+Customdate: Eind 2018
+
+----
+
+Link: 
+
+----
+
+Imagefit: 1

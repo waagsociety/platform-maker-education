@@ -28,18 +28,15 @@
   <meta name="msapplication-TileImage" content="/mstile-144x144.png">
   <meta name="theme-color" content="#ffffff">
 
-  <script src="https://use.typekit.net/qrr5icn.js"></script>
-  <script>try{Typekit.load({ async: true });}catch(e){}</script>
-
-
   <?php echo css('assets/css/main.css') ?>
   <?php echo js('assets/js/main.min.js') ?>
 
 </head>
 <body class="m-scene">
   <header>
-    <a href="<?php echo url(); ?>">
+    <a href="<?php echo url(); ?>" style="display:flex;flex-direction:column;">
       <img class="main-logo" src="<?php echo url("assets/images/maker-education-logo.svg"); ?>" style="width:20%" />
+      <!--<span style="color:black;">Leren door te maken</span>-->
     </a>
   </header>
 

@@ -1,10 +1,17 @@
 <?php
 
-field::$methods['blaa'] = function($field) {
+field::$methods['thumbURL'] = function($field) {
     //thumb
     if(!$field->empty()) {
       return thumb($field->toFile(), array('width' => 300))->url();
-      //return $field->toFile()->url();
+    }
+    return "";
+};
+
+field::$methods['fullURL'] = function($field) {
+    //full image
+    if(!$field->empty()) {
+      return $field->toFile()->url();
     }
     return "";
 };

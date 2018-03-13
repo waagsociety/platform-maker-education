@@ -3,9 +3,16 @@ pages: true
 files: true
 fields:
   heroimage: heroimage
+  imagefit: imagefit
   title: title
-  menu: menu
-  subtitle: subtitle
+  author:
+    label: Author
+    type: text
+    help: Firstname Lastname
+  created:
+    label: Created
+    type: date
+    required: false
   intro: intro
   text: text
   voucherform: voucherform

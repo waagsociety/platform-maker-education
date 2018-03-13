@@ -1,0 +1,37 @@
+Link: agenda
+
+----
+
+Title: Maakonderwijs
+
+----
+
+Layout: two-col
+
+----
+
+Elementheight: half-height
+
+----
+
+Imagefit: 0
+
+----
+
+Caption: *27, 28, 29* september 2018
+
+----
+
+Border: 
+
+----
+
+Logo: logoemfuitkader.png
+
+----
+
+Bgimage: tongue-boy.jpg
+
+----
+
+Logostyle: normal

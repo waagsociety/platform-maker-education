@@ -23,4 +23,3 @@ fields:
     help: set the content items this block links to
   layout: layout
   elementheight: elementheight
-  border: border

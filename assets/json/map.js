@@ -5,7 +5,7 @@ var geojson = [{
     "title":"Kaasfabriek Fablab Alkmaar",
     "description":null,
     "marker-size":"medium",
-    "marker-color":"#f86767",
+    "marker-color":"#f8a531",
     "marker-symbol":"rocket",
     "website":"http://kaasfabriek.nl/",
     "adres":"Pettemerstraat 15, 1823 CW Alkmaar"
@@ -22,7 +22,7 @@ var geojson = [{
     "title":"FabLab Amersfoort",
     "description":null,
     "marker-size":"medium",
-    "marker-color":"#f86767",
+    "marker-color":"#f8a531",
     "marker-symbol":"rocket",
     "website":"http://www.fablabamersfoort.nl",
     "adres":"Kleine Koppel 40, 3812 PH Amersfoort"
@@ -39,7 +39,7 @@ var geojson = [{
     "title":"Fablab Amsterdam, Waag Society",
     "description":null,
     "marker-size":"medium",
-    "marker-color":"#f86767",
+    "marker-color":"#f8a531",
     "marker-symbol":"rocket",
     "website":"http://fablab.waag.org/",
     "adres":"Nieuwmarkt 4, 1012 CR Amsterdam"
@@ -56,7 +56,7 @@ var geojson = [{
     "title":"ZB45 Makerspace, FabLab Truck",
     "description":null,
     "marker-size":"medium",
-    "marker-color":"#f86767",
+    "marker-color":"#f8a531",
     "marker-symbol":"rocket",
     "website":"https://zb45.nl/pme",
     "adres":"Zeeburgerpad 45, 1019 AA Amsterdam"
@@ -73,7 +73,7 @@ var geojson = [{
     "title":"CODA FabLab",
     "description":null,
     "marker-size":"medium",
-    "marker-color":"#f86767",
+    "marker-color":"#f8a531",
     "marker-symbol":"rocket",
     "website":"http://www.coda-apeldoorn.nl/jeugd/fablab/",
     "adres":"Vosselmanstraat 299, 7311 CL Apeldoorn"
@@ -90,7 +90,7 @@ var geojson = [{
     "title":"FabLab Arnhem",
     "description":null,
     "marker-size":"medium",
-    "marker-color":"#f86767",
+    "marker-color":"#f8a531",
     "marker-symbol":"rocket",
     "website":"http://www.fablabarnhem.nl/",
     "adres":"Ruitenberglaan 26, 6926 CC Arnhem"
@@ -107,7 +107,7 @@ var geojson = [{
     "title":"FabLab Bergen op Zoom",
     "description":"De gangbare FabLab-activiteiten: Workshops en demo's in 3D-printen, tekenen en scannen. Daarnaast introductie Arduino en robotica. De workshops zijn op niveau voor primair en secundair onderwijs.",
     "marker-size":"medium",
-    "marker-color":"#f86767",
+    "marker-color":"#f8a531",
     "marker-symbol":"rocket",
     "website":"http://www.fablabbergenopzoom.nl/platform-maker-education-pme",
     "adres":"Drebbelstraat 20, 4622 RC Bergen op Zoom"
@@ -124,7 +124,7 @@ var geojson = [{
     "title":"Makersbuzz",
     "description":null,
     "marker-size":"medium",
-    "marker-color":"#f86767",
+    "marker-color":"#f8a531",
     "marker-symbol":"rocket",
     "website":"http://www.cubiss.nl/actueel/extra-impuls-voor-het-makersonderwijs",
     "adres":"Statenlaan 4, 5042 RX Tilburg"
@@ -141,7 +141,7 @@ var geojson = [{
     "title":"Makersbase",
     "description":null,
     "marker-size":"medium",
-    "marker-color":"#f86767",
+    "marker-color":"#f8a531",
     "marker-symbol":"rocket",
     "website":"http://www.makersbase.nl",
     "adres":"Molenstraat 6, 4811 GS Breda "
@@ -158,7 +158,7 @@ var geojson = [{
     "title":"FabLab Den Haag",
     "description":null,
     "marker-size":"medium",
-    "marker-color":"#f86767",
+    "marker-color":"#f8a531",
     "marker-symbol":"rocket",
     "website":"http://www.fablabdenhaag.nl/",
     "adres":"Saturnusstraat 89, 2516 AG Den Haag"
@@ -175,7 +175,7 @@ var geojson = [{
     "title":"SmartLab Deventer",
     "description":"Het Smartlab is een innovatieve werkplaats voor makers. Dus voor ondernemers, kunstenaars, productontwerpers, modelbouwers, architecten, muzikanten, textielontwerpers, uitvinders, wetenschappers, scholieren, studenten, prof en amateurs. Hier kan je vrijwel alles maken. Sieraden, bijzondere gebruiksvoorwerpen, kunst, prototypes, onderdelen, schaalmodellen, informatieborden en zelfs kleding en elpees.",
     "marker-size":"medium",
-    "marker-color":"#f86767",
+    "marker-color":"#f8a531",
     "marker-symbol":"rocket",
     "website":"http://smartlabdeventer.nl",
     "adres":"Noordzeestraat 3d, 7411 MA Deventer"
@@ -192,8 +192,8 @@ var geojson = [{
     "title":"JeugdFabLab",
     "description":null,
     "marker-size":"medium",
-    "marker-color":"#7dffb8",
-    "marker-symbol":"school",
+    "marker-color":"#f8a531",
+    "marker-symbol":"rocket",
     "website":"http://www.jeugdfablab.nl/",
     "adres":"Basisschool Het Zuiderlicht, Langstraat 48, 8251 JZ Dronten"
   },
@@ -209,7 +209,7 @@ var geojson = [{
     "title":"FabLab Ede",
     "description":null,
     "marker-size":"medium",
-    "marker-color":"#f86767",
+    "marker-color":"#f8a531",
     "marker-symbol":"rocket",
     "website":"http://fablabede.nl/",
     "adres":"Bovenbuurtweg 7, 6717XA Ede"
@@ -226,7 +226,7 @@ var geojson = [{
     "title":"de Maakschappij",
     "description":null,
     "marker-size":"medium",
-    "marker-color":"#f86767",
+    "marker-color":"#f8a531",
     "marker-symbol":"rocket",
     "website":"http://www.de-maakschappij.nl/",
     "adres":"Hobbemaweg 9, 9761HL Eelde"
@@ -243,7 +243,7 @@ var geojson = [{
     "title":"De Factorij",
     "description":null,
     "marker-size":"medium",
-    "marker-color":"#f86767",
+    "marker-color":"#f8a531",
     "marker-symbol":"rocket",
     "website":"http://de-factorij.nl/",
     "adres":"Klokgebouw 151/145, Strijp-S, 5617 AB Eindhoven"
@@ -260,7 +260,7 @@ var geojson = [{
     "title":"FabLab Brainport Eindhoven",
     "description":null,
     "marker-size":"medium",
-    "marker-color":"#f86767",
+    "marker-color":"#f8a531",
     "marker-symbol":"rocket",
     "website":"http://fablabbrainport.nl/",
     "adres":"Frederiklaan 60a, 5616 NJ Eindhoven"
@@ -277,7 +277,7 @@ var geojson = [{
     "title":"MAD emergent art center",
     "description":null,
     "marker-size":"medium",
-    "marker-color":"#f86767",
+    "marker-color":"#f8a531",
     "marker-symbol":"rocket",
     "website":"http://madlab.nl/",
     "adres":"Don Boscostraat 4, 5611 KW Eindhoven"
@@ -294,7 +294,7 @@ var geojson = [{
     "title":"FabLab Enschede",
     "description":null,
     "marker-size":"medium",
-    "marker-color":"#f86767",
+    "marker-color":"#f8a531",
     "marker-symbol":"rocket",
     "website":"http://www.fablabenschede.nl/",
     "adres":"M.H. Tromplaan 28, 7513 AB Enschede"
@@ -311,7 +311,7 @@ var geojson = [{
     "title":"KinderFabLab",
     "description":null,
     "marker-size":"medium",
-    "marker-color":"#f86767",
+    "marker-color":"#f8a531",
     "marker-symbol":"rocket",
     "website":"http://www.kinderfablab.nl/",
     "adres":"Stroinksbleekweg 2, 7523 ZL Enschede"
@@ -328,7 +328,7 @@ var geojson = [{
     "title":"minifablab makerhousehold",
     "description":null,
     "marker-size":"medium",
-    "marker-color":"#f86767",
+    "marker-color":"#f8a531",
     "marker-symbol":"rocket",
     "website":null,
     "adres":"Amelinkhorst 4, 7531 GN Enschede"
@@ -345,7 +345,7 @@ var geojson = [{
     "title":"Wowlab",
     "description":null,
     "marker-size":"medium",
-    "marker-color":"#f86767",
+    "marker-color":"#f8a531",
     "marker-symbol":"rocket",
     "website":"http://www.woutzweers.nl/wowlab/",
     "adres":"Stroinksbleekweg 4a, 7523 ZL Enschede\n"
@@ -362,7 +362,7 @@ var geojson = [{
     "title":"Fablab Groningen",
     "description":null,
     "marker-size":"medium",
-    "marker-color":"#f86767",
+    "marker-color":"#f8a531",
     "marker-symbol":"rocket",
     "website":"http://www.fablabgroningen.nl/platform-maker-education/",
     "adres":"Herestraat 106, 9711 AM Groningen"
@@ -379,7 +379,7 @@ var geojson = [{
     "title":"Maakplek",
     "description":null,
     "marker-size":"medium",
-    "marker-color":"#f86767",
+    "marker-color":"#f8a531",
     "marker-symbol":"rocket",
     "website":"http://maakplek.nl/wiki/doku.php",
     "adres":"Achterweg 1, 9725 BM Groningen"
@@ -396,7 +396,7 @@ var geojson = [{
     "title":"Frysklab Leeuwarden, Fryslan",
     "description":null,
     "marker-size":"medium",
-    "marker-color":"#f86767",
+    "marker-color":"#f8a531",
     "marker-symbol":"rocket",
     "website":"http://www.frysklab.nl/onderwijs/aanbod-platform-maker-education/",
     "adres":"Zuiderkruisweg 4, 8903 JM Leeuwarden"
@@ -413,7 +413,7 @@ var geojson = [{
     "title":"FabLab Leiden",
     "description":null,
     "marker-size":"medium",
-    "marker-color":"#f86767",
+    "marker-color":"#f8a531",
     "marker-symbol":"rocket",
     "website":"http://www.makerspaceleiden.nl/drupal/node/12",
     "adres":"Volmolengracht 13, 2312 PG Leiden (atelier 14)"
@@ -430,7 +430,7 @@ var geojson = [{
     "title":"D'Lab",
     "description":null,
     "marker-size":"medium",
-    "marker-color":"#f86767",
+    "marker-color":"#f8a531",
     "marker-symbol":"rocket",
     "website":null,
     "adres":"Blokhuisplein 40, 8911 LJ Leeuwarden"
@@ -447,7 +447,7 @@ var geojson = [{
     "title":"FabLab Flevoland Dronten, BiblioLab Lelystad",
     "description":null,
     "marker-size":"medium",
-    "marker-color":"#f86767",
+    "marker-color":"#f8a531",
     "marker-symbol":"rocket",
     "website":"http://www.fablabflevoland.nl/",
     "adres":"de Morinel 55, 8251 HT Dronten"
@@ -464,7 +464,7 @@ var geojson = [{
     "title":"FabLab Maastricht",
     "description":null,
     "marker-size":"medium",
-    "marker-color":"#f86767",
+    "marker-color":"#f8a531",
     "marker-symbol":"rocket",
     "website":"http://www.fablabmaastricht.nl/",
     "adres":"Herbenusstraat 89, 6211 RB Maastricht"
@@ -481,7 +481,7 @@ var geojson = [{
     "title":"FabLab Zeeland",
     "description":null,
     "marker-size":"medium",
-    "marker-color":"#f86767",
+    "marker-color":"#f8a531",
     "marker-symbol":"rocket",
     "website":"http://www.dezb.nl/wat-we-doen/fablabzeeland/maakonderwijs.html",
     "adres":"Kousteensedijk 7, 4331 JE Middelburg"
@@ -498,7 +498,7 @@ var geojson = [{
     "title":"Groene Hart",
     "description":null,
     "marker-size":"medium",
-    "marker-color":"#f86767",
+    "marker-color":"#f8a531",
     "marker-symbol":"rocket",
     "website":"http://www.lasersnijdenservice.nl/fablab-groene-hart/aanbod",
     "adres":"Achttienkavels 8, Nieuwkoop, 2421 LG"
@@ -515,7 +515,7 @@ var geojson = [{
     "title":"Techlab Nijmegen\n",
     "description":null,
     "marker-size":"medium",
-    "marker-color":"#f86767",
+    "marker-color":"#f8a531",
     "marker-symbol":"rocket",
     "website":"http://www.techlab-nijmegen.nl/",
     "adres":"Technovium, Heyendaalseweg 98, 6525 EE Nijmegen"
@@ -532,7 +532,7 @@ var geojson = [{
     "title":"FabLab Nijmegen i.o.",
     "description":null,
     "marker-size":"medium",
-    "marker-color":"#f86767",
+    "marker-color":"#f8a531",
     "marker-symbol":"rocket",
     "website":null,
     "adres":"Nijmegen"
@@ -549,7 +549,7 @@ var geojson = [{
     "title":"FabLab NoordBrabant Hertogenbosch",
     "description":null,
     "marker-size":"medium",
-    "marker-color":"#f86767",
+    "marker-color":"#f8a531",
     "marker-symbol":"rocket",
     "website":"http://www.fablabnoordbrabant.nl/",
     "adres":"Almijstraat 10, 5061 PA Oisterwijk"
@@ -566,7 +566,7 @@ var geojson = [{
     "title":"Sparklab i.o.",
     "description":null,
     "marker-size":"medium",
-    "marker-color":"#f86767",
+    "marker-color":"#f8a531",
     "marker-symbol":"rocket",
     "website":"http://www.sparkcampus.nl/vouchers-platform-maker-education-pme-inwisselbaar-bij-spark-lab/",
     "adres":"Graafsebaan 3, 5248JR Rosmalen "
@@ -583,7 +583,7 @@ var geojson = [{
     "title":"Stadslab Rotterdam",
     "description":null,
     "marker-size":"medium",
-    "marker-color":"#f86767",
+    "marker-color":"#f8a531",
     "marker-symbol":"rocket",
     "website":"http://stadslabrotterdam.nl/",
     "adres":"Wijnhaven 101, 3011 WN Rotterdam, lokaal WN.0.0023."
@@ -600,7 +600,7 @@ var geojson = [{
     "title":"Stichting HET LAB Rotterdam",
     "description":"Bij HET LAB richten we ons voornamelijk op kinderen van 9-14 jaar. Zij leren bij ons door gewoon te gaan doen, door te maken. We hebben LEGO Mindstorms voor ze, 3D-printers, een lasersnijder en nog veel meer. Op zondagen hebben we 20 kinderen in de Super Sunday Science School. ",
     "marker-size":"medium",
-    "marker-color":"#f86767",
+    "marker-color":"#f8a531",
     "marker-symbol":"rocket",
     "website":"http://hetlabrotterdam.nl/2016/02/10/platform-maker-education/",
     "adres":"Beukelsdijk 91a, 3021 AE Rotterdam"
@@ -617,7 +617,7 @@ var geojson = [{
     "title":"RDM Makerspace",
     "description":null,
     "marker-size":"medium",
-    "marker-color":"#f86767",
+    "marker-color":"#f8a531",
     "marker-symbol":"rocket",
     "website":"http://www.rdmmakerspace.nl/",
     "adres":"Scheepsbouwweg 8 - K03, 3089 JW Rotterdam"
@@ -634,7 +634,7 @@ var geojson = [{
     "title":"Bouwkeet i.o.",
     "description":null,
     "marker-size":"medium",
-    "marker-color":"#f86767",
+    "marker-color":"#f8a531",
     "marker-symbol":"rocket",
     "website":"http://www.bouwkeet.org",
     "adres":"Schiedamseweg 240-248, 3025 AP Rotterdam"
@@ -651,7 +651,7 @@ var geojson = [{
     "title":"FabLab013XL",
     "description":null,
     "marker-size":"medium",
-    "marker-color":"#f86767",
+    "marker-color":"#f8a531",
     "marker-symbol":"rocket",
     "website":"http://fablab013.nl/blog/platform-maker-educatie-pme-voucher-voor-scholen/",
     "adres":"Galjoenstraat 37, 5017 CL Tilburg"
@@ -668,7 +668,7 @@ var geojson = [{
     "title":"ICER-lab Ulft",
     "description":null,
     "marker-size":"medium",
-    "marker-color":"#f86767",
+    "marker-color":"#f8a531",
     "marker-symbol":"rocket",
     "website":"https://www.icer.nl/",
     "adres":"Hutteweg 24, 7071 BV Ulft"
@@ -685,7 +685,7 @@ var geojson = [{
     "title":"miniFabLab Utrecht",
     "description":null,
     "marker-size":"medium",
-    "marker-color":"#f86767",
+    "marker-color":"#f8a531",
     "marker-symbol":"rocket",
     "website":"http://www.minifablab.nl/",
     "adres":"Nobeldwarsstraat 33, 3512 EW Utrecht"
@@ -702,7 +702,7 @@ var geojson = [{
     "title":"Protospace",
     "description":null,
     "marker-size":"medium",
-    "marker-color":"#f86767",
+    "marker-color":"#f8a531",
     "marker-symbol":"rocket",
     "website":"http://www.protospace.nl/",
     "adres":"Nijverheidsweg 16B, 3534 AM Utrecht\n\n"
@@ -719,7 +719,7 @@ var geojson = [{
     "title":"Rotslab",
     "description":null,
     "marker-size":"medium",
-    "marker-color":"#f86767",
+    "marker-color":"#f8a531",
     "marker-symbol":"rocket",
     "website":"http://www.rotslab.nl/",
     "adres":"Heuveloord 140, 3523 CK Utrecht"
@@ -736,7 +736,7 @@ var geojson = [{
     "title":"FabLab Veenendaal",
     "description":null,
     "marker-size":"medium",
-    "marker-color":"#f86767",
+    "marker-color":"#f8a531",
     "marker-symbol":"rocket",
     "website":"http://www.bibliotheekveenendaal.nl/educatie/fablab-veenendaal.html",
     "adres":"Kees Stipplein 74, 3901 TP Veenendaal"
@@ -753,7 +753,7 @@ var geojson = [{
     "title":"FabLab Wageningen",
     "description":null,
     "marker-size":"medium",
-    "marker-color":"#f86767",
+    "marker-color":"#f8a531",
     "marker-symbol":"rocket",
     "website":"http://www.fablabwag.nl/vouchers-voor-onderwijs-te-gebruiken-in-het-fablab-wageningen",
     "adres":"Triton, campus WUR gebouw 119, Vijfde Polderweg 1, 6708 WC Wageningen"
@@ -770,7 +770,7 @@ var geojson = [{
     "title":"Fablab Zoetermeer",
     "description":null,
     "marker-size":"medium",
-    "marker-color":"#f86767",
+    "marker-color":"#f8a531",
     "marker-symbol":"rocket",
     "website":"http://www.fablab-zoetermeer.nl/pme",
     "adres":"Stadhuisplein 2, 2711 EC Zoetermeer"
@@ -787,7 +787,7 @@ var geojson = [{
     "title":"Digital Art Lab",
     "description":null,
     "marker-size":"medium",
-    "marker-color":"#f86767",
+    "marker-color":"#f8a531",
     "marker-symbol":"rocket",
     "website":"http://www.digitalartlab.nl/over-het-lab",
     "adres":"Leidsewallen 80, 2722 PC Zoetermeer"
@@ -804,7 +804,7 @@ var geojson = [{
     "title":"FabLab R10 Zwolle",
     "description":null,
     "marker-size":"medium",
-    "marker-color":"#f86767",
+    "marker-color":"#f8a531",
     "marker-symbol":"rocket",
     "website":"http://fablabzwolle.nl/",
     "adres":"Rieteweg 10, 8041 AK Zwolle"
@@ -821,8 +821,8 @@ var geojson = [{
     "title":"Designathon Works",
     "description":"Designathon Works is een methode voor scholen, die kinderen speels en uitdagend kennis laat maken met techniek in het onderwijs volgens het ontwerpend leren. Een designathon is een project rondom een thema waarin kinderen ontwerpend aan de slag gaan. Ze verzinnen en maken, waarna ze hun zelf bedachte oplossingen rondom het thema presenteren. Een designathon duurt minimaal 4 uur... maar kan ook uitgespreid worden over 6 of 8 uur. De Designathon Works streeft ernaar om real world thema's te behandelen. Dit stimuleert kinderen om de wereld te verbeteren. Thema's waar je uit kunt kiezen zijn: Afval, Eten, Mobiliteit, Kringloopstad, Fietsen, Tijdreizen en Overwinnen.",
     "marker-size":"medium",
-    "marker-color":"#69d2f7",
-    "marker-symbol":"hairdresser",
+    "marker-color":"#f8a531",
+    "marker-symbol":"rocket",
     "website":"http://www.designathonschool.com/maker-education/",
     "adres":"Plantage Middenlaan 62, 1018 DH Amsterdam"
   },
@@ -838,8 +838,8 @@ var geojson = [{
     "title":"MakerSchool X11",
     "description":null,
     "marker-size":"medium",
-    "marker-color":"#7dffb8",
-    "marker-symbol":"school",
+    "marker-color":"#f8a531",
+    "marker-symbol":"rocket",
     "website":"http://makerschool.rotslab.nl/?p=386",
     "adres":"Notebomenlaan 400, 3582 CN Utrecht"
   },
@@ -855,7 +855,7 @@ var geojson = [{
     "title":"Tech Werkplaats Mariendael",
     "description":"In onze TECH werkplaats werken jongeren van basisschool en middelbare school aan techniek projecten en robots, maken onderdelen waarbij ze gebruik maken van de modernste technieken. Daarnaast nemen ze deel aan diverse Robotwedstrijden.",
     "marker-size":"medium",
-    "marker-color":"#f86767",
+    "marker-color":"#f8a531",
     "marker-symbol":"rocket",
     "website":"info@mariendael.nu",
     "adres":"Cultureel Centrum Mariendael, Laan van Henkenshage 2, 5492 BH Sint-Oedenrode"
@@ -872,8 +872,8 @@ var geojson = [{
     "title":"xoTa",
     "description":"Programmeren om te leren. Het omzetten van je verbeelding in digitaal artefact is inspirerend en leerzaam. En als je iets maakt dat met de buitenwereld moet interacteren komt daar vaak programmeren bij kijken. Xota heeft eigen atelier en kan naar je toe komen om pracht en kracht van code toegankelijk en duurzaam uit te leggen.\n",
     "marker-size":"medium",
-    "marker-color":"#69d2f7",
-    "marker-symbol":"hairdresser",
+    "marker-color":"#f8a531",
+    "marker-symbol":"rocket",
     "website":"http://xota.nl",
     "adres":"Haparandaweg 67-B5, 1013 BD Amsterdam"
   },
@@ -889,8 +889,8 @@ var geojson = [{
     "title":"iQMaak",
     "description":"iQMaak ondersteunt en adviseert (basis)scholen op het gebied van maak- en programmeeronderwijs.",
     "marker-size":"medium",
-    "marker-color":"#69d2f7",
-    "marker-symbol":"hairdresser",
+    "marker-color":"#f8a531",
+    "marker-symbol":"rocket",
     "website":"http://www.iqmaak.nl/index.php/programmeeronderwijs#pme",
     "adres":"Tjoenerstraat 46, 7416XN Deventer"
   },
@@ -906,8 +906,8 @@ var geojson = [{
     "title":"studio knippen en plakken",
     "description":"onderwijzer freubelaar techneut. Ik maak lessen voor het middelbaar onderwijs. Profielwerkstukken en projecten voor het vak ckv, maak onderwijs, kunst educatie, media wijsheid. Met een achtergrond in het onderwijs, mediamatic, grafische vormgeving, techniek.",
     "marker-size":"medium",
-    "marker-color":"#69d2f7",
-    "marker-symbol":"hairdresser",
+    "marker-color":"#f8a531",
+    "marker-symbol":"rocket",
     "website":"http://studioknippenenplakken.comyr.com/portfolio.html",
     "adres":"albertluthulistr 22-c, 1091 NV Amsterdam"
   },
@@ -923,7 +923,7 @@ var geojson = [{
     "title":"TextielMuseum",
     "description":"Doe ervaring op met Zuid-Amerikaanse weeftechnieken, het verven met natuurlijke verfstoffen, weven op een weefgetouw of het verwerken van bijzondere koorden en banden tot een ornament onder leiding van experts en ontwerpers. De technieken worden op een simpele manier uitgelegd, er wordt geoefend en aan het eind van de dag ga je met proeven en instructiemateriaal naar huis. De masterclasses zijn een opstapje om zelf aan de slag te kunnen met de technieken. Basis textielkennis is gewenst maar niet perse noodzakelijk.\n",
     "marker-size":"medium",
-    "marker-color":"#f86767",
+    "marker-color":"#f8a531",
     "marker-symbol":"rocket",
     "website":"http://www.textielmuseum.nl/nl/",
     "adres":"Goirkestraat 96, 5004 JG, Tilburg"
@@ -940,7 +940,7 @@ var geojson = [{
     "title":"TkkrLab",
     "description":"Ga zelf aan de slag en leer meer over Arduino, 3D printer, laser cutter, programmeren, ethical hacking, privacy en meer. We zijn elke dinsdagavond vanaf 19:00 open.",
     "marker-size":"medium",
-    "marker-color":"#f86767",
+    "marker-color":"#f8a531",
     "marker-symbol":"rocket",
     "website":"https://tkkrlab.nl",
     "adres":"Hengelosestraat 525, 7521 AG Enschede"
@@ -957,8 +957,8 @@ var geojson = [{
     "title":"Stenden hogeschool - Pabo Emmen",
     "description":"Pabo Emmen van Stenden hogeschool draagt met het curriculum STEAM bij aan makereducation. Vanuit de inhoudsgebieden van STEAM worden studenten, en door hen de kinderen in het basisonderwijs, gestimuleerd om ontdekkend en ontwerpend te leren.",
     "marker-size":"medium",
-    "marker-color":"#7dffb8",
-    "marker-symbol":"school",
+    "marker-color":"#f8a531",
+    "marker-symbol":"rocket",
     "website":"https://stenden.com",
     "adres":"Van Schaikweg 94, 7811 KL Emmen"
   },
@@ -974,8 +974,8 @@ var geojson = [{
     "title":"Stenden hogeschool - Pabo Emmen",
     "description":"Workshops Maker Education voor alle professionals die met kinderen werken in de leeftijd van 3 tot 14 jaar",
     "marker-size":"medium",
-    "marker-color":"#69d2f7",
-    "marker-symbol":"hairdresser",
+    "marker-color":"#f8a531",
+    "marker-symbol":"rocket",
     "website":"https://stenden.com",
     "adres":"Van Schaikweg 94, 7811 KL Emmen"
   },
@@ -991,7 +991,7 @@ var geojson = [{
     "title":"Suguclub",
     "description":"SuGu EDU ontwikkelt educatieve programmas rondom de derde industrieele revolutie. De derde industrieele revolutie heeft specifieke, vernieuwende kenmerken, waaronder gerichtheid op een circulaire, digitale en biologische economie. In deze nieuwe werkelijkheid worden het kunnen programmeren van een robot en het kunnen printen van een reserveonderdeel steeds belangrijkere vaardigheden. SuGU EDU levert een gedifferentieerd aanbod door lesmodules en workshops te ontwikkelen voor verschillende doelgroepen en opleidingen: van basisonderwijs, middelbaar (beroeps-)onderwijs, hoger onderwijs tot bedrijfstrainingen.",
     "marker-size":"medium",
-    "marker-color":"#f86767",
+    "marker-color":"#f8a531",
     "marker-symbol":"rocket",
     "website":"http://www.suguclub.com",
     "adres":"Galileistraat 15, 3029 AL Rotterdam"
@@ -1008,7 +1008,7 @@ var geojson = [{
     "title":"Bibliotheek Hoogezand",
     "description":"Het eLAB is een plek in de bibliotheek waar mediawijsheid, leesbevordering en 21st Century Skills samenkomen. Naast de fysieke plek in de Bibliotheek gaan we een doorgaande leerlijn ontwikkelen voor de basisscholen waar het maken en programmeren centraal staan. Met het eLAB kunnen we kinderen een betekenisvolle en contextrijke omgeving aanbieden zowel in de Bibliotheek als op school.",
     "marker-size":"medium",
-    "marker-color":"#f86767",
+    "marker-color":"#f8a531",
     "marker-symbol":"rocket",
     "website":"https://biblionetgroningen.nl/bibliotheek/hoogezand/99",
     "adres":"Gorecht Oost 157, 9603 AE Hoogezand"
@@ -1025,7 +1025,7 @@ var geojson = [{
     "title":"Digilab",
     "description":"Het Digilab in de Bibliotheek Midden-Brabant is een plek waar jong en oud kan komen experimenteren met nieuwe technieken en nieuwe media. Kom een robot ontwerpen, zet de virtual realitybril op en waan je in een andere wereld of maak een eigen ontwerp op de 3d printer! Speciaal voor groep 8 van de basisschool is er nu ook de Digilab excursie: Kom met je klas naar het Digilab en maak aan de hand van een leuke opdracht kennis met de apparaten in het Digilab. Tot ziens in het Digilab!",
     "marker-size":"medium",
-    "marker-color":"#f86767",
+    "marker-color":"#f8a531",
     "marker-symbol":"rocket",
     "website":"http://www.bibliotheekmb.nl/digilab.html",
     "adres":"Koningsplein 10, 5038 WG, Tilburg"
@@ -1042,7 +1042,7 @@ var geojson = [{
     "title":"Lay3rs 3dprinting",
     "description":"Wij hebben een showroom vol met 3dprinters die de hele dag niets liever doen dan printen! Ook geven wij workshops en zijn we gespecialiseerd met prachtige lespakketten voor het onderwijs.",
     "marker-size":"medium",
-    "marker-color":"#f86767",
+    "marker-color":"#f8a531",
     "marker-symbol":"rocket",
     "website":"http://www.lay3rs.nl",
     "adres":"Grote Berg 60, 5611 KL Eindhoven"
@@ -1059,8 +1059,8 @@ var geojson = [{
     "title":"3Dkanjers",
     "description":"3Dkanjers is een vernieuwend initiatief voor het primair, speciaal en voortgezet onderwijs. Met de 3Dkanjers Experience stimuleren wij talentontwikkeling en aandacht voor wetenschap en techniek met behulp van de 3D-printer. Dit doen wij door het faciliteren van de 3Dkanjers Experience, het geven van 3D introductie workshops voor leerlingen en/of lerarenteams op school.",
     "marker-size":"medium",
-    "marker-color":"#69d2f7",
-    "marker-symbol":"hairdresser",
+    "marker-color":"#f8a531",
+    "marker-symbol":"rocket",
     "website":"http://3dkanjers.nl",
     "adres":"Beukenlaan 43, 1231 BW Loosdrecht"
   },
@@ -1076,7 +1076,7 @@ var geojson = [{
     "title":"WALHALLAb de Kruittoren",
     "description":"WALHALLAb de Kruittoren in Zutphen, is een supercoole Makerspace! In de 700 jaar oude Kruittoren en de 1400m2 grote MaakPlaats, ontwikkel jij jouw talent voor design, kunst, techniek, innovatie en architectuur. Alle leeftijden, alle achtergronden. Veel leerlingen van WALHALLAb zijn bekend geworden door hun succesvolle projecten en bijzondere opdrachtgevers. Hoewel WALHALLAb de Kruittoren geen school is, werkt ze wel nauw samen met scholen, ROC's en Academies. Ook leer je bij ons ondernemend worden. Jaarlijks doen ruim 2000 scholieren mee aan onze buitenschoolse en gave projecten. Zien we jou straks ook in Zutphen?! Bel voor directe info: 06-13964067",
     "marker-size":"medium",
-    "marker-color":"#f86767",
+    "marker-color":"#f8a531",
     "marker-symbol":"rocket",
     "website":"https://twitter.com/dekruittoren",
     "adres":"Kruittoren 1, 7201 NZ Zutphen"
@@ -1093,7 +1093,7 @@ var geojson = [{
     "title":"FabLab Houten",
     "description":"Groepsbezoeken voor kinderen vanaf groep 3 basisschool tot en met onderbouw voortgezet onderwijs. Workshops voor leerkrachten basisonderwijs en voortgezet onderwijs. Workshops 3D-printen, programmeren, lasersnijden voor groepen kinderen en voor groepen volwassenen.",
     "marker-size":"medium",
-    "marker-color":"#f86767",
+    "marker-color":"#f8a531",
     "marker-symbol":"rocket",
     "website":"http://www.bibliotheeklekijssel.nl/toegelicht/producten-en-diensten/fablab.html",
     "adres":"Onderdoor 158, 3995 DX Houten"
@@ -1110,7 +1110,7 @@ var geojson = [{
     "title":"ZwolleLab",
     "description":"Of je nu beginner bent of al gevorderd, als particulier aan de slag wilt of misschien vanuit een bedrijf of school; je kunt bij ons terecht! ZwolleLab is een samenwerking tussen Kleinkunstig, de Creatieve Cooperatie en Stadkamer Zwolle. Samen bieden we een uniek aanbod op het gebied van 3D printen. Je kunt bij ons terecht voor printopdrachten, werkplaatsuren, productpresentatie en leuke workshops. Wij hebben 3D-printers, 3D-scanners en '3D Printer Pennen' aanwezig op locatie.Graag leren wij je alles hierover!",
     "marker-size":"medium",
-    "marker-color":"#f86767",
+    "marker-color":"#f8a531",
     "marker-symbol":"rocket",
     "website":"http://www.zwollelab.nl",
     "adres":"Esdoornstraat 3, 8021 WB Zwolle"
@@ -1127,7 +1127,7 @@ var geojson = [{
     "title":"SpeelLab",
     "description":"Tijdens het SpeelLab leren kinderen een verbinding te leggen tussen kunst en techniek. Ben jij creatief en houd je van experimenteren? Kom dan naar het SpeelLab! Of laat het SpeelLab naar jouw school of bibliotheek toekomen. Het SpeelLab is een fantastische manier om kennis te maken met 3D printen. Bij het SpeelLab staat niet de techniek centraal, maar het spelen met techniek. Je kunt ontwerpen maken voor de 3D Printer, met 3D printerpennen kun je direct iets maken, programmeren, designen, en spelen met Plokko's (3d geprint speelgoed). Kom maar kijken!",
     "marker-size":"medium",
-    "marker-color":"#f86767",
+    "marker-color":"#f8a531",
     "marker-symbol":"rocket",
     "website":"http://www.speellab.nl",
     "adres":"Esdoornstraat 3, 8021 WB Zwolle"
@@ -1144,8 +1144,8 @@ var geojson = [{
     "title":"Speellab door Kleinkunstig & Grote Broer",
     "description":"Tijdens het Speellab maken kinderen kennis met verschillende 3D print technieken. Ze leren objecten te ontwerpen, produceren en toe te passen. Speellab slaat een brug tussen kunst en techniek.",
     "marker-size":"medium",
-    "marker-color":"#69d2f7",
-    "marker-symbol":"hairdresser",
+    "marker-color":"#f8a531",
+    "marker-symbol":"rocket",
     "website":"http://www.speellab.nl",
     "adres":"Esdoornstraat 3, 8021 WB Zwolle"
   },
@@ -1161,7 +1161,7 @@ var geojson = [{
     "title":"Techniekbieb",
     "description":"Techniekbieb biedt een uitleen van materialen en creatieve workshops op gebied van techniek en technologie. Kinderen kunnen tools van nu ontdekken, maar ook werken met gereedschappen die zich al lang bewezen hebben. Bouw en programmeer je eigen robot of maak je eigen wearable.",
     "marker-size":"medium",
-    "marker-color":"#f86767",
+    "marker-color":"#f8a531",
     "marker-symbol":"rocket",
     "website":"http://techniekbieb.nl",
     "adres":"Nachtegaallaan 48, 5691 VC Son"
@@ -1178,8 +1178,8 @@ var geojson = [{
     "title":"Hogeschool De Kempel",
     "description":"Hogeschool De Kempel organiseert in samenwerking met het Teclab in Eindhoven een maak-tweedaagse voor leerkrachten basisonderwijs. Tijdens deze twee dagen worden de leerkrachten ondergedompeld in het maak-onderwijs en gaan ze daadwerkelijk zelf aan de slag met ontwerpend leren.",
     "marker-size":"medium",
-    "marker-color":"#7dffb8",
-    "marker-symbol":"school",
+    "marker-color":"#f8a531",
+    "marker-symbol":"rocket",
     "website":"http://www.kempel.nl/Paginas/home.aspx",
     "adres":"Deurneseweg 11, 5709AH, Helmond"
   },
@@ -1195,8 +1195,8 @@ var geojson = [{
     "title":"SALTO school De Driesprong",
     "description":"In voorjaar 2016 opent De Driesprong haar Techniek & ICT Hub. Binnen deze Hub zullen lessen gegeven worden op het gebied van robotica, programmeren, green screen, stop motion, 3D printen, etc.",
     "marker-size":"medium",
-    "marker-color":"#7dffb8",
-    "marker-symbol":"school",
+    "marker-color":"#f8a531",
+    "marker-symbol":"rocket",
     "website":"http://www.bs-dedriesprong.nl/nl/home",
     "adres":"Tafelbergplein 8, 5642 Eindhoven"
   },
@@ -1212,8 +1212,8 @@ var geojson = [{
     "title":"TETEM kunstruimte",
     "description":null,
     "marker-size":"medium",
-    "marker-color":"#69d2f7",
-    "marker-symbol":"hairdresser",
+    "marker-color":"#f8a531",
+    "marker-symbol":"rocket",
     "website":"http://www.tetem.nl",
     "adres":"Stroinksbleekweg 16, 7523 ZL Enschede"
   },
@@ -1229,8 +1229,8 @@ var geojson = [{
     "title":"Laurens Korste",
     "description":"Met eenvoudige middelen leuke dingen maken en achteraf ontdekken dat je veel geleerd hebt! Knippend, timmerend en programmerend bewegende (en sprekende) interactieve objecten maken! Workshops en leerlijn Scratch, Crumble controller, Picaxe, Arduino. Scholen / BSO / feestjes",
     "marker-size":"medium",
-    "marker-color":"#69d2f7",
-    "marker-symbol":"hairdresser",
+    "marker-color":"#f8a531",
+    "marker-symbol":"rocket",
     "website":"http://www.boktorrobotica.nl",
     "adres":"Alinghoek 13B, 9533 PD Drouwen"
   },
@@ -1246,8 +1246,8 @@ var geojson = [{
     "title":"Maker Academy",
     "description":"Maker Academy maakt 3D educatie mogelijk voor docenten en hun school, waarbij onderzoekende en ontwerpende vaardigheden worden versterkt. Leerlingen ontwikkelen de vaardigheden en het denkproces van 3D bestand tot 3D geprint object. ",
     "marker-size":"medium",
-    "marker-color":"#69d2f7",
-    "marker-symbol":"hairdresser",
+    "marker-color":"#f8a531",
+    "marker-symbol":"rocket",
     "website":"http://www.makeracademy.nl",
     "adres":"Kloosterweg 1, 6412 CN Heerlen"
   },
@@ -1263,8 +1263,8 @@ var geojson = [{
     "title":"Maker Festival Twente en Play & Learn dagen",
     "description":"Het Maker Festival Twente is een festival over het nut en plezier van zelf dingen bedenken en maken. Tijdens de Play & Learn dagen maken leerlingen kennis met techniek, innovatie en het maken d.m.v. diverse workshops, gegeven door bedrijven, techneuten en andere makers.",
     "marker-size":"medium",
-    "marker-color":"#69d2f7",
-    "marker-symbol":"hairdresser",
+    "marker-color":"#f8a531",
+    "marker-symbol":"rocket",
     "website":"http://makerfestivaltwente.nl/nl/",
     "adres":"Almelo"
   },
@@ -1280,8 +1280,8 @@ var geojson = [{
     "title":"Maker Festival Twente en Play & Learn dagen",
     "description":"Het Maker Festival Twente is een festival over het nut en plezier van zelf dingen bedenken en maken. Tijdens de Play & Learn dagen maken leerlingen kennis met techniek, innovatie en het maken d.m.v. diverse workshops, gegeven door bedrijven, techneuten en andere makers.",
     "marker-size":"medium",
-    "marker-color":"#69d2f7",
-    "marker-symbol":"hairdresser",
+    "marker-color":"#f8a531",
+    "marker-symbol":"rocket",
     "website":"http://makerfestivaltwente.nl/nl/",
     "adres":"Hengelo"
   },
@@ -1297,8 +1297,8 @@ var geojson = [{
     "title":"Maker Festival Twente en Play & Learn dagen",
     "description":"Het Maker Festival Twente is een festival over het nut en plezier van zelf dingen bedenken en maken. Tijdens de Play & Learn dagen maken leerlingen kennis met techniek, innovatie en het maken d.m.v. diverse workshops, gegeven door bedrijven, techneuten en andere makers.",
     "marker-size":"medium",
-    "marker-color":"#69d2f7",
-    "marker-symbol":"hairdresser",
+    "marker-color":"#f8a531",
+    "marker-symbol":"rocket",
     "website":"http://makerfestivaltwente.nl/nl/",
     "adres":"Enschede"
   },
@@ -1314,8 +1314,8 @@ var geojson = [{
     "title":"Stichting Safarana",
     "description":"Stichting Safarana heeft afgelopen jaren deelgenomen aan Maker Faire's met inventieve DIY projecten. Berto Aussems en Dymph Korse ontwerpen duurzame, kleinschalige en creatieve oplossingen voor alledaagse problemen. Wij publiceren op onze website en o.a. Instructables.",
     "marker-size":"medium",
-    "marker-color":"#69d2f7",
-    "marker-symbol":"hairdresser",
+    "marker-color":"#f8a531",
+    "marker-symbol":"rocket",
     "website":"http://www.safarana.com/Safarana/Home.html",
     "adres":"Carl Smulderssingel 42, 6217 GD Maastricht"
   },
@@ -1331,8 +1331,8 @@ var geojson = [{
     "title":"De Populier",
     "description":"De leerlingen op de Populier zijn al jaren aan het maken, binnen en buiten het curriculum. De FABklas, de Meesterproef in NLT, maken bij natuurkunde, geschiedenis godsdienst zelfs. Onze eigen Makerspace biedt alle moderne mogelijkheden die er zijn.",
     "marker-size":"medium",
-    "marker-color":"#7dffb8",
-    "marker-symbol":"school",
+    "marker-color":"#f8a531",
+    "marker-symbol":"rocket",
     "website":"http://www.depopulier.nl",
     "adres":"Populierstraat 109, 2565 MK Den Haag"
   },
@@ -1348,7 +1348,7 @@ var geojson = [{
     "title":"Permanent Future Lab Strijp-S Eindhoven - The world of technology at your fingertips",
     "description":"Permanent Future Lab (#PFLab) is een openbare voorziening. Werkelijk iedereen jong en oud kan bij ons op Strijp-S in Eindhoven kennis maken met nieuwe hoogwaardige technologische ontwikkelingen. Kostenloos. Onze vrijwilligers laten je 'kijken met je handen'.",
     "marker-size":"medium",
-    "marker-color":"#f86767",
+    "marker-color":"#f8a531",
     "marker-symbol":"rocket",
     "website":"https://pflab-strijps.org",
     "adres":"Torenallee 24, 5617 BD Eindhoven"
@@ -1365,8 +1365,8 @@ var geojson = [{
     "title":"Studio Babel",
     "description":"Creatief programmeren, design thinking, 3D printen, workshops, Rijksstudio remix, design met kinderen, video & animatie, robots bouwen, MaKey MaKey game hacks, onderzoek & ontwerpen. Leren door te maken.",
     "marker-size":"medium",
-    "marker-color":"#69d2f7",
-    "marker-symbol":"hairdresser",
+    "marker-color":"#f8a531",
+    "marker-symbol":"rocket",
     "website":"http://studiobabel.nl",
     "adres":"Derde Kostverlorenkade 35, 1054 TS Amsterdam"
   },
@@ -1382,8 +1382,8 @@ var geojson = [{
     "title":"Demian Geerlings",
     "description":"workshopbegeleider, animatiefilmer (animatie met objecten, jezelf of klei), illustrator (digitaal tekenen, strip, cartoon, tekenen met licht, ontwerpen in 3D Blender (ook voor evt. 3Dprint)), muzikant (beats maken, een lied componeren, muziekinstrument maken), uitzoeker/uitvinder",
     "marker-size":"medium",
-    "marker-color":"#69d2f7",
-    "marker-symbol":"hairdresser",
+    "marker-color":"#f8a531",
+    "marker-symbol":"rocket",
     "website":"http://www.demiangeerlings.nl",
     "adres":"Sint Pieterspark 12, 5014 PG Tilburg"
   },
@@ -1399,8 +1399,8 @@ var geojson = [{
     "title":"Grotius College",
     "description":"Wij zijn bezig met het opzetten van CreatorsLab. Een plek waar leerlingen makers kunnen worden.",
     "marker-size":"medium",
-    "marker-color":"#7dffb8",
-    "marker-symbol":"school",
+    "marker-color":"#f8a531",
+    "marker-symbol":"rocket",
     "website":"http://www.grotiuscollege.nl",
     "adres":"Juniusstraat 8, 2625 XZ Delft"
   },
@@ -1416,7 +1416,7 @@ var geojson = [{
     "title":"Het Nieuwe Instituut - Open Atelier",
     "description":"Onderzoekt de relatie tussen technologie en het lichaam. Jonge makers bedenken hier slimme oplossingen voor (minder) alledaagse problemen. In het atelier wordt er gelezen, getekend, gemeten, gespeeld, bedacht en gemaakt. Als innovatieve uitvinder valt hier van alles te onderzoeken.",
     "marker-size":"medium",
-    "marker-color":"#f86767",
+    "marker-color":"#f8a531",
     "marker-symbol":"rocket",
     "website":"educatie.hetnieuweinstituut.nl",
     "adres":"Museumpark 25, 3015 CB Rotterdam"
@@ -1433,8 +1433,8 @@ var geojson = [{
     "title":"Berto Aussems",
     "description":"Afgelopen 5 jaar heb ik als individuele maker via Instructables en Make  18 'stap voor stap maak projecten' gepubliceerd. Op YouTube trokken mijn instructie video's meer dan 1.5 miljoen kijkers.",
     "marker-size":"medium",
-    "marker-color":"#69d2f7",
-    "marker-symbol":"hairdresser",
+    "marker-color":"#f8a531",
+    "marker-symbol":"rocket",
     "website":"www.safarana.com",
     "adres":"Carl Smulderssingel 42  6217GD Maastricht"
   },
@@ -1450,7 +1450,7 @@ var geojson = [{
     "title":"FabLab Bieb Hilversum",
     "description":"Bij FabLab Bieb Hilversum kan iedereen terecht die interesse heeft in maken of wil leren maken. We hebben voor scholen een groot aanbod van educatieve programma's vanaf groep 4 t/m 6 VWO. Ook voor individuele personen organiseren we verschillende maak activiteiten.",
     "marker-size":"medium",
-    "marker-color":"#f86767",
+    "marker-color":"#f8a531",
     "marker-symbol":"rocket",
     "website":"http://www.bibliotheekhilversum.nl/fablab.html",
     "adres":"'s Gravelandseweg 55 1217 EH Hilversum"
@@ -1467,7 +1467,7 @@ var geojson = [{
     "title":"JackLab",
     "description":"Het JackLab is het fabricage laboratorium van de Bibliotheek Assen. Bij het JackLab kun je diverse workshops volgen of met je hele klas op bezoek komen. We hebben 3D printers, een lasersnijder, een snijplotter, little bits, lego we.do, codebugs en nog veel meer!",
     "marker-size":"medium",
-    "marker-color":"#f86767",
+    "marker-color":"#f8a531",
     "marker-symbol":"rocket",
     "website":"https://www.bibliotheekassen.nl/welkomjack",
     "adres":"Weiersstraat 1C, 9401 ET, Assen"
@@ -1477,42 +1477,62 @@ var geojson = [{
       "type":"Point"
     }
 },
-{  
+{
    "type":"Feature",
-   "properties":{  
+   "properties":{
       "id":"marker-ijo1qpiw0",
       "title":"Tech Playgrounds",
       "description":"In Tech Playgrounds kan jeugd van 7-27 jaar samen met tech vrijwilligers en jeugdwerkers naschools non-formeel kan bouwen, programmeren en maken. Deelname kost een euro per keer. Doelgroep zijn intrinsiek gemotiveerde techies, we zijn al 12 dagdelen in evenzoveel wijken open.",
       "marker-size":"medium",
-      "marker-color":"#f86767",
+      "marker-color":"#f8a531",
       "marker-symbol":"rocket",
       "website":"http://www.techplaygrounds.nl",
       "adres":"Verschillende locaties, omgeving Eindhoven en Waalre"
    },
-   "geometry":{  
-      "coordinates":[  
+   "geometry":{
+      "coordinates":[
          5.480492,
          51.437335
       ],
       "type":"Point"
    }
 },
-{  
+{
    "type":"Feature",
-   "properties":{  
+   "properties":{
       "id":"marker-ijo1qpiw0",
       "title":"Doodle3D",
       "description":"Bij Doodle3D maken we software waarmee je zelf 3D ontwerper kunt zijn! Je tekent iets in 2D, transformeert het naar 3D en print het vervolgens op je 3D-printer! Simpel, leuk en leerzaam! Probeer het gratis uit op onze website.",
       "marker-size":"medium",
-      "marker-color":"#f86767",
+      "marker-color":"#f8a531",
       "marker-symbol":"rocket",
       "website":"http://www.doodle3d.com",
       "adres":"Europalaan 2, 3526 KS Utrecht, Netherlands"
    },
-   "geometry":{  
-      "coordinates":[  
-         5.106771,  
+   "geometry":{
+      "coordinates":[
+         5.106771,
          52.075663
+      ],
+      "type":"Point"
+   }
+},
+{
+   "type":"Feature",
+   "properties":{
+      "id":"marker-ijo1qpiw0",
+      "title":"Future Design",
+      "description":"Games, apps en mediakunst. Alles wordt ontworpen en gemaakt met nieuwe technologie. Ontdek in de cursus wat er schuil gaat achter het beeldscherm. Leer de beginselen van programmeren, hoe je de GoTo-robot jouw design laat tekenen en zet je ideeën om naar een interactief eindwerk!",
+      "marker-size":"medium",
+      "marker-color":"#f8a531",
+      "marker-symbol":"rocket",
+      "website":"https://www.decultuurschool.nl/product/future-design/",
+      "adres":"Overblaak 58, Rotterdam"
+   },
+   "geometry":{
+      "coordinates":[
+         4.490688,
+         51.920211
       ],
       "type":"Point"
    }
