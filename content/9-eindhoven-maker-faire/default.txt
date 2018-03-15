@@ -1,0 +1,29 @@
+Heroimage: mf_logo.jpg
+
+----
+
+Imagefit: 1
+
+----
+
+Title: Eindhoven Maker Faire
+
+----
+
+Menu: 0
+
+----
+
+Author: 
+
+----
+
+Created: 
+
+----
+
+Intro: Eindhoven Maker Faire
+
+----
+
+Text: (link: http://www.eindhovenmakerfaire.nl text:Lees meer)

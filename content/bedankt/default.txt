@@ -1,0 +1,29 @@
+Heroimage: 
+
+----
+
+Imagefit: 0
+
+----
+
+Title: Bedankt
+
+----
+
+Menu: 0
+
+----
+
+Author: 
+
+----
+
+Created: 
+
+----
+
+Intro: Bedankt voor je mailtje
+
+----
+
+Text: Bla

@@ -3,21 +3,18 @@ return function($site, $pages, $page) {
   $alert = null;
   if(get('submit')) {
     $data = array(
-      'name'  => get('name'),
-      'email' => get('email'),
-      'type' => get('type'),
+      'activiteit'  => get('activiteit'),
+      'datum' => get('datum'),
       'adres' => get('adres'),
+      'email' => get('email'),
       'website' => get('website'),
       'bericht' => get('bericht'),
-      'datum' => get('datum')
     );
     $rules = array(
-      'name'  => array('required'),
       'email' => array('required', 'email')
     );
     $messages = array(
-      'name'  => 'Please enter a valid name',
-      'email' => 'Please enter a valid email address'
+      'email' => 'Geef a.u.b. een geldig e-mail adres op'
     );
     // some of the data is invalid
     if($invalid = invalid($data, $rules, $messages)) {
@@ -37,7 +34,7 @@ return function($site, $pages, $page) {
       // try to send it and redirect to the
       // thank you page if it worked
       if($email->send()) {
-        go('agenda-maker-education/bedankt');
+        go('bedankt');
       // add the error to the alert list if it failed
       } else {
         $alert = array($email->error());

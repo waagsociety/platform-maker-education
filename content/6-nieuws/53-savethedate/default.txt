@@ -1,0 +1,41 @@
+Heroimage: flnl2018-logo2-8000.png
+
+----
+
+Imagefit: 1
+
+----
+
+Title: Groot maakfestival voor het onderwijs in Eindhoven
+
+----
+
+Menu: 0
+
+----
+
+Author: 
+
+----
+
+Created: 2018-03-15
+
+----
+
+Intro: Het grootste landelijke maakfestival van Nederland komt eraan. MakerEducation.nl & Maker Faire Eindhoven presenteren van  28 t/m 30 september het beste uit de maakindustrie en het maakonderwijs: van doe-het-zelf-uitvindingen tot nieuwe technologie en van beginnend maker tot professional. Iedereen die wil leren door te maken is welkom.
+
+----
+
+Text: 
+
+Het festival wordt op vrijdag 28 september afgetrapt met de eerste Nederlandse Fablearn-conferentie voor en door het 
+onderwijs. Speciaal voor leraren, bibliotheekprofessionals, bestuurders, makers en wetenschappers. Hier komen sleutelfiguren uit het onderwijs, beleid en wetenschap samen om te leren, presenteren en discussiëren over maakonderwijs, digitale fabricage, de makerbeweging, en nieuwe leermiddelen.
+Het onderwijsprogramma wordt verzorgd door MakerEducation.nl. Voorafgaand aan het evenement wordt door heel Nederland een Maakchallenge uitgezet op scholen (PO en VO), waarvan de resultaten onthuld worden tijdens de Maker Faire.
+Maker Faire Eindhoven is een gezinsvriendelijk festival dat de afgelopen jaren door meer dan 10.000 mensen bezocht werd. Tijdens dit festival staan uitvinding, creativiteit en vindingrijkheid centraal. Een viering van de maker movement. 
+Je kunt er aan de slag met 3D-printers, robots maken en besturen, upcycling, voedsel maken, hacken, installaties bouwen en deelnemen aan workshops, masterclasses en ontmoetingen. Van entertainment tot installaties, alles is zelfgemaakt.
+Wil je op de hoogte blijven van het onderwijsprogramma en ticketverkoop? 
+
+(link::http://eepurl.com/dm171D text:Meld je aan)
+
+Over Makereducation.nl
+Makereducation.nl stimuleert leren door te maken.

@@ -1,0 +1,29 @@
+Heroimage: question.svg
+
+----
+
+Imagefit: 1
+
+----
+
+Title: Doe mee met de Maakchallenge, thuis of op school
+
+----
+
+Menu: 1
+
+----
+
+Author: 
+
+----
+
+Created: 
+
+----
+
+Intro: In aanloop naar de onderwijsconferentie met Fablearn op vrijdag 28 september, organiseren we Maakchallenges door heel Nederland. We willen zoveel mogelijk kinderen, thuis of op school, stimuleren om lekker te gaan experimenteren, onderzoeken en te maken
+
+----
+
+Text: De Maakchallenge is gebaseerd op de ‘Rube Goldberg machine1’, vernoemd naar de Amerikaanse cartoonist Rube Goldberg en de instructieboekjes worden verzorgd door......

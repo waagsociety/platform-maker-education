@@ -21,7 +21,7 @@ echo "<script type=\"text/javascript\">";
     				"url" => $item->url(),
     			    "marker-symbol" => "rocket",
     			    "marker-size" => "medium",
-    			    "marker-color" => "#f8a531"
+    			    "marker-color" => "#f6a500"
     			);
     			$geometry = array(
     				"coordinates" => array($lon, $lat),

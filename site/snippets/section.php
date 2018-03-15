@@ -1,16 +1,15 @@
 <?php
-
   $classes = [
     "left",
     $section->layout(), // layout field specifying the width in cols
     $section->elementheight() // element height field either full or half height
   ];
   $section_classes = join($classes," ");
-  $background_url = $section->bgimage()->fullURL();
-  $logo_url = $section->logo()->fullURL();
+  $background_url = $section->bgimage()->bigThumbURL();
+  $logo_url = $section->logo()->thumbURL();
 ?>
 
-
+<!-- block section on home page -->
 <a href="<?php echo $section->link() ?>">
   <section class="<?php echo $section_classes ?>">
     <!-- if there is no background use text as background -->

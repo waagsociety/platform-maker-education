@@ -1,0 +1,49 @@
+Info: 
+
+----
+
+Caption: Doe mee aan de *Maakchallenge*
+
+----
+
+Icon: 
+
+----
+
+Imagefit: 1
+
+----
+
+Link: challenge
+
+----
+
+Layout: four-col
+
+----
+
+Elementheight: half-height
+
+----
+
+Border: 
+
+----
+
+Title: Challenge
+
+----
+
+Image: 
+
+----
+
+Bgimage: question.svg
+
+----
+
+Logo: 
+
+----
+
+Logostyle: normal

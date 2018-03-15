@@ -1,0 +1,61 @@
+Icon: banner.svg
+
+----
+
+Layout: four-col
+
+----
+
+Elementheight: half-height
+
+----
+
+Voucherform: 1
+
+----
+
+Iconfit: 1
+
+----
+
+Title: Vraag een Fablab voucher aan
+
+----
+
+Border: 
+
+----
+
+Heroimage: voucher.svg
+
+----
+
+Videolink: 
+
+----
+
+Subtitle: 
+
+----
+
+Intro: Bla bla
+
+----
+
+Text: Bla bla
+
+----
+
+Imagefit: 1
+
+----
+
+Menu: 1
+
+----
+
+Author: 
+
+----
+
+Created: 

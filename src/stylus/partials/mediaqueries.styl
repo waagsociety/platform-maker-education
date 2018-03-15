@@ -29,17 +29,21 @@
     width 100%
     left 0
     top 0
-    padding 100px 30px
-    font-size 1.5em
+    padding 40px 30px
+    font-size 1.25em
   .contact
-    .input_anders
+    .input-anders
       width 100%
     .radio-block
       width 100%
+      label
+        line-height 1em
     input,
     label
       font-size .875em
   .main.home
+    section.half-height:first-of-type
+      height 40vh
     div.middle-bar
       flex-direction column
   .main.agenda
@@ -57,9 +61,20 @@
             width auto
         .info-right
           margin-left 0px
+  .form-errors
+    div.alert
+      width 100%
+      padding 20px 0px
+  .form
+    width 100%
+    padding 20px 0px
+    .radio-block
+      width 100%
 
 /* from here only one col */
 @media only screen and (max-width : 600px)
+  h1
+    font-size 2em
   .main.agenda
     section
       .box
@@ -68,6 +83,8 @@
           .image
             height 100px
             width 100%
+          .short-info
+            width 100%
   .main.news
     section
       .box
@@ -75,7 +92,18 @@
         .image
           height 150px
           width 100%
+        .short-info
+          width 100%
 
 @media only screen and (max-width : 400px)
   section.sjaak
     flex-direction column-reverse
+  .main.home
+    section
+      div.box.tagline
+        font-size 1.25em
+      div.box
+        div.section-bar
+          div.text-container
+            p
+              font-size 1em

@@ -5,6 +5,7 @@ fields:
   heroimage: heroimage
   imagefit: imagefit
   title: title
+  menu: menu
   author:
     label: Author
     type: text
@@ -15,5 +16,3 @@ fields:
     required: false
   intro: intro
   text: text
-  voucherform: voucherform
-  border: border

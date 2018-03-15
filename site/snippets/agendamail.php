@@ -3,13 +3,13 @@ Hey,
 Er is een nieuwe agenda aanvraag:
 
 ----
-Activiteit: <?php echo $name ?>
-
-----
-Email: <?php echo $email ?>
+Activiteit: <?php echo $activiteit ?>
 
 ----
 datum: <?php echo $datum ?>
+
+----
+Email: <?php echo $email ?>
 
 ----
 Adres: <?php echo $adres ?>

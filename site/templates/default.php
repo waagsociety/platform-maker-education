@@ -1,5 +1,6 @@
 <?php snippet('header') ?>
   <main class="main news-item">
+    <?php snippet('formerrors') ?>
     <?php snippet('hero', array("fit" => $page->imagefit()->int())) ?>
     <section class="content" style="">
       <h1 style="font-weight:500;"><?php echo $page->title()->html() ?></h1>
@@ -14,5 +15,11 @@
       <?php echo $page->intro()->kirbytext() ?>
       <?php echo $page->text()->kirbytext() ?>
     </section>
+    <?php if($page->id() == "voucher"): ?>
+      <?php snippet('voucherform') ?>
+    <?php endif ?>
+    <?php if($page->id() == "contact"): ?>
+      <?php snippet('contactform') ?>
+    <?php endif ?>
   </main>
 <?php snippet('footer') ?>

@@ -21,19 +21,19 @@
         <?php echo $date_string; ?>
       </div>
     </div>
-    <div class="info-right" style="flex-grow:1;width:100%;display:flex;">
-      <div class="short-info" style="width:66%;">
-        <h3><?php echo $section->title() ?></h3>
-        <p>
-          <?php echo $section->intro() ?>
-          <br><br>
-          <a href="<?php echo $link ?>" target="<?php echo $target ?>">
-            <span style="white-space:no-wrap;display:inline-block;color:#f8a531;font-weight:500;">(Lees verder...)</span>
-          </a>
-        </p>
+    <a href="<?php echo $link ?>" target="<?php echo $target ?>" style="color:black;">
+      <div class="info-right" style="flex-grow:1;width:100%;display:flex;">
+        <div class="short-info">
+          <h3><?php echo $section->title() ?></h3>
+          <p>
+            <?php echo $section->intro() ?>
+            <br><br>
+            <span style="white-space:no-wrap;display:inline-block;color:#f6a500;;font-weight:500;">(Lees verder...)</span>
+          </p>
+        </div>
+        <div class="image <?php echo ($section->imagefit()->int() == 1 ? "fit" : "cover")?>" style="background-image:url(<?php echo $section->heroimage()->thumbURL(); ?>);">
+        </div>
       </div>
-      <div class="image <?php echo ($section->imagefit()->int() == 1 ? "fit" : "cover")?>" style="background-image:url(<?php echo $section->heroimage()->thumbURL(); ?>);">
-      </div>
-    </div>
+    </a>
   </div>
 </section>

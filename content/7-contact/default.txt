@@ -1,0 +1,29 @@
+Heroimage: envelope.svg
+
+----
+
+Imagefit: 1
+
+----
+
+Title: Contact
+
+----
+
+Intro: Contact
+
+----
+
+Text: Contact
+
+----
+
+Menu: 1
+
+----
+
+Author: 
+
+----
+
+Created: 

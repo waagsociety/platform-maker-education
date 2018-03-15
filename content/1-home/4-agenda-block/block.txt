@@ -1,0 +1,45 @@
+Bgimage: calendar.svg
+
+----
+
+Layout: two-col
+
+----
+
+Elementheight: half-height
+
+----
+
+Voucherform: 1
+
+----
+
+Imagefit: 1
+
+----
+
+Info: 
+
+----
+
+Caption: Bezoek een *Maakfestival* in de buurt
+
+----
+
+Link: agenda
+
+----
+
+Title: Agenda
+
+----
+
+Border: 
+
+----
+
+Logo: 
+
+----
+
+Logostyle: normal

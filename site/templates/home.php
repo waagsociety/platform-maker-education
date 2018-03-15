@@ -1,14 +1,8 @@
+
+
 <?php snippet('header') ?>
 
   <main class="main home">
-
-    <!--
-    <section class="left two-col half-height tagline">
-      <div class="box" style="border:none;display:flex;align-items:center;justify-content:center;">
-        <p style="text-align:center;"><em>Makereducation.nl</em> wil technologie van de 21e eeuw een plaats geven in de onderwijsketen en zet maakfestivals en fablabs door het hele land op de kaart.
-      </div>
-    </section>
-  -->
 
     <!-- section blocks to "main menu" to pages -->
     <?php foreach($page->children()->visible() as $section): ?>
@@ -16,9 +10,9 @@
     <?php endforeach ?>
 
     <!-- blogs and mailchimp -->
-    <div class="one-col middle-bar" style="">
-    <?php snippet('blogs') ?>
-    <?php snippet('chimp') ?>
+    <div class="middle-bar left one-col" style="">
+      <?php snippet('blogs') ?>
+      <?php snippet('chimp') ?>
     </div>
 
     <!-- map -->
@@ -32,9 +26,6 @@
     <script src="//assets.juicer.io/embed.js" type="text/javascript"></script>
     <link href="//assets.juicer.io/embed.css" media="all" rel="stylesheet" type="text/css" />
     <ul class="juicer-feed" style="width:100%;" data-feed-id="watmaakjij" data-pages="1" data-per="5" data-columns="5"></ul>
-
-
-
 
   </main>
 

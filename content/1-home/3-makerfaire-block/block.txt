@@ -1,0 +1,37 @@
+Link: eindhoven-maker-faire
+
+----
+
+Title: Maker Faire
+
+----
+
+Layout: two-col
+
+----
+
+Elementheight: half-height
+
+----
+
+Imagefit: 0
+
+----
+
+Caption: Makerfaire *29-30 september*
+
+----
+
+Border: 
+
+----
+
+Logo: logoemfuitkader.png
+
+----
+
+Bgimage: tongue-boy.jpg
+
+----
+
+Logostyle: normal
