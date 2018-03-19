@@ -76,7 +76,7 @@ Location: Blaricum
 
 ----
 
-Customdate: Eind 2018
+Customdate: Eind<br>2018
 
 ----
 

@@ -4,21 +4,11 @@ Title: Over Platform Makereducation.nl
 
 Text: 
 
-Platform Maker Education brengt het maakonderwijs in Nederland de klas in. Dat doen we enerzijds door scholen in staat te stellen kennis te maken met Maker Education via vouchers.  Tegelijk brengen we scholen bijeen om ervaringen te delen en activiteiten te verdiepen. Ook onderzoeken we de meerwaarde van maakonderwijs voor het (techniek)onderwijs en voor de ontwikkeling van creativiteit. 
+- bla
+- bla
 
-Op dit online platform delen we activiteiten op het gebied van Maker Education en stellen we lesmateriaal beschikbaar. Je kunt hier bijvoorbeeld inspiratie op doen voor maakprojecten in de klas, of een voucher aanvragen waarmee je kennis kunt maken met maakonderwijs in samenwerking met een makerspace of expert in jouw regio.
-
-Platform Maker Education geeft een impuls aan de bottom-up beweging van Maker Education in Nederland. Door het grassroots karakter van de beweging is het lastig aan te geven waar en wanneer het precies is ontstaan. In Nederland is een veelheid aan initiatieven aan te wijzen die zich met maakonderwijs bezighouden. Kenmerkend is de interessante cross-over tussen de educatieve en de creatieve sector. Platform Maker Education is er voor en door scholen, makers en makerspaces in Nederland die een passie hebben voor leren door te maken, creativiteit en technologie.
-
-Initiatiefnemers van Platform Maker Education zijn Arjan van de Meij van De Populier in Den Haag, Jeroen de Boer van Bibliotheekservice Fryslân/Stichting FabLab Benelux en het mobiele BibliotheekFabLab FryskLab en Karien Vermeulen van Waag Society, FabLab Amsterdam. Zij timmeren al jaren aan de weg met onder andere projecten en programma’s zoals FabKlas, de website (link: http://makered.nl text: www.makered.nl), het mobiele FabLab van (link: http://www.frysklab.nl text: Frysklab), (link: http://fabschool.nl text: FabSchool) en meer recentelijk het (link: http://waag.org/nl/project/teacher-maker-camp text: Teacher Maker Camp). Zij werken nauw samen met scholen, makers en makerspaces in Nederland om maakonderwijs te verbreden en te verdiepen en ieder kind de kans te geven uitvinder te zijn.
-
-De activiteiten van Platform Maker Education worden gefinancierd door het ministerie  van Onderwijs, Cultuur en Wetenschap via het actieplan Kiezen voor Technologie van Platform Bèta Techniek.
-
-**Wat is Maker Education?**
-
-Maker Education betekent leren (door te) maken. Het is een creatieve manier om kinderen in staat te stellen uitvinders te worden; en stimuleert hoofd, handen en hart. In de afgelopen jaren zijn allerlei moderne technologieën goedkoop en makkelijker beschikbaar geworden. Denk daarbij aan 3D-printers en elektronica, waarmee kinderen op een laagdrempelige manier kunnen ontwerpen én maken. Leerlingen kunnen deze gereedschappen gebruiken om hun creativiteit te laten ontluiken.
-
-Arjan van der Meij: "De afstand tussen een idee en een product is heel klein geworden. Leerlingen die op deze manier 'maker' worden leren ongemerkt en worden uitvinders. En onze maatschappij zit te wachten op uitvinders. Op deze manier kunnen we de traditie van Nederland als 'maak- en ontwerpland' weer waar gaan maken."
+* bla
+* bla
 
 ----
 

@@ -1,6 +1,6 @@
   	<footer>
       <div class="right">
-        Made with &#10084; by <a href="http://www.waag.org">Waag Society</a>
+        Made with ❤︎ by <a href="http://www.waag.org">Waag Society</a>
       </div>
   	</footer>
     <?php echo js('assets/js/output.min.js') ?>
