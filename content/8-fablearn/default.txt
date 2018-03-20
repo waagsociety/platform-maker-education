@@ -1,8 +1,8 @@
-Heroimage: flnl2018-logo2-8000.png
+Heroimage: fablearn-makereducation.jpg
 
 ----
 
-Imagefit: 1
+Imagefit: 0
 
 ----
 
@@ -27,6 +27,8 @@ Intro: Vrijdag 29 september organiseert MakerEducation.nl de eerste Nederlandse 
 ----
 
 Text: 
+
+(image: fablearn-logo.svg)
 
 Laat je inspireren door presentaties van prominente sprekers en demonstraties van creatieve makers, ga zelf aan de slag tijdens een van de vele masterclasses, neem deel aan expert meetings of ga in gesprek en aan de slag op de Maakmarkt. We bieden inspiratie én praktische handvatten op het gebied van Maker skills, Maker mindset, Maker tools & technologies, Facilitating learning by making. 
 

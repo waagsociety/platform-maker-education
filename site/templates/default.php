@@ -16,7 +16,7 @@
       <?php echo $page->text()->kirbytext() ?>
     </section>
     <?php if($page->id() == "voucher"): ?>
-      <?php snippet('voucherform') ?>
+      <?php //snippet('voucherform') ?>
     <?php endif ?>
     <?php if($page->id() == "contact"): ?>
       <?php snippet('contactform') ?>

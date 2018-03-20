@@ -10,7 +10,7 @@ Caption: Fablearn *28 september*
 
 ----
 
-Bgimage: hello-robot.jpg
+Bgimage: fablearn-makereducation.jpg
 
 ----
 
@@ -38,7 +38,7 @@ Imagefit: 0
 
 ----
 
-Logo: flnl2018-logo2-8000.png
+Logo: fablearn-logo-simple.svg
 
 ----
 

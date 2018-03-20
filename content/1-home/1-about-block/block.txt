@@ -2,11 +2,11 @@ Info:
 
 ----
 
-Title: About
+Title: Over
 
 ----
 
-Caption: *MakerEducation.nl* stimuleert leren door te maken.  Eind september organiseren we een driedaags maakfestival. Kom  naar de *Fablearn* maakonderwijs<wbr>conferentie en  de *Eindhoven Maker Faire*.
+Caption: Eind september organiseren we een driedaags maakfestival. Kom  naar de *Fablearn* maakonderwijs<wbr>conferentie en  *Maker Faire Eindhoven*.
 
 ----
 
@@ -26,7 +26,7 @@ Logostyle: normal
 
 ----
 
-Link: wat-is-maker-education
+Link: over-makereducation
 
 ----
 

@@ -18,7 +18,7 @@ Imagefit: 0
 
 ----
 
-Caption: Makerfaire *29-30 september*
+Caption: Maker Faire *29-30 september*
 
 ----
 
@@ -26,11 +26,11 @@ Border:
 
 ----
 
-Logo: logoemfuitkader.png
+Logo: eindhoven_mf_logo.svg
 
 ----
 
-Bgimage: tongue-boy.jpg
+Bgimage: makerfaireeindhoven-kindelectronica.jpg
 
 ----
 

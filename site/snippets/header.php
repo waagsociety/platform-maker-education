@@ -35,7 +35,7 @@
 <body class="m-scene">
   <header>
     <a href="<?php echo url(); ?>" style="display:flex;flex-direction:column;">
-      <img class="main-logo" src="<?php echo url("assets/images/maker-education-logo.svg"); ?>" style="width:20%" />
+      <img class="main-logo" src="<?php echo url("assets/images/logo-lerendoortemaken.svg"); ?>" style="width:20%;margin-left:40px;" />
       <!--<span style="color:black;">Leren door te maken</span>-->
     </a>
   </header>

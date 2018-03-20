@@ -1,5 +1,5 @@
 <?php
-  $items = $pages->find('agenda')->children()->visible()->sortBy('date', 'desc');;
+  $items = $pages->find('agenda')->children()->visible()->sortBy('date', 'asc');;
 ?>
 
 <?php snippet('header') ?>

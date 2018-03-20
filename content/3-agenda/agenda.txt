@@ -6,7 +6,7 @@ Icon: calendar.svg
 
 ----
 
-Title: Maakagenda
+Title: Agenda
 
 ----
 
@@ -18,7 +18,7 @@ Subtitle: Een overzicht van de komende Maker Education events.
 
 ----
 
-Intro: Deze agenda geeft een overzicht van komende Maker Education events in Nederland.
+Intro: Nederland kent verschillende Maakfestivals, innovatie- en techniekfestivals die jaarlijks makers, bedrijven en het onderwijs samenbrengen. Deze evenementen kenmerken zich door kijken, meedoen, leren en plezier tegelijk.
 
 ----
 

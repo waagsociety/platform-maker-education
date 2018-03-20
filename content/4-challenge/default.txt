@@ -1,12 +1,12 @@
-Heroimage: question.svg
+Heroimage: 4-kettingreactie.jpg
 
 ----
 
-Imagefit: 1
+Imagefit: 0
 
 ----
 
-Title: Doe mee met de Maakchallenge, thuis of op school
+Title: Maakchallenge
 
 ----
 
@@ -22,8 +22,43 @@ Created:
 
 ----
 
-Intro: In aanloop naar de onderwijsconferentie met Fablearn op vrijdag 28 september, organiseren we Maakchallenges door heel Nederland. We willen zoveel mogelijk kinderen, thuis of op school, stimuleren om lekker te gaan experimenteren, onderzoeken en te maken
+Intro: 
+
+In aanloop naar de onderwijsconferentie met Fablearn op vrijdag 28 september, organiseren we Maakchallenges door heel Nederland. We willen zoveel mogelijk kinderen, thuis of op school, stimuleren om lekker te gaan experimenteren, onderzoeken en te maken.
+
+(image: logo_maakchallenge.png)
 
 ----
 
-Text: De Maakchallenge is gebaseerd op de ‘Rube Goldberg machine1’, vernoemd naar de Amerikaanse cartoonist Rube Goldberg en de instructieboekjes worden verzorgd door......
+Text: 
+
+De Maakchallenge is gebaseerd op de ‘(link: https://nl.wikipedia.org/wiki/Rube_Goldbergmachine text: Rube Goldberg machine)’, , vernoemd naar de Amerikaanse cartoonist Rube Goldberg. Het is een complex apparaat dat een zeer eenvoudige opgave, soms onnodig langzaam, indirect en omstandig uitvoert. Daarbij worden verschillende delen (bijvoorbeeld conservenblikken, kogels en bindtouw, enz.) zo opgebouwd, dat ze een kettingreactie geven die uiteindelijk helemaal aan het eind zijn doel bereikt. Een geweldig  voorbeeld is de prachtige videoclip bij het nummer (link: https://www.youtube.com/watch?v=qybUFnY7Y8w text: ‘This too shall pass’) van OK Go.
+
+Kettingreacties maken is niet alleen heel leuk, maar bovendien ook behoorlijk leerzaam. Hoe zorg je ervoor dat de energie telkens wordt doorgegeven?  Onze Maakchallenge vindt plaats in een fysieke doos, waarin je  je  eigen kettingreactie kunt  bouwen. Dat kan op school, op een Fablab in de buurt, in de bibliotheek. Met wie je maar wilt. 
+
+*De uitdaging: Maak een kettingreactie in een grote doos (maat verhuisdoos). Kies zelf aanpak, thema en techniek. Begint bij A (links) en eindig bij B (rechts). Maak je kettingreactie zo lang mogelijk.*
+
+**Hoe werkt het?**
+Iedereen kan meedoen met de Maakchallenge. Kinderen kunnen in groepjes, individueel, thuis of op school met hun eigen kettingreactie aan de slag. Maar ook middelbare scholieren en studenten zijn welkom om mee te doen! Klassen kunnen de dozen stapelen en proberen te schakelen om zo een gezamenlijke kettingreactie te bouwen. 
+
+<br>
+
+<!-- 56.25 means aspect ratio 16:9 -->
+<div style="position: relative;padding-bottom: 56.25%;padding-top: 25px;height: 0;" style="position: relative;padding-bottom: 56.25%;padding-top: 25px;height: 0;">
+  <!-- Copy & Pasted from YouTube -->
+  <iframe style="position: absolute;top: 0;left: 0;width: 100%;height: 100%;" src="https://www.youtube.com/embed/vR9hi8js80k" frameborder="0" allowfullscreen>
+  </iframe>
+</div>
+<br><br>
+
+(image: maakchallenge-makers.jpg)
+
+<br>
+Binnenkort vind je hier vellen met kettingkaarten met verschillende technieken erop, om jouw kettingreactie mee te ontwerpen. Ook leggen we op de site de technieken uit en geven we voorbeelden. Alles van knikkers tot Arduino’s! 
+
+(image: kettingkaarten-ontwerpvel.png)
+
+De Maakchallenge is ontwikkeld door Per-Ivar Kloen en Astrid Poot.
+
+Maakchallenge is tot stand gekomen met subsidie van het Ministerie van OCW.
+De productie en distributie van het werkmateriaal worden verzorgd door…

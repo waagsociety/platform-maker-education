@@ -18,7 +18,7 @@ Iconfit: 1
 
 ----
 
-Title: Vraag een Fablab voucher aan
+Title: Vraag een voucher aan
 
 ----
 
@@ -26,7 +26,7 @@ Border:
 
 ----
 
-Heroimage: voucher.svg
+Heroimage: fabrication.jpg
 
 ----
 
@@ -38,15 +38,15 @@ Subtitle:
 
 ----
 
-Intro: Bla bla
+Intro: Docenten (teams) kunnen hier binnenkort intekenen op een workshop t.w.v. 500 euro ter verkenning van maakonderwijs. De workshop vindt plaats bij een lokaal FabLab. Er zijn 20 workshops beschikbaar verdeeld over 6 regio’s in Nederland. De workshop zijn deels gefinancierd door Conrad en het Ministerie van OC&W. De uitvoering ligt bij de Stichting FabLab Benelux.
 
 ----
 
-Text: Bla bla
+Text: 
 
 ----
 
-Imagefit: 1
+Imagefit: 0
 
 ----
 

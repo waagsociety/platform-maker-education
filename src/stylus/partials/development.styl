@@ -5,6 +5,13 @@ html,body
 
 
 .main.home
+	padding 0px 40px
+	.blocks-a
+		float left
+		width 100%
+	.blocks-b
+		float left
+		width 50%
 	section
 		color black
 		position relative
@@ -80,7 +87,7 @@ html,body
 					font-size 1.5em
 					font-weight 700
 		div.box.tagline
-			font-size 1.5em
+			font-size 1.75em
 			border none
 			display flex
 			align-items center
@@ -89,8 +96,9 @@ html,body
 				text-align center
 				cursor pointer
 				transition .2s ease-in-out
+				transform scale(0.95)
 				&:hover
-					transform scale(1.05)
+					transform scale(1.0)
 			em
 				color projectColor
 	div.middle-bar
@@ -107,8 +115,8 @@ html,body
 	flex-direction column
 	align-items center
 	section
-		max-width 900px
-		padding 0px homePadding
+		max-width maxContentWidth
+		padding 0px 40px
 		.box
 			.info-left
 				width 20%
@@ -134,6 +142,7 @@ html,body
 
 //news overview page
 .main.news
+	padding 0px 40px
 	display flex
 	flex-direction column
 	align-items center
@@ -187,10 +196,19 @@ html,body
 			justify-content space-between
 		p
 			margin 1em 0
+			em
+				font-style italic
+				color projectColor
 		p:nth-of-type(1)
 			font-size 1.5em
 			color projectColor
 			font-weight 500
+		ul
+			li
+				p:nth-of-type(1)
+					font-size 1em
+					color black
+					font-weight 400
 		img
 			width 100%
 	section.form-section
@@ -200,6 +218,11 @@ html,body
 section.form-errors
 	background #DA0812
 	width 100%
+
+.move-on-up
+	display inline
+	position relative
+	top 0px
 
 /*
 .text
@@ -274,6 +297,16 @@ footer
 		opacity .6
 	.st1
 		fill white
+
+.logo-bar
+	padding 20px 60px
+
+.partners
+	display flex
+	flex-wrap wrap
+	a
+		width 50%
+		color white
 
 .leaflet-popup-content
 	font-size 1.3em

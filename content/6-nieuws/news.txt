@@ -6,7 +6,7 @@ Icon:
 
 ----
 
-Title: Nieuws en blogs
+Title: Nieuws
 
 ----
 

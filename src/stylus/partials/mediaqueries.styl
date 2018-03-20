@@ -5,11 +5,16 @@
   .four-col
     width 50%
 
-/* from here only one col */
 @media only screen and (max-width : 1000px)
   section.tagline
     div.box
       font-size 2em
+  .main.home
+    .blocks-b
+      width 100%
+  .move-on-up
+  	top -100px
+
 
 /* from here only one col */
 @media only screen and (max-width : 800px)
@@ -67,6 +72,12 @@
     padding 20px 0px
     .radio-block
       width 100%
+  .move-on-up
+    position relative
+    top 0px
+  .main.agenda-item, .main.news-item
+    section
+      padding: 20px 60px;
 
 /* from here only one col */
 @media only screen and (max-width : 600px)
@@ -91,11 +102,19 @@
           width 100%
         .short-info
           width 100%
+  .partners
+    display flex
+    flex-direction column
+    a
+      width 100%
 
-@media only screen and (max-width : 400px)
+@media only screen and (max-width : 500px)
   section.sjaak
     flex-direction column-reverse
+
+@media only screen and (max-width : 400px)
   .main.home
+    padding 0px 20px
     section
       div.box.tagline
         font-size 1.25em
@@ -104,3 +123,5 @@
           div.text-container
             p
               font-size 1em
+  .logo-bar
+    padding 20px 40px

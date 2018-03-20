@@ -1,7 +1,8 @@
 <?php
   $classes = [
     "left",
-    $section->layout(), // layout field specifying the width in cols
+    $width,
+    //$section->layout(), // layout field specifying the width in cols
     $section->elementheight() // element height field either full or half height
   ];
   $section_classes = join($classes," ");

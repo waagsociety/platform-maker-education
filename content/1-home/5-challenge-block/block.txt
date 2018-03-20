@@ -2,7 +2,7 @@ Info:
 
 ----
 
-Caption: Doe mee aan de *Maakchallenge*
+Caption: Doe mee met de *Maakchallenge*
 
 ----
 
@@ -10,7 +10,7 @@ Icon:
 
 ----
 
-Imagefit: 1
+Imagefit: 0
 
 ----
 
@@ -18,7 +18,7 @@ Link: challenge
 
 ----
 
-Layout: four-col
+Layout: two-col
 
 ----
 
@@ -38,7 +38,7 @@ Image:
 
 ----
 
-Bgimage: question.svg
+Bgimage: 4-kettingreactie.jpg
 
 ----
 
