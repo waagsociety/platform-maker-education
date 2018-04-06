@@ -11,7 +11,7 @@
     <section class="content" style="">
       <h1 style="font-weight:500;"><?php echo $page->title()->html() ?></h1>
       <div class="info" style="display:flex;flex-direction:column;margin-bottom:1.5em;">
-        <div class="location" style="display:table;">Eindhoven</div>
+        <div class="location" style="display:table;"><?php echo $page->location() ?></div>
         <div class="date" style="display:table;margin-top:1.5em;border:5px transparent;font-weight:700;"><?php echo $date_string ?></div>
       </div>
       <?php echo $page->intro()->kirbytext() ?>

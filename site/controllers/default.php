@@ -17,6 +17,7 @@ function contact($site, $pages, $page) {
       'name'  => 'Geef a.u.b. een geldige naam op',
       'email' => 'Geef a.u.b. een geldig e-mail adres op'
     );
+    var_dump($data);
     // some of the data is invalid
     if($invalid = invalid($data, $rules, $messages)) {
       $alert = $invalid;
@@ -26,8 +27,8 @@ function contact($site, $pages, $page) {
       $body  = snippet('contactmail', $data, true);
       // build the email
       $email = email(array(
-        'to'      => 'lodewijk@waag.org',
-        'from'    => 'agenda@makereducation.nl',
+        'to'      => 'info@makereducation.nl',
+        'from'    => 'contact@makereducation.nl',
         'subject' => 'Contactformulier',
         'replyTo' => $data['email'],
         'body'    => $body
@@ -35,7 +36,7 @@ function contact($site, $pages, $page) {
       // try to send it and redirect to the
       // thank you page if it worked
       if($email->send()) {
-        go('bedankt');
+	go('bedankt');
       // add the error to the alert list if it failed
       } else {
         $alert = array($email->error());

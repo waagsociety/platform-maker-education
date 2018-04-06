@@ -1,7 +1,7 @@
 <section class="form-section">
 	<div class="form">
 		<h1>Aanmelden voor een voucher</h1>
-		<form>
+		<form method="post">
 			<h3 class="left full-width">Gegevens van de school</h3>
 			<div class="input_block left">
 				<input type="text" name="naam" placeholder="Naam School" required>

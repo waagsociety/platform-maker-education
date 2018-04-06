@@ -17,20 +17,35 @@ NEMO Science Museum
 Stichting Fablab Benelux
 Ultimaker
 Waag
+
+(link: http://www.fabklas.nl text: Fabklas)
+(link: http://www.frysklab.nl text: Frysklab)
+(link: http://www.han.nl text: Hogeschool Arnhem Nijmegen)
+(link: http://www.han.nl text: Hogeschool Arnhem Nijmegen)
+(link: http://www.hetlabrotterdam.nl text: Het Lab Rotterdam)
+(link: http://www.Lekkersamenklooien.nl text: Lekkersamenklooien.nl)
+(link: http://www.makerfestivaltwente.nl text: Maker Festival Twente)
+(link: http://www.amsterdammakerfestival.nl text: Maker Festival Amsterdam )
+(link: http://www.eindhovenmakerfaire.nl text: Maker Faire Eindhoven)
+(link: https://www.nemosciencemuseum.nl text: NEMO Science Museum)
+(link: https://www.fablab.nl text: Stichting Fablab Benelux)
+(link: https://www.ultimaker.com text: Ultimaker)
+(link: http://www.waag.org text: Waag)
+
   );*/
 
   $links = array(
-    "Fabklas" => 'http://www.waag.org',
-    "Frysklab" => 'http://www.waag.org',
-    "Hogeschool Arnhem Nijmegen" => 'http://www.waag.org',
-    "Het Lab Rotterdam" => 'http://www.waag.org',
-    "Lekkersamenklooien.nl" => 'http://www.waag.org',
-    "Maker Festival Twente" => 'http://www.waag.org',
-    "Maker Festival Amsterdam" => 'http://www.waag.org',
-    "Maker Faire Eindhoven" => 'http://www.waag.org',
-    "NEMO Science Museum" => 'http://www.waag.org',
-    "Stichting Fablab Benelux" => 'http://www.waag.org',
-    "Ultimaker" => 'http://www.waag.org',
+    "Fabklas" => 'http://www.fabklas.nl',
+    "Frysklab" => 'http://www.frysklab.nl',
+    "Hogeschool Arnhem Nijmegen" => 'http://www.han.nl',
+    "Het Lab Rotterdam" => 'http://www.hetlabrotterdam.nl',
+    "Lekkersamenklooien.nl" => 'http://www.lekkersamenklooien.nl',
+    "Maker Festival Twente" => 'http://www.makerfestivaltwente.nl',
+    "Maker Festival Amsterdam" => 'http://www.amsterdammakerfestival.nl',
+    "Maker Faire Eindhoven" => 'http://www.eindhovenmakerfaire.nl',
+    "NEMO Science Museum" => 'https://www.nemosciencemuseum.nl',
+    "Stichting Fablab Benelux" => 'https://www.fablab.nl',
+    "Ultimaker" => 'https://www.ultimaker.com',
     "Waag" => 'http://www.waag.org'
   );
 

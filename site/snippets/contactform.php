@@ -1,7 +1,7 @@
 <section class="form-section">
   <div class="form">
     <h2>Neem contact op met Makereducation.nl</h2>
-  	<form>
+  	<form method="post">
   		<div class="input_block left">
   			<input type="text" name="name" placeholder="Naam" required>
   		</div>
