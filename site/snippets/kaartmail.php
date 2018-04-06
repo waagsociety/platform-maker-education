@@ -3,7 +3,7 @@ Hey,
 Er is een nieuwe aanvraag om iemand op de kaart te zetten.
 
 ----
-Naam: <?php echo $name ?>
+Naam: <?php echo $naam ?>
 
 ----
 Contactpersoon: <?php echo $contactpersoon ?>

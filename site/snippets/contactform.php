@@ -3,7 +3,7 @@
     <h2>Neem contact op met Makereducation.nl</h2>
   	<form method="post">
   		<div class="input_block left">
-  			<input type="text" name="name" placeholder="Naam" required>
+  			<input type="text" name="naam" placeholder="Naam" required>
   		</div>
   		<div class="input_block left">
   			<input type="email" name="email" placeholder="E-mail adres" required>

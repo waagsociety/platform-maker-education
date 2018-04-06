@@ -19,7 +19,7 @@
       <?php //snippet('voucherform') ?>
     <?php endif ?>
     <?php if($page->id() == "kaart"): ?>
-      <?php snippet('contactform') ?>
+      <?php snippet('kaartform') ?>
     <?php endif ?>
     <?php if($page->id() == "contact"): ?>
       <?php snippet('contactform') ?>

@@ -3,7 +3,7 @@ Hallo,
 Iemand heeft het contactformulier op Makereducation.nl ingevuld.
 
 ----
-Afzender: <?php echo $name ?>
+Afzender: <?php echo $naam ?>
 
 ----
 Email: <?php echo $email ?>
