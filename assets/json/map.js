@@ -1536,4 +1536,44 @@ var geojson = [{
       ],
       "type":"Point"
    }
+},
+{
+   "type":"Feature",
+   "properties":{
+      "id":"marker-ijo1qpiw0",
+      "title":"CMD Makerspace Utrecht",
+      "description":"In lokaal 2.049 huist tegenwoordig een Makerspace waar iedereen kan werken met ‘Creative Technology’. Het lokaal kan 45 mensen plaats bieden en heeft een soort tweedeling: in het ‘lage’ deel met 4/5 parallelle tafels zullen reguliere CMD cursussen met 30 mensen geroosterd worden. Daarnaast zal er elke middag gewerkt kunnen worden met de apparatuur.",
+      "marker-size":"medium",
+      "marker-color":"#f8a531",
+      "marker-symbol":"rocket",
+      "website":"http://www.cmdutrecht.nl/makerspace/",
+      "adres":"Uithof, Utrecht - faculteit Natuur en Techniek"
+   },
+   "geometry":{
+      "coordinates":[
+         5.176568,
+         52.082704
+      ],
+      "type":"Point"
+   }
+},
+{
+   "type":"Feature",
+   "properties":{
+      "id":"marker-ijo1qpiw0",
+      "title":"MakerSpace Parkstad",
+      "description":"Elke woensdagmiddag van 2 tot 4 kun je bij MakerSpace Parkstad terecht om te leren 3D ontwerpen, 3D printen, games programmeren met Scratch, solderen of iets met elektronica te maken met Arduino, Raspberry Pi, Micro:Bits, MakeyMakey of LittleBits.",
+      "marker-size":"medium",
+      "marker-color":"#f8a531",
+      "marker-symbol":"rocket",
+      "website":"https://makerklas.nl/makerspace",
+      "adres":"Wiebachstraat 77A, Kerkrade"
+   },
+   "geometry":{
+      "coordinates":[
+         6.004754,
+         50.854435
+      ],
+      "type":"Point"
+   }
 }];

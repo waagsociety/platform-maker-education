@@ -1,0 +1,8 @@
+title: Challege
+pages:
+  template: default
+fields:
+  title: title
+  menu: menu
+  heroimage: heroimage
+  intro: intro

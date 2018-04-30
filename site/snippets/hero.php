@@ -1,5 +1,5 @@
 <!-- header is half width on home page, other pages full -->
-<section class="">
+<section>
   <?php if(!$page->heroimage()->empty()): ?>
   <div class="hero <?php echo ($fit == 1 ? "fit" : "cover")?>" style="background-image:url(<?php echo $page->heroimage()->fullURL(); ?>);">
   </div>

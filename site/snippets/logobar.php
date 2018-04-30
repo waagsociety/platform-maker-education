@@ -46,7 +46,8 @@ Waag
     "NEMO Science Museum" => 'https://www.nemosciencemuseum.nl',
     "Stichting Fablab Benelux" => 'https://www.fablab.nl',
     "Ultimaker" => 'https://www.ultimaker.com',
-    "Waag" => 'http://www.waag.org'
+    "Waag" => 'https://www.waag.org',
+    "Hogeschool Rotterdam, Kenniscentrum Creating 010" => 'https://www.hr.nl/creating010 '
   );
 
 /*  Waag Society

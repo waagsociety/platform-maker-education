@@ -167,8 +167,14 @@ html,body
 		background-position center
 		background-repeat no-repeat
 		background-size contain
+	.challenge
+		.image
+			width 50%
 	.image.cover
 		background-size cover
+	.box
+		p
+			min-height 150px
 
 //hero
 .hero
@@ -209,8 +215,23 @@ html,body
 					font-size 1em
 					color black
 					font-weight 400
-		img
-			width 100%
+		figure
+			img
+				margin-top 20px
+				margin-bottom 20px
+		figure.small
+			img
+				width 50%
+		figure.medium
+			img
+				width 75%
+		figure.full
+			img
+				width 100%
+		figure.center
+			img
+				margin 20px auto
+				display block
 	section.form-section
 		width 100%
 		background #522e90

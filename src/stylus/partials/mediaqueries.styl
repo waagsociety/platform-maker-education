@@ -13,7 +13,7 @@
     .blocks-b
       width 100%
   .move-on-up
-  	top -100px
+    top -100px
 
 
 /* from here only one col */
@@ -77,7 +77,12 @@
     top 0px
   .main.agenda-item, .main.news-item
     section
-      padding: 20px 60px;
+      padding: 20px 60px
+    section.content
+      figure.small, figure.medium
+        img
+          margin 20px auto
+          display block
 
 /* from here only one col */
 @media only screen and (max-width : 600px)
@@ -102,6 +107,8 @@
           width 100%
         .short-info
           width 100%
+        p
+           min-height 0px
   .partners
     display flex
     flex-direction column

@@ -1,4 +1,4 @@
-<section class="news-item one-col">
+<section class="news-item one-col <?php echo $page->slug() ?>">
   <a href="<?php echo $section->url() ?>" target="_self" style="color:black;">
     <div class="box" style="display:flex;width:100%;">
       <div class="short-info" style="">
