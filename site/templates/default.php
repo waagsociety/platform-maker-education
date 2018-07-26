@@ -25,4 +25,7 @@
       <?php snippet('contactform') ?>
     <?php endif ?>
   </main>
+  <?php if(!$page->embed()->empty()): ?>
+    <?php echo $page->embed()->kirbytext() ?>
+  <?php endif ?>
 <?php snippet('footer') ?>

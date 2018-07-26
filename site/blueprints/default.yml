@@ -16,3 +16,7 @@ fields:
     required: false
   intro: intro
   text: text
+  embed:
+    label: Embed bottom
+    type: textarea
+    help: full width field for embedding something like Curator.io
